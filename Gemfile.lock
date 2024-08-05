@@ -22,8 +22,10 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.5)
     ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-mingw32)
     fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
@@ -31,6 +33,8 @@ GEM
     google-protobuf (3.22.0)
     google-protobuf (3.22.0-arm64-darwin)
     google-protobuf (3.22.0-x64-mingw-ucrt)
+    google-protobuf (3.22.0-x86-linux)
+    google-protobuf (3.22.0-x86_64-linux)
     hashery (2.1.2)
     html-proofer (5.0.8)
       addressable (~> 2.3)
@@ -63,9 +67,8 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-last-modified-at (1.3.0)
+    jekyll-last-modified-at (1.3.2)
       jekyll (>= 3.7, < 5.0)
-      posix-spawn (~> 0.3.9)
     jekyll-redirect-from (0.16.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -93,7 +96,15 @@ GEM
     nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
+    nokogiri (1.13.10-aarch64-linux)
+      racc (~> 1.4)
     nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.10-x64-mingw-ucrt)
+      racc (~> 1.4)
+    nokogiri (1.13.10-x86-linux)
+      racc (~> 1.4)
+    nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -103,7 +114,6 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    posix-spawn (0.3.15)
     public_suffix (5.0.1)
     racc (1.6.2)
     rainbow (3.1.1)
@@ -118,9 +128,19 @@ GEM
     sass-embedded (1.58.3)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
+    sass-embedded (1.58.3-aarch64-linux-gnu)
+      google-protobuf (~> 3.21)
+    sass-embedded (1.58.3-arm-linux-gnueabihf)
+      google-protobuf (~> 3.21)
     sass-embedded (1.58.3-arm64-darwin)
       google-protobuf (~> 3.21)
     sass-embedded (1.58.3-x64-mingw-ucrt)
+      google-protobuf (~> 3.21)
+    sass-embedded (1.58.3-x64-mingw32)
+      google-protobuf (~> 3.21)
+    sass-embedded (1.58.3-x86-linux-gnu)
+      google-protobuf (~> 3.21)
+    sass-embedded (1.58.3-x86_64-linux-gnu)
       google-protobuf (~> 3.21)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
@@ -135,6 +155,7 @@ GEM
 
 PLATFORMS
   aarch64-linux
+  arm64-darwin-23
   linux
   universal-darwin-21
   universal-darwin-22
@@ -147,7 +168,7 @@ DEPENDENCIES
   html-proofer (~> 5.0)
   jekyll (~> 4.3)
   jekyll-feed
-  jekyll-last-modified-at
+  jekyll-last-modified-at (~> 1.3.2)
   jekyll-redirect-from
   jekyll-sitemap
   jekyll-spaceship
