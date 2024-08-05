@@ -1,9 +1,10 @@
 ---
 ---
 
-# tasl-labDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+<!-- # We enhance Robotics and AI -->
+Welcome to the Trustworthy Autonomous Systems Laboratory at the University of California, Riverside!
 
-
+The ultimate goal of our research is to build trustworthy, interactive, and human-centered autonomous agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans and other agents, and explain their behaviors to build trust with humans so that they can benefit society in daily lives. To achieve this goal, we have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, machine learning, reinforcement learning, explainable AI, control theory, optimization, and computer vision. The lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/profile/jiachenl). Lab members consist of students with backgrounds in engineering, computer science, and mathematics.
 
 {% include section.html %}
 
