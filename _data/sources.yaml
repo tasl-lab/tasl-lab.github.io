@@ -27,4 +27,133 @@
     - Reinforcement Learning
     - Social Navigation
 
+- title: "Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation"
+  authors:
+    - 'J. Li\*'
+    - 'C. Hua\*'
+    - J. Park
+    - H. Ma
+    - V. Dax
+    - M. J. Kochenderfer
+  publisher: "submitted to IEEE Transactions on Robotics (T-RO), under review"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2401.12275
+  tags:
+    - Trajectory Prediction
+    - Relational Reasoning
+    - Reinforcement Learning
+    - Social Navigation
 
+- title: "CMP: Cooperative Motion Prediction with Multi-Agent Communication"
+  authors:
+    - 'Z. Wu\*'
+    - 'Y. Wang\*'
+    - 'Z. Wang\*'
+    - H. Ma
+    - Z. Li
+    - H. Qiu
+    - J. Li
+  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2403.17916
+  tags:
+    - Trajectory Prediction
+    - Multi-agent System
+
+- title: "Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting"
+  authors:
+    - J. Li
+    - J. Li
+    - S. Bae
+    - D. Isele
+  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2407.09475
+  tags:
+    - Trajectory Prediction
+    - Out-of-Distribution
+    - Generalization
+
+
+- title: "Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving"
+  authors:
+    - J. Li
+    - J. Li
+    - S. Bae
+    - D. Isele
+  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2407.09475
+  tags:
+    - Trajectory Prediction
+    - Out-of-Distribution
+    - Generalization
+
+- title: "Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments"
+  authors:
+    - "M. Arief*"
+    - "M. Timmerman*"
+    - J. Li
+    - D. Isele
+    - M. J. Kochenderfer
+  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2407.09475
+  tags:
+    - Meta Learning
+    - Autonomous Driving
+    - Reinforcement learning
+
+- title: "Integrating Graph and Recurrent Neural Networks for Spatiotemporal Reasoning"
+  authors:
+    - V. Dax
+    - Z. Li
+    - X. Zhang
+    - H. Shekhar
+    - J. Li
+    - M. J. Kochenderfer
+  publisher: "submitted to IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  # buttons:
+  #   - type: paper_link
+  #     text: arXiv
+  #     link: https://arxiv.org/abs/2407.09475
+  tags:
+    - Graph Neural Networks
+    - Spatialtemporal Reasoning
+
+- title: "The Generalization Gap of Locally Unordered GNNs"
+  authors:
+    - V. Dax
+    - J. Li
+    - M. J. Kochenderfer
+  publisher: "under review"
+  # date: 2024-01-01
+  # image: ./paper_images/SoNIC.png
+  # buttons:
+  #   - type: paper_link
+  #     text: arXiv
+  #     link: https://arxiv.org/abs/2407.09475
+  tags:
+    - Graph Neural Networks

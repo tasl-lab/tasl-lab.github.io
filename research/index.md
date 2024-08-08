@@ -13,6 +13,7 @@ The ultimate goal of our research is to build **trustworthy**, **interactive**, 
 
 ## Highlighted
 
+{% include citation.html lookup="Internal State Inference" style="rich" %}
 {% include citation.html lookup="SoNIC" style="rich" %}
 
 {% include section.html %}
