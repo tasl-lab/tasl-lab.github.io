@@ -738,3 +738,65 @@
   tags:
     - Motion Planning
     - Mobile Robot
+
+
+################ 2020 ################
+- title: "EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning"
+  authors:
+    - 'J. Li\*'
+    - 'F. Yang\*'
+    - M. Tomizuka
+    - C. Choi
+  publisher: 'Neural Information Processing Systems (NeurIPS 2020)'
+  date: 2020-10-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: NeurIPS
+      link: https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2003.13924
+    - type: paper_home
+      text: Website
+      link: https://jiachenli94.github.io/publications/Evolvegraph/
+  tags:
+    - Graph Neural Networks
+    - Relational Reasoning
+    - Trajectory Prediction
+
+- title: "Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving"
+  authors:
+    - J. Li
+    - W. Zhan
+    - Y. Hu
+    - M. Tomizuka
+  publisher: 'IEEE Transactions on Intelligent Transportation Systems'
+  date: 2020-08-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8789525
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1908.09031
+  tags:
+    - Autonomoud Driving
+    - Trajectory Prediction
+
+- title: "Social-WaGDAT: Interaction-Aware Trajectory Prediction via Wasserstein Graph Double-Attention Network"
+  authors:
+    - J. Li
+    - H. Ma
+    - Z. Zhang
+    - M. Tomizuka
+  publisher: 'arXiv preprint'
+  date: 2020-02-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2002.06241
+  tags:
+    - Trajectory Prediction
