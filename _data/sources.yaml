@@ -137,7 +137,7 @@
   # image: ./paper_images/SoNIC.png
   buttons:
     - type: paper_link
-      text: Arrive Soon
+      text: ComingSoon
       # link: https://arxiv.org/abs/2407.09475
   tags:
     - Graph Neural Networks
@@ -153,7 +153,7 @@
   # image: ./paper_images/SoNIC.png
   buttons:
     - type: paper_link
-      text: Arrive Soon
+      text: ComingSoon
       # link: https://arxiv.org/abs/2407.09475
   tags:
     - Graph Neural Networks
@@ -168,7 +168,7 @@
     - M. J. Kochenderfer
   publisher: "IEEE Transactions on Robotics (T-RO)"
   date: 2024-06-06
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/internal_state_inference_tro.png
   buttons:
     - type: paper_link
       text: arXiv
@@ -318,3 +318,109 @@
     - Meta Learning
     - Autonomous Driving
     - Reinforcement Learning
+
+- title: "Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments"
+  authors:
+    - K. Li
+    - Y. Chen
+    - M. Shan
+    - J. Li
+    - S. Worrall
+    - E. Nebot
+  publisher: "IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)"
+  date: 2023-06-18
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: ResearchGate
+      link: https://www.researchgate.net/publication/374831905_Game_Theory-Based_Simultaneous_Prediction_and_Planning_for_Autonomous_Vehicle_Navigation_in_Crowded_Environments
+  tags:
+    - Trajectory Prediction
+    - Autonomous Driving
+    - Game Theory
+
+- title: "DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios"
+  authors:
+    - S. Malla
+    - C. Choi
+    - J. H. Choi
+    - I. Dwivedi
+    - J. Li
+  publisher: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023)"
+  date: 2023-03-18
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: WACV
+      link: https://openaccess.thecvf.com/content/WACV2023/html/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.html
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2209.10767
+  tags:
+    - Autonomous Driving
+    - Risk Management
+
+- title: "A Cognition-Inspired Trajectory Prediction Method for Vehicles in Interactive Scenarios"
+  authors:
+    - S. Xie
+    - J. Li
+    - J. Wang
+  publisher: "IET Intelligent Transport Systems"
+  date: 2023-02-18
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IET
+      link: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12345
+  tags:
+    - Autonomous Driving
+    - Trajectory Prediction
+
+################ 2022 ################
+- title: "Interaction Modeling with Multiplex Attention"
+  authors:
+    - F. Sun
+    - I. Kauvar
+    - R. Zhang
+    - J. Li
+    - M. J. Kochenderfer
+    - J. Wu
+    - N. Haber
+  publisher: 'Neural Information Processing Systems (NeurIPS 2022)'
+  date: 2022-08-23
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: NeurIPS
+      link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html
+    - type: paper_home
+      text: Website
+      link: https://cs.stanford.edu/~sunfanyun/imma/
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2208.10660
+  tags:
+    - Multi-agent System
+    - Trajectory Prediction
+
+- title: "Learning Physical Dynamics with Subequivariant Graph Neural Networks"
+  authors:
+    - J. Han
+    - W. Huang
+    - H. Ma
+    - J. Li
+    - J. B. Tenenbaum
+    - C. Gan
+  publisher: 'Neural Information Processing Systems (NeurIPS 2022)'
+  date: 2022-08-22
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: NeurIPS
+      link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2210.06876
+  tags:
+    - Graph Neural Networks
+    - Physical Dynamics
