@@ -424,3 +424,104 @@
   tags:
     - Graph Neural Networks
     - Physical Dynamics
+
+- title: "Important Object Identification with Semi-Supervised Learning for Autonomous Driving"
+  authors:
+    - 'J. Li\*'
+    - 'H. Gang\*'
+    - H. Ma
+    - M. Tomizuka
+    - C. Choi
+  publisher: 'International Conference on Robotics and Automation (ICRA 2022)'
+  date: 2022-04-22
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9812234
+    - type: paper_link
+      text: arXiv
+      link: http://arxiv.org/abs/2203.02634
+  tags:
+    - Autonomous Driving
+    - Semi-Supervised Learning
+
+- title: "Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting"
+  authors:
+    - R. Zhou
+    - H. Zhou
+    - M. Tomizuka
+    - 'J. Li\*'
+    - 'Z. Xu\*'
+  publisher: 'International Conference on Robotics and Automation (ICRA 2022)'
+  date: 2022-04-21
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9811585
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2109.14128
+  tags:
+    - Graph Neural Networks
+    - Trajectory Prediction
+
+- title: "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments"
+  authors:
+    - M. Toyungyernsub
+    - E. Yel
+    - J. Li
+    - M. J. Kochenderfer
+  publisher: 'IEEE/RSJ International Conference on Robotics and Systems (IROS 2022)'
+  date: 2022-03-21
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9981323
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2209.13172
+  tags:
+    - Occupancy Prediction
+    - Autonomous Driving
+
+- title: "Multi-Objective Diverse Human Motion Prediction with Knowledge Distillation"
+  authors:
+    - H. Ma
+    - J. Li
+    - R. Hosseini
+    - M. Tomizuka
+    - C. Choi
+  publisher: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022, Oral)'
+  date: 2022-02-21
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: CVPR
+      link: https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Multi-Objective_Diverse_Human_Motion_Prediction_With_Knowledge_Distillation_CVPR_2022_paper.html
+    - type: paper_video
+      text: Video
+      link: https://www.youtube.com/watch?v=aaJm-lQP-cs
+  tags:
+    - Trajectory Prediction
+    - Knowledge Distillation
+
+- title: "Graph Q-Learning for Combinatorial Optimization"
+  authors:
+    - V. Dax
+    - J. Li
+    - K. Leahy
+    - M. J. Kochenderfer
+  publisher: 'Deep Reinforcement Learning Workshop, NeurIPS 2022'
+  date: 2022-01-21
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: OpenReview
+      link: https://openreview.net/forum?id=srk2FE7q82i
+  tags:
+    - Graph Neural Networks
+    - Reinforcement Learning
+    - COmbinatorial Optimization
