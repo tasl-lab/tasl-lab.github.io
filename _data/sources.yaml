@@ -66,7 +66,7 @@
       link: https://arxiv.org/abs/2403.17916
   tags:
     - Trajectory Prediction
-    - Multi-agent System
+    - Multi-Agent System
 
 - title: "Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting"
   authors:
@@ -400,7 +400,7 @@
       text: arXiv
       link: https://arxiv.org/abs/2208.10660
   tags:
-    - Multi-agent System
+    - Multi-Agent System
     - Trajectory Prediction
 
 - title: "Learning Physical Dynamics with Subequivariant Graph Neural Networks"
@@ -524,4 +524,217 @@
   tags:
     - Graph Neural Networks
     - Reinforcement Learning
-    - COmbinatorial Optimization
+    - Combinatorial Optimization
+
+################ 2021 ################
+- title: "RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting"
+  authors:
+    - J. Li
+    - F. Yang
+    - H. Ma
+    - S. Malla
+    - M. Tomizuka
+    - C. Choi
+  publisher: 'IEEE/CVF International Conference on Computer Vision (ICCV 2021)'
+  date: 2021-10-21
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: ICCV
+      link: https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2108.01316
+  tags:
+    - Attention
+    - Trajectory Prediction
+
+- title: "LOKI: Long Term and Key Intentions for Trajectory Prediction"
+  authors:
+    - 'H. Gang\*'
+    - 'H. Girase\*'
+    - S. Malla
+    - J. Li
+    - A. Kanehara
+    - K. Mangalam
+    - C. Choi
+  publisher: 'IEEE/CVF International Conference on Computer Vision (ICCV 2021)'
+  date: 2021-10-20
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: ICCV
+      link: https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2108.08236
+  tags:
+    - Trajectory Prediction
+
+- title: "Shared Cross-Modal Trajectory Prediction for Autonomous Driving"
+  authors:
+    - C. Choi
+    - J. H. Choi
+    - J. Li
+    - S. Malla
+  publisher: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021, Oral)'
+  date: 2021-10-20
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: ICCV
+      link: https://openaccess.thecvf.com/content/CVPR2021/html/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.html
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2011.08436
+  tags:
+    - Trajectory Prediction
+    - Autonomous Driving
+
+- title: "Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking"
+  authors:
+    - J. Li
+    - H. Ma
+    - Z. Zhang
+    - J. Li
+    - M. Tomizuka
+  publisher: 'IEEE Transactions on Intelligent Transportation Systems'
+  date: 2021-08-20
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9491972
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2102.09117
+  tags:
+    - Multi-Agent System
+    - Trajectory Prediction
+
+- title: "Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory"
+  authors:
+    - 'H. Ma\*'
+    - 'Y. Sun\*'
+    - J. Li
+    - M. Tomizuka
+    - C. Choi
+  publisher: 'IEEE Robotics and Automation Letters (RA-L)'
+  date: 2021-08-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9512468
+    - type: paper_link
+      text: PDF
+      link: https://jiachenli94.github.io/publications/Mix/RAL2021.pdf
+  tags:
+    - Multi-Agent System
+    - Trajectory Prediction
+
+- title: "Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships"
+  authors:
+    - X. Ma
+    - J. Li
+    - M. J. Kochenderfer
+    - D. Isele
+    - K. Fujimura
+  publisher: 'International Conference on Robotics and Automation (ICRA 2021)'
+  date: 2021-07-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/9562006?casa_token=jRiAkaJx8SYAAAAA:7ucVOv-YLicLnXdyefl2blBsAEKl86L0R-QNnml1FwIzYTfScj-FnO_498LWDVTwtEHMJkLU_Q
+    - type: paper_link
+      text: arXiv
+      link: http://arxiv.org/abs/2011.04251
+  tags:
+    - Reinforcement Learning
+    - Autonomous Driving
+    - State Inference
+
+- title: "Spectral Temporal Graph Neural Network for Trajectory Prediction"
+  authors:
+    - 'D. Cao\*'
+    - 'J. Li\*'
+    - H. Ma
+    - M. Tomizuka
+  publisher: 'International Conference on Robotics and Automation (ICRA 2021)'
+  date: 2021-06-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9561461
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2106.02930
+  tags:
+    - Graph Neural Networks
+    - Trajectory Prediction
+
+- title: "Multi-agent Driving Behavior Prediction across Different Scenarios with Self-supervised Domain Knowledge"
+  authors:
+    - 'H. Ma\*'
+    - 'Y. Sun\*'
+    - J. Li
+    - M. Tomizuka
+  publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2021)'
+  date: 2021-05-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9564510
+    - type: paper_link
+      text: PDF
+      link: https://jiachenli94.github.io/publications/Mix/ITSC2021.pdf
+  tags:
+    - Self-Supervised Learning
+    - Trajectory Prediction
+
+
+- title: "Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks"
+  authors:
+    - L. Wei
+    - Z. Li
+    - J. Gong
+    - C. Gong
+    - J. Li
+  publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2021)'
+  date: 2021-04-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9564518
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2106.13052
+  tags:
+    - Autonomous Driving
+    - Review Paper
+
+- title: "Orientation-Aware Planning for Parallel Task Execution of Omni-Directional Mobile Robot"
+  authors:
+    - C. Gong
+    - X. Zhou
+    - Z. Li
+    - J. Li
+    - J. Gong
+    - J. Zhou
+  publisher: 'IEEE/RSJ International Conference on Robotics and Systems (IROS 2021)'
+  date: 2021-03-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/document/9636051
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2108.00716
+  tags:
+    - Motion Planning
+    - Mobile Robot
