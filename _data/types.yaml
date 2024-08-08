@@ -214,3 +214,16 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+# yjp mark
+paper_video:
+  icon: fa-solid fa-video
+
+paper_link:
+  icon: fa-solid fa-link
+
+paper_home:
+  icon: fa-solid fa-home
+
+paper_code:
+  icon: fa-solid fa-code

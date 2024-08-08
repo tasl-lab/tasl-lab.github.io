@@ -1,23 +1,30 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- title: "SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning"
+  authors:
+    - J. Yao
+    - X. Zhang
+    - Y. Xia
+    - Z. Wang
+    - A. K. Roy-Chowdhury
+    - J. Li
+  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
+  # date: 2024-01-01
+  image: ./paper_images/SoNIC.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2407.17460
+    - type: paper_video
+      text: Video
+      link: https://www.youtube.com/watch?v=uXqPMaSyDek
+    - type: paper_home
+      text: Website
+      link: https://sonic-social-nav.github.io/
+    - type: paper_code
+      text: Code
+      link: https://github.com/tasl-lab/SoNIC/tree/main
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Uncertainty Quantification
+    - Reinforcement Learning
+    - Social Navigation
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp

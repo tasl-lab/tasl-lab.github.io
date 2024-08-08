@@ -5,19 +5,61 @@
   | data_filter: include.filters
 %}
 
-{% assign years = data
+{% assign with_date = data | where_exp: "item", "item.date != null and item.date != ''" %}
+{% assign without_date = data | where_exp: "item", "item.date == null or item.date == ''" %}
+
+{% assign years = with_date
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
   | reverse
 %}
 
+{% if without_date.size > 0 %}
+  <h3 id="Under Review / Preprints">Under Review / Preprints</h3>
+  {% for d in without_date %}
+    {% assign style = d.style | default: include.style %}
+
+    {%
+      include {{ include.component | append: ".html" }}
+      affiliation=d.affiliation
+      author=d.author
+      authors=d.authors
+      buttons=d.buttons
+      caption=d.caption
+      content=d.content
+      date=d.date
+      description=d.description
+      excerpt=d.excerpt
+      height=d.height
+      icon=d.icon
+      id=d.id
+      image=d.image
+      last_modified_at=d.last_modified_at
+      link=d.link
+      lookup=d.lookup
+      name=d.name
+      publisher=d.publisher
+      repo=d.repo
+      role=d.role
+      slug=d.slug
+      style=style
+      subtitle=d.subtitle
+      tags=d.tags
+      text=d.text
+      title=d.title
+      tooltip=d.tooltip
+      type=d.type
+      url=d.url
+      width=d.width
+    %}
+  {% endfor %}
+{% endif %}
+
 {% for year in years %}
   {% assign data = year.items %}
 
-  {% if years.size > 1 %}
-    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
-  {% endif %}
+  <h3 id="{{ year.name }}">{{ year.name }}</h3>
+  {% assign data = data | sort: "date" | reverse %}
 
   {% for d in data %}
     {% assign style = d.style | default: include.style %}

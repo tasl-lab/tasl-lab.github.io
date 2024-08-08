@@ -8,12 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@tasl-labDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: tasl-labDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: tasl-labDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: tasl-labDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: tasl-lab
+  youtube: "@TASLaboratory"
 
 ### jekyll settings
 
