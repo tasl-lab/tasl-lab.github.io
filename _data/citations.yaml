@@ -133,6 +133,9 @@
   - M. J. Kochenderfer
   publisher: submitted to IEEE Transactions on Neural Networks and Learning Systems
     (T-NNLS)
+  buttons:
+  - type: paper_link
+    text: Arrive Soon
   tags:
   - Graph Neural Networks
   - Spatialtemporal Reasoning
@@ -144,7 +147,177 @@
   - J. Li
   - M. J. Kochenderfer
   publisher: under review
+  buttons:
+  - type: paper_link
+    text: Arrive Soon
   tags:
   - Graph Neural Networks
+  plugin: sources.py
+  file: sources.yaml
+- title: Interactive Autonomous Navigation with Internal State Inference and Interactivity
+    Estimation
+  authors:
+  - J. Li
+  - D. Isele
+  - K. Lee
+  - J. Park
+  - K. Fujimura
+  - M. J. Kochenderfer
+  publisher: IEEE Transactions on Robotics (T-RO)
+  date: '2024-06-06'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2311.16091
+  tags:
+  - Autonomous Driving
+  - Reinforcement Learning
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction
+    in Partially Observable Environments'
+  authors:
+  - B. Lange
+  - J. Li
+  - M. J. Kochenderfer
+  publisher: International Conference on Robotics and Automation (ICRA 2024)
+  date: '2024-03-09'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2309.13893
+  tags:
+  - Autonomous Driving
+  - Trajectory Prediction
+  - Occlusion Inference
+  plugin: sources.py
+  file: sources.yaml
+- title: 'MATRIX: Multi-Agent Trajectory Generation with Diverse Contexts'
+  authors:
+  - Z. Xu\*
+  - R. Zhou\*
+  - Y. Yin\*
+  - H. Gao
+  - M. Tomizuka
+  - J. Li
+  publisher: International Conference on Robotics and Automation (ICRA 2024)
+  date: '2024-03-09'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2403.06041
+  tags:
+  - Data Augmentation
+  - Trajectory Generation
+  plugin: sources.py
+  file: sources.yaml
+- title: 'ELA: Exploited Level Augmentation for Offline Learning in Zero-Sum Games'
+  authors:
+  - S. Lei\*
+  - K. Lee\*
+  - L. Li
+  - J. Park
+  - J. Li
+  publisher: International Conference on Autonomous Agents and Multiagent Systems
+    (AAMAS 2024)
+  date: '2024-02-28'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2402.18617
+  - type: paper_link
+    text: AAMAS
+    link: https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2357.pdf
+  tags:
+  - Offline Learning
+  - Zero-Sum Games
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and
+    Reasoning'
+  authors:
+  - E. Sachdeva\*
+  - N. Agarwal\*
+  - S. Chundi
+  - S. Roelofs
+  - J. Li
+  - C. Choi
+  - M. J. Kochenderfer
+  - B. Dariush
+  publisher: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)
+  date: '2024-02-01'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2309.06597
+  tags:
+  - Scene Understanding
+  - Autonomous Driving
+  plugin: sources.py
+  file: sources.yaml
+- title: Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous
+    Driving
+  authors:
+  - M. Toyungyernsub
+  - E. Yel
+  - J. Li
+  - M. J. Kochenderfer
+  publisher: IEEE Intelligent Vehicles Symposium (IV 2024)
+  date: '2024-01-01'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2310.01723
+  tags:
+  - Occupancy Prediction
+  - Autonomous Driving
+  plugin: sources.py
+  file: sources.yaml
+- title: Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D
+    Human Keypoints
+  authors:
+  - J. Li
+  - X. Shi\*
+  - F. Chen\*
+  - J. Stroud\*
+  - Z. Zhang
+  - T. Lan
+  - J. Mao
+  - J. Kang
+  - K. Refaat
+  - W. Yang
+  - E. Le
+  - C. Li
+  publisher: International Conference on Robotics and Automation (ICRA 2023)
+  date: '2023-07-30'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2306.01075
+  tags:
+  - Action Recognition
+  - Autonomous Driving
+  - Trajectory Prediction
+  plugin: sources.py
+  file: sources.yaml
+- title: Robust Driving Policy Learning with Guided Meta Reinforcement Learning
+  authors:
+  - K. Lee\*
+  - J. Li\*
+  - D. Isele
+  - J. Park
+  - K. Fujimura
+  - M. J. Kochenderfer
+  publisher: IEEE International Conference on Intelligent Transportation Systems (ITSC
+    2023)
+  date: '2023-07-19'
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2307.10160
+  tags:
+  - Meta Learning
+  - Autonomous Driving
+  - Reinforcement Learning
   plugin: sources.py
   file: sources.yaml
