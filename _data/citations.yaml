@@ -400,7 +400,7 @@
   - type: paper_home
     text: Website
     link: https://cs.stanford.edu/~sunfanyun/imma/
-  - type: paper_code
+  - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2208.10660
   tags:
@@ -422,7 +422,7 @@
   - type: paper_link
     text: NeurIPS
     link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html
-  - type: paper_code
+  - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2210.06876
   tags:
