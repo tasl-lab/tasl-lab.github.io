@@ -66,7 +66,7 @@
       link: https://arxiv.org/abs/2403.17916
   tags:
     - Trajectory Prediction
-    - Multi-Agent System
+    - Multi-Agent Systems
 
 - title: "Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting"
   authors:
@@ -400,7 +400,7 @@
       text: arXiv
       link: https://arxiv.org/abs/2208.10660
   tags:
-    - Multi-Agent System
+    - Multi-Agent Systems
     - Trajectory Prediction
 
 - title: "Learning Physical Dynamics with Subequivariant Graph Neural Networks"
@@ -609,7 +609,7 @@
       text: arXiv
       link: https://arxiv.org/abs/2102.09117
   tags:
-    - Multi-Agent System
+    - Multi-Agent Systems
     - Trajectory Prediction
 
 - title: "Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory"
@@ -630,7 +630,7 @@
       text: PDF
       link: https://jiachenli94.github.io/publications/Mix/RAL2021.pdf
   tags:
-    - Multi-Agent System
+    - Multi-Agent Systems
     - Trajectory Prediction
 
 - title: "Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships"
@@ -800,3 +800,81 @@
       link: https://arxiv.org/abs/2002.06241
   tags:
     - Trajectory Prediction
+
+
+################ 2019 ################
+- title: "Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning"
+  authors:
+    - 'J. Li\*'
+    - 'H. Ma\*'
+    - M. Tomizuka
+  publisher: 'International Conference on Robotics and Automation (ICRA 2019)'
+  date: 2019-08-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8793661
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1904.02390
+  tags:
+    - Multi-Agent Systems
+    - Adversarial Learning
+
+- title: "Conditional Generative Neural System for Probabilistic Trajectory Prediction"
+  authors:
+    - 'J. Li'
+    - 'H. Ma'
+    - M. Tomizuka
+  publisher: 'IEEE/RSJ International Conference on Robotics and Systems (IROS 2019)'
+  date: 2019-06-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8967822
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1905.01631
+  tags:
+    - Trajectory Prediction
+    - Generative Models
+
+- title: "Coordination and Trajectory Prediction for Vehicle Interactions via Bayesian Generative Modeling"
+  authors:
+    - 'J. Li'
+    - 'H. Ma'
+    - W. Zhan
+    - M. Tomizuka
+  publisher: 'IEEE Intelligent Vehicles Symposium (IV 2019)'
+  date: 2019-05-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8813821
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1905.00587
+  tags:
+    - Trajectory Prediction
+    - Generative Models
+
+- title: "Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction"
+  authors:
+    - 'H. Ma'
+    - 'J. Li'
+    - W. Zhan
+    - M. Tomizuka
+  publisher: 'IEEE Intelligent Vehicles Symposium (IV 2019)'
+  date: 2019-04-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8813783
+  tags:
+    - Trajectory Prediction
+    - Generative Models
+
