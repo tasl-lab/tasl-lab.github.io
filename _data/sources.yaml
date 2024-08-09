@@ -878,3 +878,127 @@
     - Trajectory Prediction
     - Generative Models
 
+################ 2018 ################
+- title: "Generic Probabilistic Interactive Situation Recognition and Prediction: From Virtual to Real"
+  authors:
+    - 'J. Li'
+    - 'H. Ma'
+    - W. Zhan
+    - M. Tomizuka
+  publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2018)'
+  date: 2018-08-19
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8569780
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1809.02927
+  tags:
+    - Trajectory Prediction
+    - Generative Models
+
+- title: "Towards a Fatality-Aware Benchmark of Probabilistic Reaction Prediction in Highly Interactive Driving Scenarios"
+  authors:
+    - W. Zhan
+    - L. Sun
+    - Y. Hu
+    - J. Li
+    - M. Tomizuka
+  publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2018)'
+  date: 2018-08-16
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8569785
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1809.03478
+  tags:
+    - Trajectory Prediction
+    - Autonomous Driving
+
+- title: "Generic Vehicle Tracking Framework Capable of Handling Occlusions Based on Modified Mixture Particle Filter"
+  authors:
+    - J. Li
+    - W. Zhan
+    - M. Tomizuka
+  publisher: 'IEEE Intelligent Vehicles Symposium (IV 2018, Oral)'
+  date: 2018-03-16
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8500626
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/1809.10237
+  tags:
+    - Autonomous Driving
+    - Agent Tracking
+
+################ 2017 ################
+- title: "Safe and Feasible Motion Generation for Autonomous Driving via Constrained Policy Net"
+  authors:
+    - W. Zhan
+    - J. Li
+    - Y. Hu
+    - M. Tomizuka
+  publisher: 'Annual Conference of the Industrial Electronics Society (IECON 2017)'
+  date: 2017-09-16
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/8216790
+  tags:
+    - Autonomous Driving
+    - Motion Generation
+
+################ 2016 ################
+- title: "A Novel Variable Selection Approach for Redundant Information Elimination Purpose of Process Control"
+  authors:
+    - J. Li
+    - C. Duan
+    - Z. Fei
+  publisher: 'IEEE Transactions on Industrial Electronics'
+  date: 2016-09-16
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/abstract/document/7328263
+  tags:
+    - Control Theory
+
+- title: "Finite-time H∞ Control of Switched Systems with Mode-dependent Average Dwell Time"
+  authors:
+    - S. Shi
+    - Z. Fei
+    - J. Li
+  publisher: 'Journal of the Franklin Institute'
+  date: 2016-08-16
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: ELSEVIER
+      link: https://www.sciencedirect.com/science/article/pii/S0016003215004147
+  tags:
+    - Control Theory
+
+- title: "A Variable Selection Aided Residual Generator Design Approach for Process Control and Monitoring"
+  authors:
+    - C. Duan
+    - Z. Fei
+    - J. Li
+  publisher: 'Neurocomputing'
+  date: 2016-06-16
+  # image: ./paper_images/SoNIC.png
+  buttons:
+    - type: paper_link
+      text: ELSEVIER
+      link: https://www.sciencedirect.com/science/article/pii/S0925231215010231
+  tags:
+    - Control Theory
