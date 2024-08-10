@@ -1,6 +1,6 @@
 ---
 name: Jianpeng Yao
-image: people_photos/jianpengyao.jpg
+image: people_photos/jianpengyao.png
 role: grad
 affiliation: UC Riverside
 aliases:

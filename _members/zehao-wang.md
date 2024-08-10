@@ -1,11 +1,11 @@
 ---
-name: Zhixu Li
+name: Zehao Wang
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
 aliases:
-  - Z. Li
-  - Z Li
+  - Z. Wang
+  - Z Wang
 links:
   # people-homepage: https://jyao97.github.io/
   # people-email: jyao073@ucr.edu
