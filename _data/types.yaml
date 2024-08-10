@@ -2,29 +2,29 @@
 
 # team member roles
 
-pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+# pi:
+#   icon: fa-solid fa-microscope
+#   description: Principal Investigator
 
-postdoc:
-  icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+# postdoc:
+#   icon: fa-solid fa-glasses
+#   description: Postdoctoral Researcher
 
-phd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+# phd:
+#   icon: fa-solid fa-graduation-cap
+#   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+# undergrad:
+#   icon: fa-solid fa-user-graduate
+#   description: Undergraduate Student
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
+# programmer:
+#   icon: fa-solid fa-code
+#   description: Programmer
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+# mascot:
+#   icon: fa-solid fa-dog
+#   description: Mascot
 
 # general
 
@@ -227,3 +227,27 @@ paper_home:
 
 paper_code:
   icon: fa-solid fa-code
+
+people-homepage:
+  icon: fa-solid fa-house-user
+  text: Homepage
+
+people-profile:
+  icon: fa-solid fa-link
+  text: UCR Profile
+
+people-email:
+  icon: fa-solid fa-envelope
+  text: E-mail
+
+people-gs:
+  icon: fa-brands fa-google
+  text: Google Scholar
+
+people-twitter:
+  icon: fa-brands fa-twitter
+  text: Twitter
+
+people-office:
+  icon: fa-solid fa-location-dot
+  text: Office
