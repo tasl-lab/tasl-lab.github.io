@@ -1,27 +1,28 @@
 ---
 title: Research
+
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+  tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-newspaper" %}Research
+# {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-The ultimate goal of our research is to build **trustworthy**, **interactive**, and **human-centered** autonomous agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans and other agents, and clearly explain their behaviors to build trust with humans so that they can benefit society in daily lives. To achieve this goal, we have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, machine learning, reinforcement learning, explainable AI, control theory, optimization, and computer vision.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Internal State Inference" style="rich" %}
-{% include citation.html lookup="SoNIC" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
+
+{% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
