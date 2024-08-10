@@ -1,0 +1,21 @@
+- title: Explainable Relational Reasoning and Multi-Agent Interaction Modeling (Social & Physical)
+  # subtitle: a subtitle
+  # group: featured
+  image: research_images/graph2.webp
+  # link: https://github.com/
+  description: |
+    We investigate relational reasoning and interaction modeling in the context of the trajectory prediction task, which aims to generate accurate, diverse future trajectory hypotheses or state sequences based on historical observations.
+    Our research introduced the first unified relational reasoning toolbox that systematically infers the underlying relations/interactions between entities at different scales (e.g., pairwise, group-wise) and different abstraction levels (e.g., multiplex) by learning dynamic latent interaction graphs and hypergraphs from observable states (e.g., positions) in an unsupervised manner. 
+    The learned latent graphs are explainable and generalizable, significantly improving the performance of downstream tasks, including prediction, sequential decision making, and control.
+    We also proposed a physics-guided relational learning approach for physical dynamics modeling.
+    
+    **Related Publications\:** <br>
+    1. [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html), NeurIPS 2020. <br>
+    2. [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html), ICCV 2021. <br>
+    3. [Interaction Modeling with Multiplex Attention](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html), NeurIPS 2022. <br>
+    4. [Learning Physical Dynamics with Subequivariant Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html), NeurIPS 2022. <br>
+    5. [Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting](https://arxiv.org/abs/2109.14128), ICRA 2022. <br>
+    6. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review.
+  # repo: greenelab/lab-website-template
+  tags:
+    - Graph Neural Networks
