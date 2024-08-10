@@ -6,12 +6,10 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-robot" %}Featured Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The ultimate goal of our research is to build **trustworthy**, **interactive**, and **human-centered** autonomous agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans and other agents, and clearly explain their behaviors to build trust with humans so that they can benefit society in daily lives. To achieve this goal, we have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, machine learning, reinforcement learning, explainable AI, control theory, optimization, and computer vision.
 
-{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 

@@ -9,6 +9,12 @@ nav:
 
 Please refer to Prof. Jiachen Li's [Google Scholar](https://scholar.google.com/citations?user=1_f79vUAAAAJ&hl) for a complete list of publications.
 
+{% include tags.html tags="Reinforcement Learning, Autonomous Driving, Social Navigation" %}
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
 {% include section.html %}
 
 ## Highlighted
@@ -19,9 +25,5 @@ Please refer to Prof. Jiachen Li's [Google Scholar](https://scholar.google.com/c
 {% include section.html %}
 
 ## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
