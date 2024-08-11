@@ -11,6 +11,6 @@ nav:
 #### Graduate Students
 {% include list_students.html data="members" component="portrait_students" filters="role: grad" %}
 #### Undergraduate Students
-{% include list_students.html data="members" component="portrait_students" filters="role: undergrad" %}
+{% include list_students.html data="members" component="portrait_students" filters="role: under" %}
 #### Visiting Scholar/Students
 {% include list_students.html data="members" component="portrait_students" filters="role: visiting" %}
