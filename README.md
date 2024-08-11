@@ -1,5 +1,5 @@
 
-# tasl-labDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# TASL Website
 
 Visit **[tasl-lab.github.io](https://tasl-lab.github.io)** 🚀
 
