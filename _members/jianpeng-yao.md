@@ -3,7 +3,7 @@ name: Jianpeng Yao
 image: people_photos/jianpengyao.png
 role: grad
 affiliation: UC Riverside
-order: 001
+order: 002 #phd/ms, year order, people order (random)
 aliases:
   - J. Yao
   - J Yao

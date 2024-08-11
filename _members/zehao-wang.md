@@ -3,7 +3,7 @@ name: Zehao Wang
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
-order: 002
+order: 004
 aliases:
   - Z. Wang
   - Z Wang
