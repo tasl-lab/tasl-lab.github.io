@@ -26,7 +26,9 @@
     link: https://github.com/tasl-lab/SoNIC/tree/main
   tags:
   - Social Navigation
+  - Human-Robot Interaction/Collaboration
   - Safety
+  - Generalization/Robustness
   - Uncertainty Quantification
   - Reinforcement Learning
   - Trajectory Prediction
@@ -48,11 +50,13 @@
     text: arXiv
     link: https://arxiv.org/abs/2401.12275
   tags:
+  - Social Navigation
+  - Human-Robot Interaction/Collaboration
   - Trajectory Prediction
   - Relational Reasoning
   - Reinforcement Learning
-  - Multi-Agent Systems
-  - Social Navigation
+  - Multi-Agent/Robot Systems
+  - Safety
   - Graph Neural Networks
   plugin: sources.py
   file: sources.yaml
@@ -74,7 +78,7 @@
   tags:
   - Trajectory Prediction
   - Autonomous Driving
-  - Multi-Agent Systems
+  - Multi-Agent/Robot Systems
   plugin: sources.py
   file: sources.yaml
 - title: 'Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization
@@ -132,6 +136,7 @@
   - Meta Learning
   - Generalization/Robustness
   - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
   plugin: sources.py
   file: sources.yaml
 - title: Integrating Graph and Recurrent Neural Networks for Spatiotemporal Reasoning
@@ -186,6 +191,7 @@
     link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530461
   tags:
   - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
   - Reinforcement Learning
   - Relational Reasoning
   - Explainability/Interpretability
@@ -227,6 +233,7 @@
     link: https://arxiv.org/abs/2403.06041
   tags:
   - Trajectory Prediction
+  - Human-Robot Interaction/Collaboration
   - Generalization/Robustness
   - Data Augmentation
   plugin: sources.py
@@ -347,6 +354,7 @@
   - Meta Learning
   - Generalization/Robustness
   - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
   plugin: sources.py
   file: sources.yaml
 - title: Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle
@@ -369,6 +377,7 @@
   tags:
   - Trajectory Prediction
   - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
   - Game Theory
   plugin: sources.py
   file: sources.yaml
@@ -435,7 +444,7 @@
     text: arXiv
     link: https://arxiv.org/abs/2208.10660
   tags:
-  - Multi-Agent Systems
+  - Multi-Agent/Robot Systems
   - Relational Reasoning
   - Trajectory Prediction
   plugin: sources.py
@@ -652,7 +661,7 @@
     text: arXiv
     link: https://arxiv.org/abs/2102.09117
   tags:
-  - Multi-Agent Systems
+  - Multi-Agent/Robot Systems
   - Trajectory Prediction
   - Multi-Object Tracking
   plugin: sources.py
@@ -675,7 +684,7 @@
     text: PDF
     link: https://jiachenli94.github.io/publications/Mix/RAL2021.pdf
   tags:
-  - Multi-Agent Systems
+  - Multi-Agent/Robot Systems
   - Trajectory Prediction
   - Continual Learning
   - Generative Models
@@ -701,6 +710,7 @@
   tags:
   - Reinforcement Learning
   - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
   - Graph Neural Networks
   plugin: sources.py
   file: sources.yaml
@@ -744,7 +754,7 @@
   - Self-Supervised Learning
   - Trajectory Prediction
   - Generalization
-  - Multi-Agent Systems
+  - Multi-Agent/Robot Systems
   plugin: sources.py
   file: sources.yaml
 - title: 'Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art,
@@ -766,6 +776,7 @@
     link: https://arxiv.org/abs/2106.13052
   tags:
   - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
   plugin: sources.py
   file: sources.yaml
 - title: Orientation-Aware Planning for Parallel Task Execution of Omni-Directional
@@ -873,7 +884,7 @@
   tags:
   - Trajectory Prediction
   - Multi-Object Tracking
-  - Multi-Agent Systems
+  - Multi-Agent/Robot Systems
   - Adversarial Learning
   - Generative Models
   plugin: sources.py

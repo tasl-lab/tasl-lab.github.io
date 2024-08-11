@@ -6,7 +6,7 @@
 {% include section.html %}
 ## Highlights
 {% capture text %}
-The ultimate goal of our research is to build **trustworthy**, **interactive**, and **human-centered** autonomous agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans and other agents, and clearly explain their behaviors to build trust with humans so that they can benefit society in daily lives. To achieve this goal, we have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, machine learning, reinforcement learning, explainable AI, control theory, optimization, and computer vision.
+The ultimate goal of our research is to build **trustworthy**, **interactive**, and **human-centered** autonomous embodied agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans; and efficiently coordinate with other intelligent agents so that they can benefit society in daily lives. To accomplish this goal, our team has been pursuing interdisciplinary research and unifying the techniques and tools from robotics, trustworthy AI/ML, deep reinforcement learning, control theory, optimization, and computer vision.
 
 {%
   include button.html
@@ -38,7 +38,7 @@ The ultimate goal of our research is to build **trustworthy**, **interactive**, 
 
 {% capture text %}
 
-This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/profile/jiachenl). Lab members consist of students with backgrounds in engineering, computer science, and mathematics. Our lab is actively seeking multiple highly motivated talents to join us as Ph.D. students (fully funded), master students, undergraduate students, onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral researchers. If you are interested in joining us, please follow the application instructions on the Join Us page.
+This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/profile/jiachenl). Lab members consist of students with backgrounds in engineering, computer science, and mathematics. Our lab is actively seeking multiple highly motivated talents to join us as Ph.D. students (fully funded), master/undergraduate students, onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral researchers. If you are interested in joining us, please follow the application instructions on the [Join Us](./join/) page.
 
 {%
   include button.html

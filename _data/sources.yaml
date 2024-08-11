@@ -24,7 +24,9 @@
       link: https://github.com/tasl-lab/SoNIC/tree/main
   tags:
     - Social Navigation
+    - Human-Robot Interaction/Collaboration
     - Safety
+    - Generalization/Robustness
     - Uncertainty Quantification
     - Reinforcement Learning
     - Trajectory Prediction
@@ -46,11 +48,13 @@
       text: arXiv
       link: https://arxiv.org/abs/2401.12275
   tags:
+    - Social Navigation
+    - Human-Robot Interaction/Collaboration
     - Trajectory Prediction
     - Relational Reasoning
     - Reinforcement Learning
-    - Multi-Agent Systems
-    - Social Navigation
+    - Multi-Agent/Robot Systems
+    - Safety
     - Graph Neural Networks
 
 - title: "CMP: Cooperative Motion Prediction with Multi-Agent Communication"
@@ -72,7 +76,7 @@
   tags:
     - Trajectory Prediction
     - Autonomous Driving
-    - Multi-Agent Systems
+    - Multi-Agent/Robot Systems
 
 - title: "Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting"
   authors:
@@ -129,6 +133,8 @@
     - Meta Learning
     - Generalization/Robustness
     - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
+    
     
 
 - title: "Integrating Graph and Recurrent Neural Networks for Spatiotemporal Reasoning"
@@ -185,6 +191,7 @@
       link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530461 
   tags:
     - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
     - Reinforcement Learning
     - Relational Reasoning
     - Explainability/Interpretability
@@ -223,6 +230,7 @@
       link: https://arxiv.org/abs/2403.06041
   tags:
     - Trajectory Prediction
+    - Human-Robot Interaction/Collaboration
     - Generalization/Robustness
     - Data Augmentation
 
@@ -334,6 +342,7 @@
     - Meta Learning
     - Generalization/Robustness
     - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
 
 
 - title: "Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments"
@@ -354,6 +363,7 @@
   tags:
     - Trajectory Prediction
     - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
     - Game Theory
 
 - title: "DRAMA: Joint Risk Localization and Reasoning in Driving Scenarios"
@@ -418,7 +428,7 @@
       text: arXiv
       link: https://arxiv.org/abs/2208.10660
   tags:
-    - Multi-Agent Systems
+    - Multi-Agent/Robot Systems
     - Relational Reasoning
     - Trajectory Prediction
 
@@ -631,7 +641,7 @@
       text: arXiv
       link: https://arxiv.org/abs/2102.09117
   tags:
-    - Multi-Agent Systems
+    - Multi-Agent/Robot Systems
     - Trajectory Prediction
     - Multi-Object Tracking
 
@@ -653,7 +663,7 @@
       text: PDF
       link: https://jiachenli94.github.io/publications/Mix/RAL2021.pdf
   tags:
-    - Multi-Agent Systems
+    - Multi-Agent/Robot Systems
     - Trajectory Prediction
     - Continual Learning
     - Generative Models
@@ -678,6 +688,7 @@
   tags:
     - Reinforcement Learning
     - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
     - Graph Neural Networks
 
 - title: "Spectral Temporal Graph Neural Network for Trajectory Prediction"
@@ -720,7 +731,7 @@
     - Self-Supervised Learning
     - Trajectory Prediction
     - Generalization
-    - Multi-Agent Systems
+    - Multi-Agent/Robot Systems
 
 
 - title: "Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks"
@@ -742,6 +753,7 @@
       link: https://arxiv.org/abs/2106.13052
   tags:
     - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
 
 - title: "Orientation-Aware Planning for Parallel Task Execution of Omni-Directional Mobile Robot"
   authors:
@@ -849,7 +861,7 @@
   tags:
     - Trajectory Prediction
     - Multi-Object Tracking
-    - Multi-Agent Systems
+    - Multi-Agent/Robot Systems
     - Adversarial Learning
     - Generative Models
 
