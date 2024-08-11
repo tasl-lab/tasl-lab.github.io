@@ -5,10 +5,10 @@
     - Y. Xia
     - Z. Wang
     - A. K. Roy-Chowdhury
-    - J. Li
+    - and J. Li
   publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
   # date: 2024-01-01
-  image: ./paper_images/SoNIC.png
+  image: ./paper_images/yao2024sonic.png
   buttons:
     - type: paper_link
       text: arXiv
@@ -23,21 +23,24 @@
       text: Code
       link: https://github.com/tasl-lab/SoNIC/tree/main
   tags:
+    - Social Navigation
+    - Safety
     - Uncertainty Quantification
     - Reinforcement Learning
-    - Social Navigation
+    - Trajectory Prediction
+    - Graph Neural Networks
 
 - title: "Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation"
   authors:
-    - 'J. Li\*'
-    - 'C. Hua\*'
+    - J. Li\*
+    - C. Hua\*
     - J. Park
     - H. Ma
     - V. Dax
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "submitted to IEEE Transactions on Robotics (T-RO), under review"
   # date: 2024-01-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/li2024multi.png
   buttons:
     - type: paper_link
       text: arXiv
@@ -46,26 +49,29 @@
     - Trajectory Prediction
     - Relational Reasoning
     - Reinforcement Learning
+    - Multi-Agent Systems
     - Social Navigation
+    - Graph Neural Networks
 
 - title: "CMP: Cooperative Motion Prediction with Multi-Agent Communication"
   authors:
-    - 'Z. Wu\*'
-    - 'Y. Wang\*'
-    - 'Z. Wang\*'
+    - Z. Wu\*
+    - Y. Wang\*
+    - Z. Wang\*
     - H. Ma
     - Z. Li
     - H. Qiu
-    - J. Li
+    - and J. Li
   publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
   # date: 2024-01-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/wu2024cooperative.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2403.17916
   tags:
     - Trajectory Prediction
+    - Autonomous Driving
     - Multi-Agent Systems
 
 - title: "Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting"
@@ -73,56 +79,57 @@
     - J. Li
     - J. Li
     - S. Bae
-    - D. Isele
+    - and D. Isele
   publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
   # date: 2024-01-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/li2024adaptive.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2407.09475
   tags:
     - Trajectory Prediction
-    - Out-of-Distribution
-    - Generalization
+    - Generalization/Robustness
+    - Autonomous Driving
 
 
-- title: "Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving"
+- title: "Self-Supervised Multi-Future Occupancy Forecasting for Autonomous Driving"
   authors:
+    - B. Lange
+    - M. Itkina
     - J. Li
-    - J. Li
-    - S. Bae
-    - D. Isele
+    - and M. J. Kochenderfer
   publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
   # date: 2024-01-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/bernard2024self.png
   buttons:
     - type: paper_link
       text: arXiv
-      link: https://arxiv.org/abs/2407.09475
+      link: https://arxiv.org/abs/2407.21126
   tags:
-    - Trajectory Prediction
-    - Out-of-Distribution
-    - Generalization
+    - Occupancy Prediction
+    - Autonomous Driving
 
 - title: "Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments"
   authors:
-    - "M. Arief*"
-    - "M. Timmerman*"
+    - M. Arief\*
+    - M. Timmerman\*
     - J. Li
     - D. Isele
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
   # date: 2024-01-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/arief2024importance.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2407.09475
   tags:
-    - Meta Learning
-    - Autonomous Driving
     - Reinforcement learning
+    - Meta Learning
+    - Generalization/Robustness
+    - Autonomous Driving
+    
 
 - title: "Integrating Graph and Recurrent Neural Networks for Spatiotemporal Reasoning"
   authors:
@@ -131,7 +138,7 @@
     - X. Zhang
     - H. Shekhar
     - J. Li
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "submitted to IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)"
   # date: 2024-01-01
   # image: ./paper_images/SoNIC.png
@@ -141,13 +148,13 @@
       # link: https://arxiv.org/abs/2407.09475
   tags:
     - Graph Neural Networks
-    - Spatialtemporal Reasoning
+    - Spatial-Temporal Reasoning
 
 - title: "The Generalization Gap of Locally Unordered GNNs"
   authors:
     - V. Dax
     - J. Li
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "under review"
   # date: 2024-01-01
   # image: ./paper_images/SoNIC.png
@@ -165,26 +172,31 @@
     - K. Lee
     - J. Park
     - K. Fujimura
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "IEEE Transactions on Robotics (T-RO)"
   date: 2024-06-06
-  image: ./paper_images/internal_state_inference_tro.png
+  image: ./paper_images/li2024interactive.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2311.16091
+    - type: paper_link
+      text: IEEE
+      link: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530461 
   tags:
     - Autonomous Driving
     - Reinforcement Learning
+    - Relational Reasoning
+    - Explainability/Interpretability
 
 - title: "Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments"
   authors:
     - B. Lange
     - J. Li
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "International Conference on Robotics and Automation (ICRA 2024)"
   date: 2024-03-09
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/lange2024scene.png
   buttons:
     - type: paper_link
       text: arXiv
@@ -196,22 +208,23 @@
 
 - title: "MATRIX: Multi-Agent Trajectory Generation with Diverse Contexts"
   authors:
-    - 'Z. Xu\*'
-    - 'R. Zhou\*'
-    - 'Y. Yin\*'
+    - Z. Xu\*
+    - R. Zhou\*
+    - Y. Yin\*
     - H. Gao
     - M. Tomizuka
-    - J. Li
+    - and J. Li
   publisher: "International Conference on Robotics and Automation (ICRA 2024)"
   date: 2024-03-09
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/xu2024matrix.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2403.06041
   tags:
+    - Trajectory Prediction
+    - Generalization/Robustness
     - Data Augmentation
-    - Trajectory Generation
 
 
 - title: "ELA: Exploited Level Augmentation for Offline Learning in Zero-Sum Games"
@@ -220,10 +233,10 @@
     - 'K. Lee\*'
     - L. Li
     - J. Park
-    - J. Li
+    - and J. Li
   publisher: "International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)"
   date: 2024-02-28
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/lei2024ela.png
   buttons:
     - type: paper_link
       text: arXiv
@@ -237,34 +250,36 @@
 
 - title: "Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and Reasoning"
   authors:
-    - 'E. Sachdeva\*'
-    - 'N. Agarwal\*'
+    - E. Sachdeva\*
+    - N. Agarwal\*
     - S. Chundi
     - S. Roelofs
     - J. Li
     - C. Choi
     - M. J. Kochenderfer
-    - B. Dariush
+    - and B. Dariush
   publisher: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)"
   date: 2024-02-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/sachdeva2024rank.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2309.06597
   tags:
+    - Vision-Language
     - Scene Understanding
     - Autonomous Driving
+    - Explainability/Interpretability
 
 - title: "Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving"
   authors:
     - M. Toyungyernsub
     - E. Yel
     - J. Li
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "IEEE Intelligent Vehicles Symposium (IV 2024)"
   date: 2024-01-01
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/mery2024predicting.png
   buttons:
     - type: paper_link
       text: arXiv
@@ -286,18 +301,18 @@
     - K. Refaat
     - W. Yang
     - E. Le
-    - C. Li
+    - and C. Li
   publisher: "International Conference on Robotics and Automation (ICRA 2023)"
   date: 2023-07-30
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/li2023pedestrian.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2306.01075
   tags:
-    - Action Recognition
     - Autonomous Driving
     - Trajectory Prediction
+    - Human Intention/Motion Prediction
 
 - title: "Robust Driving Policy Learning with Guided Meta Reinforcement Learning"
   authors:
@@ -306,18 +321,20 @@
     - D. Isele
     - J. Park
     - K. Fujimura
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: "IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)"
   date: 2023-07-19
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/lee2023robust.png
   buttons:
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2307.10160
   tags:
-    - Meta Learning
-    - Autonomous Driving
     - Reinforcement Learning
+    - Meta Learning
+    - Generalization/Robustness
+    - Autonomous Driving
+
 
 - title: "Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments"
   authors:
@@ -326,10 +343,10 @@
     - M. Shan
     - J. Li
     - S. Worrall
-    - E. Nebot
+    - and E. Nebot
   publisher: "IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)"
   date: 2023-06-18
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/li2023game.png
   buttons:
     - type: paper_link
       text: ResearchGate
@@ -345,10 +362,10 @@
     - C. Choi
     - J. H. Choi
     - I. Dwivedi
-    - J. Li
+    - and J. Li
   publisher: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2023)"
   date: 2023-03-18
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/malla2023drama.png
   buttons:
     - type: paper_link
       text: WACV
@@ -358,16 +375,17 @@
       link: https://arxiv.org/abs/2209.10767
   tags:
     - Autonomous Driving
-    - Risk Management
+    - Vision-Language
+    - Explainability/Interpretability
 
 - title: "A Cognition-Inspired Trajectory Prediction Method for Vehicles in Interactive Scenarios"
   authors:
     - S. Xie
     - J. Li
-    - J. Wang
+    - and J. Wang
   publisher: "IET Intelligent Transport Systems"
   date: 2023-02-18
-  # image: ./paper_images/SoNIC.png
+  image: ./paper_images/xie2023a.png
   buttons:
     - type: paper_link
       text: IET
@@ -385,7 +403,7 @@
     - J. Li
     - M. J. Kochenderfer
     - J. Wu
-    - N. Haber
+    - and N. Haber
   publisher: 'Neural Information Processing Systems (NeurIPS 2022)'
   date: 2022-08-23
   # image: ./paper_images/SoNIC.png
@@ -401,6 +419,7 @@
       link: https://arxiv.org/abs/2208.10660
   tags:
     - Multi-Agent Systems
+    - Relational Reasoning
     - Trajectory Prediction
 
 - title: "Learning Physical Dynamics with Subequivariant Graph Neural Networks"
@@ -410,7 +429,7 @@
     - H. Ma
     - J. Li
     - J. B. Tenenbaum
-    - C. Gan
+    - and C. Gan
   publisher: 'Neural Information Processing Systems (NeurIPS 2022)'
   date: 2022-08-22
   # image: ./paper_images/SoNIC.png
@@ -423,6 +442,7 @@
       link: https://arxiv.org/abs/2210.06876
   tags:
     - Graph Neural Networks
+    - Relational Reasoning
     - Physical Dynamics
 
 - title: "Important Object Identification with Semi-Supervised Learning for Autonomous Driving"
@@ -431,7 +451,7 @@
     - 'H. Gang\*'
     - H. Ma
     - M. Tomizuka
-    - C. Choi
+    - and C. Choi
   publisher: 'International Conference on Robotics and Automation (ICRA 2022)'
   date: 2022-04-22
   # image: ./paper_images/SoNIC.png
@@ -451,8 +471,8 @@
     - R. Zhou
     - H. Zhou
     - M. Tomizuka
-    - 'J. Li\*'
-    - 'Z. Xu\*'
+    - J. Li\*
+    - and Z. Xu\*
   publisher: 'International Conference on Robotics and Automation (ICRA 2022)'
   date: 2022-04-21
   # image: ./paper_images/SoNIC.png
@@ -472,7 +492,7 @@
     - M. Toyungyernsub
     - E. Yel
     - J. Li
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: 'IEEE/RSJ International Conference on Robotics and Systems (IROS 2022)'
   date: 2022-03-21
   # image: ./paper_images/SoNIC.png
@@ -493,7 +513,7 @@
     - J. Li
     - R. Hosseini
     - M. Tomizuka
-    - C. Choi
+    - and C. Choi
   publisher: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022, Oral)'
   date: 2022-02-21
   # image: ./paper_images/SoNIC.png
@@ -505,7 +525,7 @@
       text: Video
       link: https://www.youtube.com/watch?v=aaJm-lQP-cs
   tags:
-    - Trajectory Prediction
+    - Human Intention/Motion Prediction
     - Knowledge Distillation
 
 - title: "Graph Q-Learning for Combinatorial Optimization"
@@ -513,7 +533,7 @@
     - V. Dax
     - J. Li
     - K. Leahy
-    - M. J. Kochenderfer
+    - and M. J. Kochenderfer
   publisher: 'Deep Reinforcement Learning Workshop, NeurIPS 2022'
   date: 2022-01-21
   # image: ./paper_images/SoNIC.png
@@ -534,7 +554,7 @@
     - H. Ma
     - S. Malla
     - M. Tomizuka
-    - C. Choi
+    - and C. Choi
   publisher: 'IEEE/CVF International Conference on Computer Vision (ICCV 2021)'
   date: 2021-10-21
   # image: ./paper_images/SoNIC.png
@@ -546,8 +566,8 @@
       text: arXiv
       link: https://arxiv.org/abs/2108.01316
   tags:
-    - Attention
     - Trajectory Prediction
+    - Reinforcement Learning
 
 - title: "LOKI: Long Term and Key Intentions for Trajectory Prediction"
   authors:
@@ -557,7 +577,7 @@
     - J. Li
     - A. Kanehara
     - K. Mangalam
-    - C. Choi
+    - and C. Choi
   publisher: 'IEEE/CVF International Conference on Computer Vision (ICCV 2021)'
   date: 2021-10-20
   # image: ./paper_images/SoNIC.png
@@ -570,13 +590,15 @@
       link: https://arxiv.org/abs/2108.08236
   tags:
     - Trajectory Prediction
+    - Human Intention/Motion Prediction
+    - Autonomous Driving
 
 - title: "Shared Cross-Modal Trajectory Prediction for Autonomous Driving"
   authors:
     - C. Choi
     - J. H. Choi
     - J. Li
-    - S. Malla
+    - and S. Malla
   publisher: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021, Oral)'
   date: 2021-10-20
   # image: ./paper_images/SoNIC.png
@@ -597,7 +619,7 @@
     - H. Ma
     - Z. Zhang
     - J. Li
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Transactions on Intelligent Transportation Systems'
   date: 2021-08-20
   # image: ./paper_images/SoNIC.png
@@ -611,6 +633,7 @@
   tags:
     - Multi-Agent Systems
     - Trajectory Prediction
+    - Multi-Object Tracking
 
 - title: "Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory"
   authors:
@@ -618,7 +641,7 @@
     - 'Y. Sun\*'
     - J. Li
     - M. Tomizuka
-    - C. Choi
+    - and C. Choi
   publisher: 'IEEE Robotics and Automation Letters (RA-L)'
   date: 2021-08-19
   # image: ./paper_images/SoNIC.png
@@ -632,6 +655,8 @@
   tags:
     - Multi-Agent Systems
     - Trajectory Prediction
+    - Continual Learning
+    - Generative Models
 
 - title: "Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships"
   authors:
@@ -639,7 +664,7 @@
     - J. Li
     - M. J. Kochenderfer
     - D. Isele
-    - K. Fujimura
+    - and K. Fujimura
   publisher: 'International Conference on Robotics and Automation (ICRA 2021)'
   date: 2021-07-19
   # image: ./paper_images/SoNIC.png
@@ -653,14 +678,14 @@
   tags:
     - Reinforcement Learning
     - Autonomous Driving
-    - State Inference
+    - Graph Neural Networks
 
 - title: "Spectral Temporal Graph Neural Network for Trajectory Prediction"
   authors:
     - 'D. Cao\*'
     - 'J. Li\*'
     - H. Ma
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'International Conference on Robotics and Automation (ICRA 2021)'
   date: 2021-06-19
   # image: ./paper_images/SoNIC.png
@@ -680,7 +705,7 @@
     - 'H. Ma\*'
     - 'Y. Sun\*'
     - J. Li
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2021)'
   date: 2021-05-19
   # image: ./paper_images/SoNIC.png
@@ -694,6 +719,8 @@
   tags:
     - Self-Supervised Learning
     - Trajectory Prediction
+    - Generalization
+    - Multi-Agent Systems
 
 
 - title: "Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks"
@@ -702,7 +729,7 @@
     - Z. Li
     - J. Gong
     - C. Gong
-    - J. Li
+    - and J. Li
   publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2021)'
   date: 2021-04-19
   # image: ./paper_images/SoNIC.png
@@ -715,7 +742,6 @@
       link: https://arxiv.org/abs/2106.13052
   tags:
     - Autonomous Driving
-    - Review Paper
 
 - title: "Orientation-Aware Planning for Parallel Task Execution of Omni-Directional Mobile Robot"
   authors:
@@ -724,7 +750,7 @@
     - Z. Li
     - J. Li
     - J. Gong
-    - J. Zhou
+    - and J. Zhou
   publisher: 'IEEE/RSJ International Conference on Robotics and Systems (IROS 2021)'
   date: 2021-03-19
   # image: ./paper_images/SoNIC.png
@@ -743,10 +769,10 @@
 ################ 2020 ################
 - title: "EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning"
   authors:
-    - 'J. Li\*'
-    - 'F. Yang\*'
+    - J. Li\*
+    - F. Yang\*
     - M. Tomizuka
-    - C. Choi
+    - and C. Choi
   publisher: 'Neural Information Processing Systems (NeurIPS 2020)'
   date: 2020-10-19
   # image: ./paper_images/SoNIC.png
@@ -770,7 +796,7 @@
     - J. Li
     - W. Zhan
     - Y. Hu
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Transactions on Intelligent Transportation Systems'
   date: 2020-08-19
   # image: ./paper_images/SoNIC.png
@@ -782,15 +808,16 @@
       text: arXiv
       link: https://arxiv.org/abs/1908.09031
   tags:
-    - Autonomoud Driving
+    - Autonomous Driving
     - Trajectory Prediction
+    - Multi-Object Tracking
 
 - title: "Social-WaGDAT: Interaction-Aware Trajectory Prediction via Wasserstein Graph Double-Attention Network"
   authors:
     - J. Li
     - H. Ma
     - Z. Zhang
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'arXiv preprint'
   date: 2020-02-19
   # image: ./paper_images/SoNIC.png
@@ -800,6 +827,7 @@
       link: https://arxiv.org/abs/2002.06241
   tags:
     - Trajectory Prediction
+    - Generative Models
 
 
 ################ 2019 ################
@@ -807,7 +835,7 @@
   authors:
     - 'J. Li\*'
     - 'H. Ma\*'
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'International Conference on Robotics and Automation (ICRA 2019)'
   date: 2019-08-19
   # image: ./paper_images/SoNIC.png
@@ -819,14 +847,17 @@
       text: arXiv
       link: https://arxiv.org/abs/1904.02390
   tags:
+    - Trajectory Prediction
+    - Multi-Object Tracking
     - Multi-Agent Systems
     - Adversarial Learning
+    - Generative Models
 
 - title: "Conditional Generative Neural System for Probabilistic Trajectory Prediction"
   authors:
     - 'J. Li'
     - 'H. Ma'
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE/RSJ International Conference on Robotics and Systems (IROS 2019)'
   date: 2019-06-19
   # image: ./paper_images/SoNIC.png
@@ -846,7 +877,7 @@
     - 'J. Li'
     - 'H. Ma'
     - W. Zhan
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Intelligent Vehicles Symposium (IV 2019)'
   date: 2019-05-19
   # image: ./paper_images/SoNIC.png
@@ -863,10 +894,10 @@
 
 - title: "Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction"
   authors:
-    - 'H. Ma'
-    - 'J. Li'
+    - H. Ma
+    - J. Li
     - W. Zhan
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Intelligent Vehicles Symposium (IV 2019)'
   date: 2019-04-19
   # image: ./paper_images/SoNIC.png
@@ -881,10 +912,10 @@
 ################ 2018 ################
 - title: "Generic Probabilistic Interactive Situation Recognition and Prediction: From Virtual to Real"
   authors:
-    - 'J. Li'
-    - 'H. Ma'
+    - J. Li
+    - H. Ma
     - W. Zhan
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2018)'
   date: 2018-08-19
   # image: ./paper_images/SoNIC.png
@@ -905,7 +936,7 @@
     - L. Sun
     - Y. Hu
     - J. Li
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Intelligent Transportation Systems Conference (ITSC 2018)'
   date: 2018-08-16
   # image: ./paper_images/SoNIC.png
@@ -924,7 +955,7 @@
   authors:
     - J. Li
     - W. Zhan
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'IEEE Intelligent Vehicles Symposium (IV 2018, Oral)'
   date: 2018-03-16
   # image: ./paper_images/SoNIC.png
@@ -937,7 +968,7 @@
       link: https://arxiv.org/abs/1809.10237
   tags:
     - Autonomous Driving
-    - Agent Tracking
+    - Multi-Object Tracking
 
 ################ 2017 ################
 - title: "Safe and Feasible Motion Generation for Autonomous Driving via Constrained Policy Net"
@@ -945,7 +976,7 @@
     - W. Zhan
     - J. Li
     - Y. Hu
-    - M. Tomizuka
+    - and M. Tomizuka
   publisher: 'Annual Conference of the Industrial Electronics Society (IECON 2017)'
   date: 2017-09-16
   # image: ./paper_images/SoNIC.png
@@ -962,7 +993,7 @@
   authors:
     - J. Li
     - C. Duan
-    - Z. Fei
+    - and Z. Fei
   publisher: 'IEEE Transactions on Industrial Electronics'
   date: 2016-09-16
   # image: ./paper_images/SoNIC.png
@@ -977,7 +1008,7 @@
   authors:
     - S. Shi
     - Z. Fei
-    - J. Li
+    - and J. Li
   publisher: 'Journal of the Franklin Institute'
   date: 2016-08-16
   # image: ./paper_images/SoNIC.png
@@ -992,7 +1023,7 @@
   authors:
     - C. Duan
     - Z. Fei
-    - J. Li
+    - and J. Li
   publisher: 'Neurocomputing'
   date: 2016-06-16
   # image: ./paper_images/SoNIC.png
