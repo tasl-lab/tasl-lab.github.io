@@ -4,9 +4,9 @@ image: people_photos/default.png
 role: visiting
 affiliation: KAIST
 order: 041
-# aliases:
-#   - Y. Xia
-#   - Y Xia
+aliases:
+  - K. Lee
+  - K Lee
 links:
   # people-homepage: https://jyao97.github.io/
   # people-email: jyao073@ucr.edu
