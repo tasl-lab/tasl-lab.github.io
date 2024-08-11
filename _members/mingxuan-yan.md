@@ -3,6 +3,7 @@ name: Mingxuan Yan
 image: people_photos/mingxuanyan.jpg
 role: grad
 affiliation: UC Riverside
+order: 003
 aliases:
   - M. Yan
   - M Yan

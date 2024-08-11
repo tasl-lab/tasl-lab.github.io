@@ -3,6 +3,7 @@ name: Nate Matora
 image: people_photos/default.png
 role: under
 affiliation: UC Riverside
+order: 032
 # aliases:
 #   - Y. Xia
 #   - Y Xia

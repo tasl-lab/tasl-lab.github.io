@@ -3,6 +3,7 @@ name: Anirudh Nittur Venkatesh
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
+order: 101
 # aliases:
 #   - Z. Li
 #   - Z Li

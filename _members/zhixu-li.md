@@ -3,6 +3,7 @@ name: Zhixu Li
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
+order: 000
 aliases:
   - Z. Li
   - Z Li

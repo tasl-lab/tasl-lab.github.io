@@ -3,6 +3,7 @@ name: Albert Dang
 image: people_photos/albert_dang.png
 role: grad
 affiliation: UC Riverside
+order: 113
 aliases:
   - A. Dang
   - A Dang

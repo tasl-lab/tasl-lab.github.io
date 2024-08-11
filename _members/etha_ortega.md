@@ -3,6 +3,7 @@ name: Ethan Ortega
 image: people_photos/default.png
 role: under
 affiliation: UC Riverside
+order: 331
 # aliases:
 #   - Y. Xia
 #   - Y Xia

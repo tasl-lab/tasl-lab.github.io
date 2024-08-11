@@ -3,6 +3,7 @@ name: Yu Xia
 image: people_photos/yuxia.jpg
 role: grad
 affiliation: UC Riverside
+order: 112
 aliases:
   - Y. Xia
   - Y Xia

@@ -3,6 +3,7 @@ name: Zhifeng Wu
 image: people_photos/zhifengwu.jpg
 role: grad
 affiliation: UC Riverside
+order: 123
 aliases:
   - Z. Wu
   - Z Wu

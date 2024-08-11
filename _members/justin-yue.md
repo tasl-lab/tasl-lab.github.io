@@ -3,6 +3,7 @@ name: Justin Yue
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
+order: 003
 aliases:
   - J. Yue
   - J Yue

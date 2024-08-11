@@ -3,6 +3,7 @@ name: Junge Zhang
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
+order: 003
 aliases:
   - J. Zhang
   - J Zhang

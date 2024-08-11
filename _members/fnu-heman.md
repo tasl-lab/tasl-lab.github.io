@@ -3,6 +3,7 @@ name: Fnu Heman
 image: people_photos/default.png
 role: grad
 affiliation: UC Riverside
+order: 102
 # aliases:
 #   - A. Dang
 #   - A Dang
