@@ -1,6 +1,6 @@
 ---
 name: Fnu Heman
-image: people_photos/default.png
+image: people_photos/heman.jpg
 role: grad
 affiliation: UC Riverside
 order: 102

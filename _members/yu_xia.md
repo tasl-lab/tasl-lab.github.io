@@ -1,6 +1,6 @@
 ---
 name: Yu Xia
-image: people_photos/yuxia.jpg
+image: people_photos/yuxia.png
 role: grad
 affiliation: UC Riverside
 order: 112

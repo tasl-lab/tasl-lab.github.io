@@ -1,6 +1,6 @@
 ---
 name: Justin Yue
-image: people_photos/default.png
+image: people_photos/justin.png
 role: grad
 affiliation: UC Riverside
 order: 012
