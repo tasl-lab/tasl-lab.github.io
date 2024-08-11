@@ -61,7 +61,7 @@
 }
 
 .citation-publisher {
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .citation-description {
