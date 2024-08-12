@@ -485,7 +485,7 @@
     <h1 id="featured-research">
 <i class="icon fa-solid fa-robot"></i>Featured Research</h1>
 
-<p>The ultimate goal of our research is to build <strong>trustworthy</strong>, <strong>interactive</strong>, and <strong>human-centered</strong> autonomous agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans and other agents, and clearly explain their behaviors to build trust with humans so that they can benefit society in daily lives. To achieve this goal, we have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, machine learning, reinforcement learning, explainable AI, control theory, optimization, and computer vision.</p>
+<p>The ultimate goal of our research is to build <strong>trustworthy</strong>, <strong>interactive</strong>, and <strong>human-centered</strong> autonomous embodied agents that can perceive, understand, and reason about the physical world; safely interact and collaborate with humans; and efficiently coordinate with other intelligent agents so that they can benefit society in daily lives. To achieve this goal, we have been pursuing interdisciplinary research and unifying the techniques and tools from robotics, trustworthy AI/ML, deep reinforcement learning, control theory, optimization, and computer vision.</p>
 
 <!-- 
 
@@ -499,7 +499,7 @@
   <div class="card-text">
     
       <a class="card-title">
-        Explainable Relational Reasoning and Multi-Agent Interaction Modeling (Social &amp; Physical)
+        Safe and Robust Interaction-Aware Decision Making for Human-Robot Interactions
       </a>
     
 
@@ -507,62 +507,8 @@
   </div>
 
   <div class="card-img" style="aspect-ratio: 5.0; overflow: hidden; margin-bottom: 0px;">
-    <a aria-label="Explainable Relational Reasoning and Multi-Agent Interaction Modeling (Social &amp; Physical)" class="card-image">
-      <img src="/research_images/Explainable%20Relational%20Reasoning.webp" alt="Explainable Relational Reasoning and Multi-Agent Interaction Modeling (Social &amp; Physical)" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-    </a>
-  </div>
-  
-  <div class="card-description" style="margin: 0px;">
-    
-      <p>
-        We investigate relational reasoning and interaction modeling in the context of the trajectory prediction task, which aims to generate accurate, diverse future trajectory hypotheses or state sequences based on historical observations.
-<strong>Our research introduced the first unified relational reasoning toolbox that systematically infers the underlying relations/interactions between entities at different scales (e.g., pairwise, group-wise) and different abstraction levels (e.g., multiplex) by learning dynamic latent interaction graphs and hypergraphs from observable states (e.g., positions) in an unsupervised manner.</strong>
-The learned latent graphs are explainable and generalizable, significantly improving the performance of downstream tasks, including prediction, sequential decision making, and control.
-<strong>We also proposed a physics-guided relational learning approach for physical dynamics modeling.</strong><br>
-
-<strong>Related Publications:</strong> <br>
-1. <a href="https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html">EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning</a>, NeurIPS 2020. <br>
-2. <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html">RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting</a>, ICCV 2021. <br>
-3. <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html">Interaction Modeling with Multiplex Attention</a>, NeurIPS 2022. <br>
-4. <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html">Learning Physical Dynamics with Subequivariant Graph Neural Networks</a>, NeurIPS 2022. <br>
-5. <a href="https://arxiv.org/abs/2109.14128">Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting</a>, ICRA 2022. <br>
-6. <a href="https://arxiv.org/abs/2401.12275">Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation</a>, submitted to IEEE Transactions on Robotics (T-RO), under review.
-
-      </p>
-    
-  
-    
-      
-
-
-  <div class="tags" data-link="https://tasl-lab.github.io/research/">
-    
-      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20graph-neural-networks%22" class="tag" data-tooltip='Show items with the tag "graph-neural-networks"'>
-        graph-neural-networks
-      </a>
-    
-  </div>
-
-
-    
-  </div>
-</div>
-
-<div class="card" data-style="" style="width: 100%; ">
-
-  <div class="card-text">
-    
-      <a class="card-title">
-        Interaction-Aware Decision Making and Model-Based Control
-      </a>
-    
-
-    
-  </div>
-
-  <div class="card-img" style="aspect-ratio: 5.0; overflow: hidden; margin-bottom: 0px;">
-    <a aria-label="Interaction-Aware Decision Making and Model-Based Control" class="card-image">
-      <img src="/research_images/Interaction-Aware%20Decision%20Making%20and%20Model-Based%20Control.png" alt="Interaction-Aware Decision Making and Model-Based Control" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+    <a aria-label="Safe and Robust Interaction-Aware Decision Making for Human-Robot Interactions" class="card-image">
+      <img src="/research_images/human_robot_interaction.png" alt="Safe and Robust Interaction-Aware Decision Making for Human-Robot Interactions" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
     </a>
   </div>
   
@@ -573,15 +519,15 @@ The learned latent graphs are explainable and generalizable, significantly impro
 Robots must learn a safe and efficient behavior policy that can model the interactions, coordinate with surrounding static/dynamic entities, and generalize to out-of-distribution (OOD) situations. 
 <strong>Our research introduced a novel interaction-aware decision making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically. 
 We also investigate model-based control methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds.</strong> 
-Both methods achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ and developers’ trust.<br>
+Both methods achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ and developers’ trust.<br><br>
 
 <strong>Related Publications:</strong> <br>
-1. <a href="https://arxiv.org/abs/2011.04251">Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships</a>, ICRA 2021. <br>
+1. <a href="https://arxiv.org/abs/2401.12275">Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation</a>, submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
+2. <a href="https://arxiv.org/abs/2011.04251">Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships</a>, ICRA 2021. <br>
 2. <a href="https://arxiv.org/abs/2106.13052">Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks</a>, ITSC 2021. <br>
 3. <a href="https://arxiv.org/abs/2307.10160">Robust Driving Policy Learning with Guided Meta Reinforcement Learning</a>, ITSC 2023. <br>
 4. <a href="https://www.researchgate.net/publication/374831905_Game_Theory-Based_Simultaneous_Prediction_and_Planning_for_Autonomous_Vehicle_Navigation_in_Crowded_Environments">Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments</a>, ITSC 2023. <br>
 5. <a href="https://arxiv.org/abs/2311.16091">Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation</a>, T-RO 2024. <br>
-6. <a href="https://arxiv.org/abs/2401.12275">Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation</a>, submitted to IEEE Transactions on Robotics (T-RO), under review.
 
       </p>
     
@@ -617,7 +563,7 @@ Both methods achieve superior performance in the corresponding tasks in terms of
 
   <div class="card-img" style="aspect-ratio: 5.0; overflow: hidden; margin-bottom: 0px;">
     <a aria-label="Vision and Language Models for Embodied Intelligence" class="card-image">
-      <img src="/research_images/Vision%20and%20Language%20Models%20for%20Embodied%20Intelligence.png" alt="Vision and Language Models for Embodied Intelligence" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+      <img src="/research_images/VLM.png" alt="Vision and Language Models for Embodied Intelligence" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
     </a>
   </div>
   
@@ -627,7 +573,7 @@ Both methods achieve superior performance in the corresponding tasks in terms of
         We investigate foundation models and vision language models (VLMs) for robotics and autonomous systems to enhance their reasoning capability and reliability. 
 For example, inferring the short-term and long-term intentions of traffic participants and understanding the contextual semantics of scenes are the keys to scene understanding and situational awareness of autonomous vehicles. 
 Moreover, how to enable autonomous agents (e.g., self-driving cars) to explain their reasoning, prediction, and decision making processes to human users (e.g., drivers, passengers) in a human understandable form (e.g., natural language) to build humans’ trust remains largely underexplored. 
-Therefore, <strong>we created the first multimodal dataset for a new risk object ranking and natural language explanation task in urban scenarios and a rich dataset for intention prediction in autonomous driving, establishing benchmarks for corresponding tasks. Meanwhile, our research introduced novel methods that achieve superior performance on these problems.</strong><br>
+Therefore, <strong>we created the first multimodal dataset for a new risk object ranking and natural language explanation task in urban scenarios and a rich dataset for intention prediction in autonomous driving, establishing benchmarks for corresponding tasks. Meanwhile, our research introduced novel methods that achieve superior performance on these problems.</strong><br><br>
 
 <strong>Related Publications:</strong> <br>
 1. <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html">LOKI: Long Term and Key Intentions for Trajectory Prediction</a>, ICCV 2021. <br>
@@ -646,6 +592,112 @@ Therefore, <strong>we created the first multimodal dataset for a new risk object
     
       <a href="https://tasl-lab.github.io/research/?search=%22tag:%20foundation-models%22" class="tag" data-tooltip='Show items with the tag "foundation-models"'>
         foundation-models
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20mobile-manipulation%22" class="tag" data-tooltip='Show items with the tag "mobile-manipulation"'>
+        mobile-manipulation
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20autonomous-driving%22" class="tag" data-tooltip='Show items with the tag "autonomous-driving"'>
+        autonomous-driving
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20human-robot-interaction/collaboration%22" class="tag" data-tooltip='Show items with the tag "human-robot-interaction/collaboration"'>
+        human-robot-interaction/collaboration
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20multi-agent/robot-systems%22" class="tag" data-tooltip='Show items with the tag "multi-agent/robot-systems"'>
+        multi-agent/robot-systems
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20cooperative-planning%22" class="tag" data-tooltip='Show items with the tag "cooperative-planning"'>
+        cooperative-planning
+      </a>
+    
+  </div>
+
+
+    
+  </div>
+</div>
+
+<div class="card" data-style="" style="width: 100%; ">
+
+  <div class="card-text">
+    
+      <a class="card-title">
+        Explainable and Generalizable Relational Reasoning and Multi-Agent Interaction Modeling (Social &amp; Physical)
+      </a>
+    
+
+    
+  </div>
+
+  <div class="card-img" style="aspect-ratio: 5.0; overflow: hidden; margin-bottom: 0px;">
+    <a aria-label="Explainable and Generalizable Relational Reasoning and Multi-Agent Interaction Modeling (Social &amp; Physical)" class="card-image">
+      <img src="/research_images/Explainable%20Relational%20Reasoning.webp" alt="Explainable and Generalizable Relational Reasoning and Multi-Agent Interaction Modeling (Social &amp; Physical)" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+    </a>
+  </div>
+  
+  <div class="card-description" style="margin: 0px;">
+    
+      <p>
+        We investigate dynamic relational reasoning and interaction modeling under the context of the trajectory/motion prediction task, which aims to generate accurate, diverse future trajectory hypotheses or state sequences based on historical observations.
+<strong>Our research introduced the first unified relational reasoning toolbox that systematically infers the underlying relations/interactions between entities at different scales (e.g., pairwise, group-wise) and different abstraction levels (e.g., multiplex) by learning dynamic latent interaction graphs and hypergraphs from observable states (e.g., positions) in an unsupervised manner.</strong>
+The learned latent graphs are explainable and generalizable, significantly improving the performance of downstream tasks, including more accurate and generalizable prediction as well as safer and more efficient sequential decision making and control for mobile robots.
+<strong>We also proposed a physics-guided relational learning approach for physical dynamics modeling.</strong><br><br>
+
+<strong>Related Publications:</strong> <br>
+1. <a href="https://arxiv.org/abs/2401.12275">Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation</a>, submitted to IEEE Transactions on Robotics (T-RO). <br>
+2. <a href="https://arxiv.org/abs/2109.14128">Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Crowd Trajectory Forecasting</a>, ICRA 2022. <br>
+3. <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html">Learning Physical Dynamics with Subequivariant Graph Neural Networks</a>, NeurIPS 2022. <br>
+4. <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html">Interaction Modeling with Multiplex Attention</a>, NeurIPS 2022. <br>
+5. <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html">RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting</a>, ICCV 2021. <br>
+6. <a href="https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html">EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning</a>, NeurIPS 2020. <br>
+
+      </p>
+    
+  
+    
+      
+
+
+  <div class="tags" data-link="https://tasl-lab.github.io/research/">
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20relational-reasoning%22" class="tag" data-tooltip='Show items with the tag "relational-reasoning"'>
+        relational-reasoning
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20graph-neural-networks%22" class="tag" data-tooltip='Show items with the tag "graph-neural-networks"'>
+        graph-neural-networks
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20multi-agent-interaction%22" class="tag" data-tooltip='Show items with the tag "multi-agent-interaction"'>
+        multi-agent-interaction
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20trajectory-prediction%22" class="tag" data-tooltip='Show items with the tag "trajectory-prediction"'>
+        trajectory-prediction
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20explainability/interpretability%22" class="tag" data-tooltip='Show items with the tag "explainability/interpretability"'>
+        explainability/interpretability
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20generalization%22" class="tag" data-tooltip='Show items with the tag "generalization"'>
+        generalization
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20autonomous-driving%22" class="tag" data-tooltip='Show items with the tag "autonomous-driving"'>
+        autonomous-driving
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20social-navigation%22" class="tag" data-tooltip='Show items with the tag "social-navigation"'>
+        social-navigation
+      </a>
+    
+      <a href="https://tasl-lab.github.io/research/?search=%22tag:%20human-robot-interaction/collaboration%22" class="tag" data-tooltip='Show items with the tag "human-robot-interaction/collaboration"'>
+        human-robot-interaction/collaboration
       </a>
     
   </div>
