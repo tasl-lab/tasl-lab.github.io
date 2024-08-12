@@ -475,6 +475,7 @@
   tags:
     - Autonomous Driving
     - Semi-Supervised Learning
+    - Relational Reasoning
 
 - title: "Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Dense Crowd Trajectory Forecasting"
   authors:
@@ -496,6 +497,7 @@
   tags:
     - Graph Neural Networks
     - Trajectory Prediction
+    - Relational Reasoning
 
 - title: "Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments"
   authors:
@@ -578,6 +580,7 @@
   tags:
     - Trajectory Prediction
     - Reinforcement Learning
+    - Relational Reasoning
 
 - title: "LOKI: Long Term and Key Intentions for Trajectory Prediction"
   authors:
@@ -644,6 +647,7 @@
     - Multi-Agent/Robot Systems
     - Trajectory Prediction
     - Multi-Object Tracking
+    - Relational Reasoning
 
 - title: "Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory"
   authors:
@@ -710,6 +714,7 @@
   tags:
     - Graph Neural Networks
     - Trajectory Prediction
+    - Relational Reasoning
 
 - title: "Multi-agent Driving Behavior Prediction across Different Scenarios with Self-supervised Domain Knowledge"
   authors:
@@ -732,6 +737,7 @@
     - Trajectory Prediction
     - Generalization
     - Multi-Agent/Robot Systems
+    - Relational Reasoning
 
 
 - title: "Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks"

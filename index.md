@@ -11,7 +11,7 @@ The ultimate goal of our research is to build **trustworthy**, **interactive**, 
 {%
   include button.html
   link="research"
-  text="See our research projects"
+  text="See our featured topics"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

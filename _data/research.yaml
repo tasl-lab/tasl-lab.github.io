@@ -12,23 +12,38 @@
     2) investigated deep reinforcement learning DRL methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds;
     3) proposed the first DRL framework that integrates the prediction uncertainty of pedestrians and explicitly guided the policy learning process in a principled manner for social navigation.
     </strong>
-    These approaches achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ trust.<br><br>
+    These approaches achieve superior performance in the corresponding tasks and provide explainable, human-understandable intermediate representations to build users' trust.<br><br>
 
     **Related Publications:** <br>
     1. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
     2. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
-    3. [Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation](https://arxiv.org/abs/2311.16091), T-RO 2024. <br>
-    4. [Robust Driving Policy Learning with Guided Meta Reinforcement Learning](https://arxiv.org/abs/2307.10160), ITSC 2023. <br>
-    5. [Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments](https://www.researchgate.net/publication/374831905_Game_Theory-Based_Simultaneous_Prediction_and_Planning_for_Autonomous_Vehicle_Navigation_in_Crowded_Environments), ITSC 2023. <br>
-    6. [Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks](https://arxiv.org/abs/2106.13052), ITSC 2021. <br>
-    7. [Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships](https://arxiv.org/abs/2011.04251), ICRA 2021. <br>
+    3. [Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly Interactive Environments](https://arxiv.org/abs/2407.09475), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    4. [Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation](https://arxiv.org/abs/2311.16091), IEEE Transactions on Robotics (T-RO), 2024. <br>
+    5. [Robust Driving Policy Learning with Guided Meta Reinforcement Learning](https://arxiv.org/abs/2307.10160), ITSC 2023. <br>
+    6. [Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments](https://www.researchgate.net/publication/374831905_Game_Theory-Based_Simultaneous_Prediction_and_Planning_for_Autonomous_Vehicle_Navigation_in_Crowded_Environments), ITSC 2023. <br>
+    7. [Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks](https://arxiv.org/abs/2106.13052), ITSC 2021. <br>
+    8. [Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships](https://arxiv.org/abs/2011.04251), ICRA 2021. <br>
+    9. [Orientation-Aware Planning for Parallel Task Execution of Omni-Directional Mobile Robot](https://arxiv.org/abs/2108.00716), IROS 2021. <br>
+    10. [Safe and Feasible Motion Generation for Autonomous Driving via Constrained Policy Net](https://ieeexplore.ieee.org/abstract/document/8216790), IECON 2017. <br>
+
+
   # repo: greenelab/lab-website-template
 
   tags:
     - Social Navigation
+    - Autonomous Driving
+    - Human-Robot Interaction/Collaboration
+    - Trajectory Prediction
+    - Deep Reinforcement Learning
+    - Uncertainty Quantification
+    - Meta Learning
+    - Safety
+    - Generalization/Robustness
+    - Explainability/Interpretability
+    - Graph Neural Networks
 
 
-- title: Vision and Language Models for Embodied Intelligence
+- title: Multi-Modal Foundation Models for Embodied Intelligence
   # subtitle: a subtitle
   # group: featured
   image: research_images/VLM.png
@@ -48,6 +63,7 @@
   # repo: greenelab/lab-website-template
   tags:
     - Foundation Models
+    - Vision-Language
     - Mobile Manipulation
     - Autonomous Driving
     - Human-Robot Interaction/Collaboration
@@ -64,17 +80,21 @@
     We investigate dynamic relational reasoning and interaction modeling under the context of the trajectory/motion prediction task, which aims to generate accurate, diverse future trajectory hypotheses or state sequences based on historical observations.
     **Our research introduced the first unified relational reasoning toolbox that systematically infers the underlying relations/interactions between entities at different scales (e.g., pairwise, group-wise) and different abstraction levels (e.g., multiplex) by learning dynamic latent interaction graphs and hypergraphs from observable states (e.g., positions) in an unsupervised manner.**
     The learned latent graphs are explainable and generalizable, significantly improving the performance of downstream tasks, including more accurate and generalizable prediction as well as safer and more efficient sequential decision making and control for mobile robots.
-    **We also proposed a physics-guided relational learning approach for physical dynamics modeling.**<br><br>
+    **We also proposed a physics-guided relational learning approach for physical dynamics modeling, which accurately simulates and infers future evolution of physical systems.**<br><br>
     
     **Related Publications\:** <br>
     1. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
-    2. [Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Crowd Trajectory Forecasting](https://arxiv.org/abs/2109.14128), ICRA 2022. <br>
-    3. [Learning Physical Dynamics with Subequivariant Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html), NeurIPS 2022. <br>
-    4. [Interaction Modeling with Multiplex Attention](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html), NeurIPS 2022. <br>
-    5. [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html), ICCV 2021. <br>
-    6. [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html), NeurIPS 2020. <br>
+    2. [Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation](https://arxiv.org/abs/2311.16091), IEEE Transactions on Robotics (T-RO), 2024. <br>
+    3. [Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Crowd Trajectory Forecasting](https://arxiv.org/abs/2109.14128), ICRA 2022. <br>
+    4. [Important Object Identification with Semi-Supervised Learning for Autonomous Driving](http://arxiv.org/abs/2203.02634), ICRA 2022. <br>
+    5. [Learning Physical Dynamics with Subequivariant Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html), NeurIPS 2022. <br>
+    6. [Interaction Modeling with Multiplex Attention](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html), NeurIPS 2022. <br>
+    7. [Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking](https://ieeexplore.ieee.org/document/9491972), IEEE Transactions on Intelligent Transportation Systems, 2022. <br>
+    8. [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html), ICCV 2021. <br>
+    9. [Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory](https://ieeexplore.ieee.org/document/9512468), IEEE Robotics and Automation Letters, 2021. <br>
+    10. [Spectral Temporal Graph Neural Network for Trajectory Prediction](https://arxiv.org/abs/2106.02930), ICRA 2021. <br>
+    11. [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html), NeurIPS 2020. <br>
     
-
   # repo: greenelab/lab-website-template
   tags:
     - Relational Reasoning 
@@ -95,7 +115,7 @@
   image: research_images/trajectory_occupancy_prediction.png
   # link: https://github.com/
   description: |
-    We <br><br>
+    <br><br>
     
     **Related Publications\:** <br>
     1. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
@@ -103,8 +123,22 @@
     3. [Self-Supervised Multi-Future Occupancy Forecasting for Autonomous Driving](https://arxiv.org/abs/2407.21126), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
     4. [Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments](https://arxiv.org/abs/2309.13893), ICRA 2024. <br>
     5. [Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving](https://arxiv.org/abs/2310.01723), IV 2024. <br>
-    6. [Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments](https://arxiv.org/abs/2209.13172), IROS 2022. <br>
-    
+    6. [Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D Human Keypoints](https://arxiv.org/abs/2306.01075), ICRA 2023. <br>
+    7. [Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments](https://ieeexplore.ieee.org/document/10422696), ITSC 2023. <br>
+    8. [A Cognition-Inspired Trajectory Prediction Method for Vehicles in Interactive Scenarios](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12345), IET Intelligent Transport Systems, 2023. <br>
+    9. [Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments](https://arxiv.org/abs/2209.13172), IROS 2022. <br>
+    10. [Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking](https://arxiv.org/abs/2102.09117), IEEE Transactions on Intelligent Transportation Systems, 2022. <br>
+    11. [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html), ICCV 2021. <br>
+    12. [Shared Cross-Modal Trajectory Prediction for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2021/html/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.html), CVPR 2021 (Oral). <br>
+    13. [LOKI: Long Term and Key Intentions for Trajectory Prediction](https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html), ICCV 2021. <br>
+    14. [Continual Multi-agent Interaction Behavior Prediction with Conditional Generative Memory](https://ieeexplore.ieee.org/document/9512468), IEEE Robotics and Automation Letters (RA-L), 2021. <br>
+    15. [Multi-agent Driving Behavior Prediction across Different Scenarios with Self-supervised Domain Knowledge](https://ieeexplore.ieee.org/document/9564510), ITSC 2021. <br>
+    16. [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://arxiv.org/abs/2003.13924), NeurIPS 2020. <br>
+    17. [Generic Tracking and Probabilistic Prediction Framework and Its Application in Autonomous Driving](https://arxiv.org/abs/1908.09031), IEEE Transactions on Intelligent Transportation Systems, 2020. <br>
+    18. [Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning](https://arxiv.org/abs/1904.02390), ICRA 2019. <br>
+    19. [Conditional Generative Neural System for Probabilistic Trajectory Prediction](https://arxiv.org/abs/1905.01631), IROS 2019. <br>
+    20. [Coordination and Trajectory Prediction for Vehicle Interactions via Bayesian Generative Modeling](https://arxiv.org/abs/1905.00587), IV 2019. <br>
+    21. [Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction](https://ieeexplore.ieee.org/document/8813783), IV 2019.
 
   # repo: greenelab/lab-website-template
   tags:
@@ -112,57 +146,78 @@
     - Occupancy Prediction
     - Occlusion Inference
     - Autonomous Driving
+    - Generative Models
+    - Continual/Lifelong Learning
+    - Generalization/Robustness
+    - Spatio-Temporal Reasoning
+    - Game Theory
+    - Self-Supervised Learning
+    - Relational Reasoning
+    - Graph Neural Networks
 
 
 
 - title: Human Intention and Motion Prediction for Human-Robot Interactions
   # subtitle: a subtitle
   # group: featured
-  image: research_images/trajectory_occupancy_prediction.png
+  image: research_images/human_motion.png
   # link: https://github.com/
   description: |
-    We <br><br>
+    <br><br>
     
     **Related Publications\:** <br>
-    1. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
-    2. [Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting](https://arxiv.org/abs/2407.09475), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
-    3. [Self-Supervised Multi-Future Occupancy Forecasting for Autonomous Driving](https://arxiv.org/abs/2407.21126), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
-    4. [Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments](https://arxiv.org/abs/2309.13893), ICRA 2024. <br>
-    5. [Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving](https://arxiv.org/abs/2310.01723), IV 2024. <br>
-    6. [Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments](https://arxiv.org/abs/2209.13172), IROS 2022. <br>
-    
+    1. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    2. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
+    3. [MATRIX: Multi-Agent Trajectory Generation with Diverse Contexts](https://arxiv.org/abs/2403.06041), ICRA 2024. <br>
+    4. [Pedestrian Crossing Action Recognition and Trajectory Prediction with 3D Human Keypoints](https://arxiv.org/abs/2306.01075), ICRA 2023. <br>
+    5. [Multi-Objective Diverse Human Motion Prediction with Knowledge Distillation](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_Multi-Objective_Diverse_Human_Motion_Prediction_With_Knowledge_Distillation_CVPR_2022_paper.html), CVPR 2022 (Oral). <br>
+    6. [Interaction Modeling with Multiplex Attention](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html), NeurIPS 2022. <br>
+    7. [Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Crowd Trajectory Forecasting](https://arxiv.org/abs/2109.14128), ICRA 2022. <br>
+    8. [RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting](https://openaccess.thecvf.com/content/ICCV2021/html/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.html), ICCV 2021. <br>
+    9. [Spectral Temporal Graph Neural Network for Trajectory Prediction](https://arxiv.org/abs/2106.02930), ICRA 2021. <br>
+    10. [LOKI: Long Term and Key Intentions for Trajectory Prediction](https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html), ICCV 2021. <br>
+    11. [EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning](https://arxiv.org/abs/2003.13924), NeurIPS 2020. <br>
+    12. [Conditional Generative Neural System for Probabilistic Trajectory Prediction](https://arxiv.org/abs/1905.01631), IROS 2019. <br>
+
+  
 
   # repo: greenelab/lab-website-template
   tags:
     - Trajectory Prediction
-    - Occupancy Prediction
-    - Occlusion Inference
-    - Autonomous Driving
-
+    - Human Inention/Motion Prediction
+    - Human-Robot Interaction/Collaboration
+    - Social Navigation
+    - Generative Models
+    - Relational Reasoning
+    - Graph Neural Networks
 
 
 
 - title: Improving Generalizability by Learning Context Relations
   # subtitle: a subtitle
   # group: featured
-  image: research_images/Improving Generalizability by Learning Context Relations.png
+  image: research_images/context_relation.png
   # link: https://github.com/
   description: |
     How to generalize the prediction to different scenarios is largely underexplored. 
     In contrast to recent works that use the Cartesian coordinate system and global context images directly as input, **we propose to leverage human prior knowledge including the comprehension of pairwise relations between agents and pairwise context information extracted by self-supervised learning approaches to attain an effective Frenet-based representation.** 
-    We demonstrate that our approach achieves superior performance in terms of **overall performance, zero-shot, and few-shot transferability across different traffic scenarios with diverse layouts.** <br>
+    We demonstrate that our approach achieves superior performance in terms of **overall performance, zero-shot, and few-shot transferability across different traffic scenarios with diverse layouts.** <br><br>
 
     **Related Publications\:** <br>
     1. [Multi-Agent Driving Behavior Prediction across Different Scenarios with Self-Supervised Domain Knowledge](https://ieeexplore.ieee.org/document/9564510), ITSC 2021.
   # repo: greenelab/lab-website-template
   tags:
     - Trajectory Prediction
+    - Generalization/Robustness
+    - Self-Supervised Learning
+    - Domain Knowledge
+    - Relational Reasoning
 
 
-- title: Continual / Lifelong Learning from Incremental Data
+- title: Continual/Lifelong Learning from Incremental Data
   # subtitle: a subtitle
   # group: featured
-  image: research_images/Continual Lifelong Learning from Incremental Data.png
+  image: research_images/continual_learning.png
   # link: https://github.com/
   description: |
     The current mainstream research focuses on how to achieve accurate prediction on one large dataset. 
@@ -170,7 +225,7 @@
     Can the current prediction methods avoid catastrophic forgetting? Can we utilize the continual learning strategy in the multi-agent trajectory prediction application? 
     Motivated by the generative replay methods in continual learning literature, **we propose a multi-agent interaction behavior prediction framework with a graph neural network-based conditional generative memory system to mitigate catastrophic forgetting. 
     To the best of our knowledge, this work is the first attempt to study the continual learning problem in multi-agent interaction behavior prediction problems.** 
-    We empirically show that several approaches in literature indeed suffer from catastrophic forgetting, and our approach succeeds in maintaining a low prediction error when datasets come sequentially.<br>
+    We empirically show that several approaches in literature indeed suffer from catastrophic forgetting, and our approach succeeds in maintaining a low prediction error when datasets come sequentially. <br><br>
 
 
     **Related Publications\:** <br>
@@ -178,41 +233,44 @@
   # repo: greenelab/lab-website-template
   tags:
     - Continual Learning
-
-
-- title: Diverse Prediction and Generation with Deep Generative Models
-  # subtitle: a subtitle
-  # group: featured
-  image: research_images/Diverse Prediction and Generation with Deep Generative Models.png
-  # link: https://github.com/
-  description: |
-    The objective of generative models is to approximate the true data distribution, with which one can generate new samples similar to real data points with a proper variance. 
-    Generative models have been widely employed in representation learning and distribution approximation. 
-    **We designed novel trajectory or human skeleton motion prediction methods based on deep generative models, which generate accurate and diverse prediction hypotheses. 
-    These methods can be broadly applied to time series prediction problems.**<br>
-    
-    
-    **Related Publications\:** <br>
-    1. [Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking](https://ieeexplore.ieee.org/document/9491972), IEEE Transactions on Intelligent Transportation Systems, 2022.<br>
-    2. [Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning](https://arxiv.org/abs/1904.02390), ICRA 2019. <br>
-    3. [Conditional Generative Neural System for Probabilistic Trajectory Prediction](https://arxiv.org/abs/1905.01631), IROS 2019. <br>
-    4. [Coordination and Trajectory Prediction for Vehicle Interactions via Bayesian Generative Modeling](https://arxiv.org/abs/1905.00587), IV 2019. <br>
-    5. [Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction](https://ieeexplore.ieee.org/document/8813783), IV 2019.
-
-  # repo: greenelab/lab-website-template
-  tags:
+    - Trajectory Prediction
+    - Relational Reasoning
     - Generative Models
+
+
+# - title: Diverse Prediction and Generation with Deep Generative Models
+#   # subtitle: a subtitle
+#   # group: featured
+#   image: research_images/Diverse Prediction and Generation with Deep Generative Models.png
+#   # link: https://github.com/
+#   description: |
+#     The objective of generative models is to approximate the true data distribution, with which one can generate new samples similar to real data points with a proper variance. 
+#     Generative models have been widely employed in representation learning and distribution approximation. 
+#     **We designed novel trajectory or human skeleton motion prediction methods based on deep generative models, which generate accurate and diverse prediction hypotheses. 
+#     These methods can be broadly applied to time series prediction problems.**<br>
+    
+    
+#     **Related Publications\:** <br>
+#     1. [Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking](https://ieeexplore.ieee.org/document/9491972), IEEE Transactions on Intelligent Transportation Systems, 2022.<br>
+#     2. [Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning](https://arxiv.org/abs/1904.02390), ICRA 2019. <br>
+#     3. [Conditional Generative Neural System for Probabilistic Trajectory Prediction](https://arxiv.org/abs/1905.01631), IROS 2019. <br>
+#     4. [Coordination and Trajectory Prediction for Vehicle Interactions via Bayesian Generative Modeling](https://arxiv.org/abs/1905.00587), IV 2019. <br>
+#     5. [Wasserstein Generative Learning with Kinematic Constraints for Probabilistic Interactive Driving Behavior Prediction](https://ieeexplore.ieee.org/document/8813783), IV 2019.
+
+#   # repo: greenelab/lab-website-template
+#   tags:
+#     - Generative Models
 
 - title: State Estimation with Learning-Based Models
   # subtitle: a subtitle
   # group: featured
-  image: research_images/State Estimation with Learning-Based Models.png
+  image: research_images/tracking.png
   # link: https://github.com/
   description: |
     We proposed a constrained mixture sequential Monte Carlo method that mitigates mode collapse in sequential Monte Carlo methods for tracking multiple targets and significantly improves tracking accuracy. 
     Since prediction is a step in state estimation, we also **proposed that the prior update in the state estimation framework can be implemented with any learning-based interaction-aware prediction model.** 
     The results in complex traffic scenarios show that using the prediction model outperforms purely physical models by a large margin due to the capability of relational reasoning. 
-    In particular, our method performs significantly better when handling missing or noisy sensor measurements.<br>
+    In particular, our method performs significantly better when handling missing or noisy sensor measurements.<br><br>
     
     
     **Related Publications\:** <br>
@@ -223,4 +281,6 @@
 
   # repo: greenelab/lab-website-template
   tags:
-    - Trajectory Prediction
+    - Multi-Object Tracking
+    - Sequential Monte Carlo
+    - Occlusion Handling

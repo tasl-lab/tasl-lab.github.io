@@ -492,6 +492,7 @@
   tags:
   - Autonomous Driving
   - Semi-Supervised Learning
+  - Relational Reasoning
   plugin: sources.py
   file: sources.yaml
 - title: 'Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware
@@ -514,6 +515,7 @@
   tags:
   - Graph Neural Networks
   - Trajectory Prediction
+  - Relational Reasoning
   plugin: sources.py
   file: sources.yaml
 - title: Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments
@@ -596,6 +598,7 @@
   tags:
   - Trajectory Prediction
   - Reinforcement Learning
+  - Relational Reasoning
   plugin: sources.py
   file: sources.yaml
 - title: 'LOKI: Long Term and Key Intentions for Trajectory Prediction'
@@ -664,6 +667,7 @@
   - Multi-Agent/Robot Systems
   - Trajectory Prediction
   - Multi-Object Tracking
+  - Relational Reasoning
   plugin: sources.py
   file: sources.yaml
 - title: Continual Multi-agent Interaction Behavior Prediction with Conditional Generative
@@ -732,6 +736,7 @@
   tags:
   - Graph Neural Networks
   - Trajectory Prediction
+  - Relational Reasoning
   plugin: sources.py
   file: sources.yaml
 - title: Multi-agent Driving Behavior Prediction across Different Scenarios with Self-supervised
@@ -755,6 +760,7 @@
   - Trajectory Prediction
   - Generalization
   - Multi-Agent/Robot Systems
+  - Relational Reasoning
   plugin: sources.py
   file: sources.yaml
 - title: 'Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art,
