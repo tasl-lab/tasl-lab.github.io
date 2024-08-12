@@ -1,10 +1,10 @@
-.card {
+.card-facilities {
   display: inline-flex;
   justify-content: stretch;
   align-items: center;
   flex-direction: column;
-  width: 100% !important;
-  max-width: calc(100% - 20px - 20px) !important;
+  width: 350px !important;
+  max-width: calc(100% - 20px - 20px);
   margin: 20px;
   background: var(--background);
   border-radius: var(--rounded);
@@ -13,53 +13,50 @@
   vertical-align: top;
 }
 
-.card[data-style=small] {
+.card-facilities[data-style=small] {
   width: 250px;
 }
 
-.card-image img {
+.card-image-facilities img {
   aspect-ratio: 3/2;
   object-fit: cover;
-  width: 92% !important;
 }
 
-.card-text {
+.card-text-facilities {
   display: inline-flex;
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   gap: 0px;
-  max-width: 100% !important;
   padding: 0px;
 }
 
-.card-description {
+.card-description-facilities {
   margin-top: -10px !important;
   display: inline-flex;
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   gap: 0px;
-  max-width: 92% !important;
   padding: 0px;
+  max-width: 92% !important;
 }
 
-.card-text > * {
+.card-text-facilities > * {
   margin: 0 !important;
 }
 
-.card-title {
+.card-title-facilities {
   font-family: var(--heading);
   font-size: var(--large);
   font-weight: var(--semi-bold);
   gap: 20px;
-  max-width: 100% !important;
   padding: 20px;
 }
 
-.card-subtitle {
+.card-subtitle-facilities {
   margin-top: -10px !important;
   font-style: italic;
 }
 
-/*# sourceMappingURL=card_research.css.map */
+/*# sourceMappingURL=card_facilities.css.map */
