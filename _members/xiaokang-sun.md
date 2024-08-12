@@ -1,12 +1,12 @@
 ---
-name: Jiaqi Li
-image: people_photos/jiaqili.jpg
+name: Xiaokang Sun
+image: people_photos/xiaokangsun.jpg
 role: visiting
 affiliation: Tsinghua University
-order: 923
+order: 922
 aliases:
-  - J. Li
-  - J Li
+  - X. Sun
+  - X Sun
 links:
   # people-homepage: https://jyao97.github.io/
   # people-email: jyao073@ucr.edu
