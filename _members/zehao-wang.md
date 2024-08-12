@@ -1,6 +1,6 @@
 ---
 name: Zehao Wang
-image: people_photos/default.png
+image: people_photos/zehaowang.jpg
 role: grad
 affiliation: UC Riverside
 order: 004
