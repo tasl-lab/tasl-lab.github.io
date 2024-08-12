@@ -5,20 +5,25 @@
   # link: https://github.com/
   description: |
     Although autonomous navigation in simple, static environments has been well studied, it remains challenging for robots to navigate in highly dynamic, interactive scenarios (e.g., intersections, narrow corridors) where humans are involved. 
-    Robots must learn a safe and efficient behavior policy that can model the interactions, coordinate with surrounding static/dynamic entities, and generalize to out-of-distribution (OOD) situations. 
-    **Our research introduced a novel interaction-aware decision making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically. 
-    We also investigate model-based control methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds.** 
-    Both methods achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ and developers’ trust.<br><br>
+    Robots must learn a safe and efficient behavior policy that can model the interactions, take into account the uncertainties among the interactions during decision-making, coordinate with surrounding static/dynamic entities, and generalize to out-of-distribution (OOD) situations.
+    In our previous research, we
+    <strong>
+    1) introduced a novel interaction-aware decision-making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically; 
+    2) investigated model-based control methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds;
+    3) proposed the first pipeline that organically combined the prediction uncertainty of pedestrians and explicitly guided the learning process of robots in the context of social navigation.
+    </strong>
+    All of the three methods achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ trust.<br><br>
 
-
-    **Related Publications\:** <br>
-    1. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
-    2. [Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships](https://arxiv.org/abs/2011.04251), ICRA 2021. <br>
-    2. [Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks](https://arxiv.org/abs/2106.13052), ITSC 2021. <br>
-    3. [Robust Driving Policy Learning with Guided Meta Reinforcement Learning](https://arxiv.org/abs/2307.10160), ITSC 2023. <br>
-    4. [Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments](https://www.researchgate.net/publication/374831905_Game_Theory-Based_Simultaneous_Prediction_and_Planning_for_Autonomous_Vehicle_Navigation_in_Crowded_Environments), ITSC 2023. <br>
-    5. [Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation](https://arxiv.org/abs/2311.16091), T-RO 2024. <br>
+    **Related Publications:** <br>
+    1. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    2. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
+    3. [Interactive Autonomous Navigation with Internal State Inference and Interactivity Estimation](https://arxiv.org/abs/2311.16091), T-RO 2024. <br>
+    4. [Robust Driving Policy Learning with Guided Meta Reinforcement Learning](https://arxiv.org/abs/2307.10160), ITSC 2023. <br>
+    5. [Game Theory-Based Simultaneous Prediction and Planning for Autonomous Vehicle Navigation in Crowded Environments](https://www.researchgate.net/publication/374831905_Game_Theory-Based_Simultaneous_Prediction_and_Planning_for_Autonomous_Vehicle_Navigation_in_Crowded_Environments), ITSC 2023. <br>
+    6. [Autonomous Driving Strategies at Intersections: Scenarios, State-of-the-Art, and Future Outlooks](https://arxiv.org/abs/2106.13052), ITSC 2021. <br>
+    7. [Reinforcement Learning for Autonomous Driving with Latent State Inference and Spatial-Temporal Relationships](https://arxiv.org/abs/2011.04251), ICRA 2021. <br>
   # repo: greenelab/lab-website-template
+
   tags:
     - Social Navigation
 

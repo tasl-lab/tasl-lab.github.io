@@ -23,7 +23,7 @@
 .card-image img {
   aspect-ratio: 3 / 2;
   object-fit: cover;
-  width: 100%;
+  width: 92% !important;
   // box-shadow: var(--shadow);
 }
 
@@ -65,3 +65,8 @@
   margin-top: -10px !important;
   font-style: italic;
 }
+
+// .card-text,
+// .card-description {
+//   text-align: left; /* 强制所有文本左对齐 */
+// }
