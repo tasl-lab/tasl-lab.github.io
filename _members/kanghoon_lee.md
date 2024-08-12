@@ -1,6 +1,6 @@
 ---
 name: Kanghoon Lee
-image: people_photos/default.png
+image: people_photos/kanghoonlee.jpg
 role: visiting
 affiliation: KAIST
 order: 901

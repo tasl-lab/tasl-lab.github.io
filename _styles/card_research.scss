@@ -32,18 +32,19 @@
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
-  gap: 20px;
+  gap: 0px;
   max-width: 100%;
-  padding: 20px;
+  padding: 0px;
 }
 
 .card-description {
+  margin-top: -10px  !important;
   display: inline-flex;
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
   gap: 0px;
-  max-width: 96%;
+  max-width: 92%;
   padding: 0px;
 }
 
@@ -55,6 +56,9 @@
   font-family: var(--heading);
   font-size: var(--large);
   font-weight: var(--semi-bold);
+  gap: 20px;
+  max-width: 100%;
+  padding: 20px;
 }
 
 .card-subtitle {
