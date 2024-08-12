@@ -6,13 +6,13 @@
   description: |
     Although autonomous navigation in simple, static environments has been well studied, it remains challenging for robots to navigate in highly dynamic, interactive scenarios (e.g., intersections, narrow corridors) where humans are involved. 
     Robots must learn a safe and efficient behavior policy that can model the interactions, take into account the uncertainties among the interactions during decision-making, coordinate with surrounding static/dynamic entities, and generalize to out-of-distribution (OOD) situations.
-    In our previous research, we
+    In our research, we have
     <strong>
-    1) introduced a novel interaction-aware decision-making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically; 
-    2) investigated model-based control methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds;
-    3) proposed the first pipeline that organically combined the prediction uncertainty of pedestrians and explicitly guided the learning process of robots in the context of social navigation.
+    1) introduced a novel interaction-aware decision making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically; 
+    2) investigated deep reinforcement learning (DRL) methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds;
+    3) proposed the first DRL framework that integrates the prediction uncertainty of pedestrians and explicitly guided the policy learning process in a principled manner for social navigation.
     </strong>
-    All of the three methods achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ trust.<br><br>
+   These approaches achieve superior performance in the corresponding tasks in terms of a wide range of evaluation metrics and provide explainable, human-understandable intermediate representations to build both users’ trust.<br><br>
 
     **Related Publications:** <br>
     1. [SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning](https://arxiv.org/abs/2407.17460), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
