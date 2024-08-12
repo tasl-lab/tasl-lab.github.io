@@ -515,15 +515,23 @@
   <div class="card-description" style="margin: 0px;">
     
       <p>
-        Although autonomous navigation in simple, static environments has been well studied, it remains challenging for robots to navigate in highly dynamic, interactive scenarios (e.g., intersections, narrow corridors) where humans are involved. 
-Robots must learn a safe and efficient behavior policy that can model the interactions, take into account the uncertainties among the interactions during decision-making, coordinate with surrounding static/dynamic entities, and generalize to out-of-distribution (OOD) situations.
+        Although autonomous navigation in simple, static environments has been well studied, it remains challenging for robots to navigate 
+in highly dynamic, interactive scenarios (e.g., intersections, narrow corridors) where humans are involved. 
+Robots must learn a safe and efficient behavior policy that can model the interactions, take into account the uncertainties among 
+the interactions during decision making, coordinate with surrounding static and dynamic entities, and generalize to 
+out-of-distribution (OOD) situations.
 In our research, we have
 <strong>
-1) introduced a novel interaction-aware decision making framework for autonomous vehicles based on reinforcement learning, which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically; 
-2) investigated deep reinforcement learning DRL methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds;
-3) proposed the first DRL framework that integrates the prediction uncertainty of pedestrians and explicitly guided the policy learning process in a principled manner for social navigation.
+1) introduced a novel interaction-aware decision making framework for autonomous vehicles based on deep reinforcement learning (DRL), 
+which integrates human internal state inference, domain knowledge, trajectory prediction, and counterfactual reasoning systematically; 
+2) developed a novel guided meta RL paradigm to improve the generalizability of learned policies and an importance sampling based 
+training mechansim for unbiased policy learning;
+3) investigated DRL methods that leverage the learned pairwise and group-wise relations for social robot navigation around human crowds;
+and 4) proposed the first DRL framework that integrates the prediction uncertainty of pedestrians obtained from adaptative conformal 
+inference and explicitly guides the policy learning process in a principled manner for social navigation.
 </strong>
-These approaches achieve superior performance in the corresponding tasks and provide explainable, human-understandable intermediate representations to build users’ trust.<br><br>
+These approaches achieve superior performance in the corresponding tasks and provide explainable, human-understandable intermediate 
+representations to build trust with humans.<br><br>
 
 <strong>Related Publications:</strong> <br>
 1. <a href="https://arxiv.org/abs/2407.17460">SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning</a>, submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
@@ -786,7 +794,21 @@ The learned latent graphs are explainable and generalizable, significantly impro
   <div class="card-description" style="margin: 0px;">
     
       <p>
-        <br><br>
+        Trajectory and occupancy prediction is a critical research area in the field of autonomous driving. 
+As autonomous driving technology advances rapidly, accurately predicting the trajectories and occupancy of dynamic objects 
+such as vehicles and pedestrians has become essential for enhancing the safety and reliability of autonomous systems. 
+Effective trajectory and occupancy prediction enables autonomous vehicles to anticipate potential hazards in their environment, 
+thereby improving decision making processes and reducing the risk of accidents. This directly contributes to the development 
+of more robust and safe autonomous driving technologies. In our research, we have
+<strong>
+1) developed effective solutions to model the diverse and uncertain behavior of various traffic participants (e.g., vehicles, pedestrians,
+cyclists) and infer their future trajectories and occupancy of the scene in highly complex and interactive traffic scenarios; 
+2) investigated how to effectively detect and handle out-of-distribution (OOD) situations by improving the generalizability of prediction 
+frameworks, which achieves state-of-the-art performance in cross-dateset OOD evaluations;
+3) introduced the first-of-its-kind cooperative motion prediction framework that advances the capabilities of connected
+and automated vehicles (CAVs) in cooperative tracking and motion prediction, addressing the crucial need for safe and robust decision making in dynamic environments.
+</strong>
+<br><br>
 
 <strong>Related Publications:</strong> <br>
 1. <a href="https://arxiv.org/abs/2403.17916">CMP: Cooperative Motion Prediction with Multi-Agent Communication</a>, submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
@@ -896,7 +918,20 @@ The learned latent graphs are explainable and generalizable, significantly impro
   <div class="card-description" style="margin: 0px;">
     
       <p>
-        <br><br>
+        Human intention and motion prediction is a vital research area that focuses on improving the safety and efficiency of interactions 
+between humans and robots. As robots are increasingly integrated into environments shared with humans, such as homes, workplaces, 
+and healthcare settings, it becomes crucial to predict human intentions and movements accurately. Understanding human intentions 
+allows robots to anticipate and respond to human actions in a way that is both intuitive and safe, thereby enhancing the quality of 
+human-robot interactions. This contributes to the development of more intelligent and adaptive robotic systems that can seamlessly 
+collaborate with humans in various real-world scenarios. In our research, we have
+<strong>
+1) developed multi-modal prediction methods for predicting human intentions and generating future motions (e.g., trajectories, 
+human skeletons), which leverage fine-grained semantic and human appearance information.
+2) proposed a systematic framework to identify generalizable dynamic relations (pairwise, group-wise) among human crowds.
+3) introduced effective deep generative models to generate diverse, realistic human motions for human behavior simulation, 
+which enhances the performance of downstream tasks.
+<strong>
+<br><br></strong></strong>
 
 <strong>Related Publications:</strong> <br>
 1. <a href="https://arxiv.org/abs/2407.17460">SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained Reinforcement Learning</a>, submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
@@ -1088,7 +1123,7 @@ We empirically show that several approaches in literature indeed suffer from cat
   <div class="card-text">
     
       <a class="card-title">
-        State Estimation with Learning-Based Models
+        Multi-Object State Estimation with Learning-Based Models
       </a>
     
 
@@ -1096,8 +1131,8 @@ We empirically show that several approaches in literature indeed suffer from cat
   </div>
 
   <div class="card-img" style="aspect-ratio: 5.0; overflow: hidden; margin-bottom: 0px;">
-    <a aria-label="State Estimation with Learning-Based Models" class="card-image">
-      <img src="/research_images/tracking.png" alt="State Estimation with Learning-Based Models" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+    <a aria-label="Multi-Object State Estimation with Learning-Based Models" class="card-image">
+      <img src="/research_images/tracking.png" alt="Multi-Object State Estimation with Learning-Based Models" loading="lazy" style="width: 100%; height: auto; object-fit: contain;" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
     </a>
   </div>
   
