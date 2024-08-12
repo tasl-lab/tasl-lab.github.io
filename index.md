@@ -60,3 +60,10 @@ This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/pro
   style="bare"
   text=text
 %}
+
+{% include section.html %}
+###### We gratefully acknowledge the supports from:
+<div style="text-align: center;">
+  <img src="images/NSF.jpg" alt="NSF" width="200px" style="display:inline-block; vertical-align: middle; margin-right: 10px;">
+  <img src="images/UCR.svg" alt="UCR" width="230px" style="display:inline-block; vertical-align: middle;">
+</div>
