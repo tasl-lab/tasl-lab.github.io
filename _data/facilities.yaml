@@ -1,0 +1,55 @@
+- title: TurtleBot 4
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/turtlebot4_standard.png
+  # link: https://github.com/
+  description: |
+    TurtleBot 4 is a mobile robot that can perform tasks including social navigation, collaborative navigation, and human-robot interaction.
+
+- title: TIAGo++
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/TIAGo++.jpg
+  # link: https://github.com/
+  description: |
+    TIAGo++ is a mobile manipulation robot with two arms that can perform tasks including social rearrangement, human-robot interaction, and bi-manual manipulation.
+
+- title: Gen 3
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/gen3.png
+  # link: https://github.com/
+  description: |
+    Kinova Gen3 is a manipulation robot that can perform tasks involving manipulation.
+
+- title: Aloha
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/aloha.webp
+  # link: https://github.com/
+  description: |
+    Aloha is a stationary platform that can perform tasks involving bi-manual manipulation and human-robot interaction.
+
+- title: Unitree Go2
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/unitreego2.webp
+  # link: https://github.com/
+  description: |
+    Unitree Go2 is four-pedal walker that can perform tasks involving navigation and human-robot interaction.
+
+- title: Unitree B2
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/unitreeb2.webp
+  # link: https://github.com/
+  description: |
+    Unitree B2 is four-pedal walker that can perform tasks involving navigation and human-robot interaction.
+
+- title: Meta Quest 3
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/metaquest3.jpg
+  # link: https://github.com/
+  description: |
+    Meta Quest 3 for VR applications with robots.
