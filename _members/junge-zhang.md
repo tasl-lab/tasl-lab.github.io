@@ -1,6 +1,6 @@
 ---
 name: Junge Zhang
-image: people_photos/default.png
+image: people_photos/jungezhang.jpg
 role: grad
 affiliation: UC Riverside
 order: 010
