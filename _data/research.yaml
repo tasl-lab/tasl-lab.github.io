@@ -1,4 +1,4 @@
-- title: Safe and Robust Interaction-Aware Decision Making for Human-Robot Interactions
+- title: Safe, Efficient, and Robust Decision Making for Human-Robot Interactions
   # subtitle: a subtitle
   # group: featured
   image: research_images/human_robot_interaction.png
@@ -32,13 +32,14 @@
     We investigate foundation models and vision language models (VLMs) for robotics and autonomous systems to enhance their reasoning capability and reliability. 
     For example, inferring the short-term and long-term intentions of traffic participants and understanding the contextual semantics of scenes are the keys to scene understanding and situational awareness of autonomous vehicles. 
     Moreover, how to enable autonomous agents (e.g., self-driving cars) to explain their reasoning, prediction, and decision making processes to human users (e.g., drivers, passengers) in a human understandable form (e.g., natural language) to build humans’ trust remains largely underexplored. 
-    Therefore, **we created the first multimodal dataset for a new risk object ranking and natural language explanation task in urban scenarios and a rich dataset for intention prediction in autonomous driving, establishing benchmarks for corresponding tasks. Meanwhile, our research introduced novel methods that achieve superior performance on these problems.**<br><br>
+    Therefore, **we created the first multimodal dataset for a new risk object ranking and natural language explanation task in urban scenarios and a rich dataset for intention prediction in autonomous driving, establishing benchmarks for corresponding tasks. Meanwhile, our research introduced novel methods that achieve superior performance on these problems.**
+    Moreover, we explore effective solutions for complex long-horizon robotic tasks and multi-agent collaborations with multi-modal foundation models. <br><br>
 
     **Related Publications\:** <br>
-    1. [LOKI: Long Term and Key Intentions for Trajectory Prediction](https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html), ICCV 2021. <br>
-    2. [Important Object Identification with Semi-Supervised Learning for Autonomous Driving](https://arxiv.org/abs/2203.02634), ICRA 2022. <br>
-    3. [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767), WACV 2023. <br>
-    4. [Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and Reasoning](https://arxiv.org/abs/2309.06597), WACV 2024.
+    1. [Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and Reasoning](https://arxiv.org/abs/2309.06597), WACV 2024. <br>
+    2. [DRAMA: Joint Risk Localization and Captioning in Driving](https://arxiv.org/abs/2209.10767), WACV 2023. <br>
+    3. [Important Object Identification with Semi-Supervised Learning for Autonomous Driving](https://arxiv.org/abs/2203.02634), ICRA 2022. <br>
+    4. [LOKI: Long Term and Key Intentions for Trajectory Prediction](https://openaccess.thecvf.com/content/ICCV2021/html/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.html), ICCV 2021. 
   # repo: greenelab/lab-website-template
   tags:
     - Foundation Models
@@ -49,7 +50,7 @@
     - Cooperative Planning
 
 
-- title: Explainable and Generalizable Relational Reasoning and Multi-Agent Interaction Modeling (Social & Physical)
+- title: Explainable and Generalizable Relational Reasoning and Multi-Agent Interaction Modeling
   # subtitle: a subtitle
   # group: featured
   image: research_images/Explainable Relational Reasoning.webp
@@ -61,7 +62,7 @@
     **We also proposed a physics-guided relational learning approach for physical dynamics modeling.**<br><br>
     
     **Related Publications\:** <br>
-    1. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO). <br>
+    1. [Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation](https://arxiv.org/abs/2401.12275), submitted to IEEE Transactions on Robotics (T-RO), under review. <br>
     2. [Grouptron: Dynamic Multi-Scale Graph Convolutional Networks for Group-Aware Crowd Trajectory Forecasting](https://arxiv.org/abs/2109.14128), ICRA 2022. <br>
     3. [Learning Physical Dynamics with Subequivariant Graph Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a845fdc3f87751710218718adb634fe7-Abstract-Conference.html), NeurIPS 2022. <br>
     4. [Interaction Modeling with Multiplex Attention](https://proceedings.neurips.cc/paper_files/paper/2022/hash/7e6361a5d73a8fab093dd8453e0b106f-Abstract-Conference.html), NeurIPS 2022. <br>
@@ -82,6 +83,56 @@
     - Human-Robot Interaction/Collaboration
 
 
+
+- title: Generalizable and Diverse Trajectory and Occupancy Prediction for Autonomous Driving
+  # subtitle: a subtitle
+  # group: featured
+  image: research_images/trajectory_occupancy_prediction.png
+  # link: https://github.com/
+  description: |
+    We <br><br>
+    
+    **Related Publications\:** <br>
+    1. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    2. [Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting](https://arxiv.org/abs/2407.09475), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    3. [Self-Supervised Multi-Future Occupancy Forecasting for Autonomous Driving](https://arxiv.org/abs/2407.21126), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    4. [Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments](https://arxiv.org/abs/2309.13893), ICRA 2024. <br>
+    5. [Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving](https://arxiv.org/abs/2310.01723), IV 2024. <br>
+    6. [Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments](https://arxiv.org/abs/2209.13172), IROS 2022. <br>
+    
+
+  # repo: greenelab/lab-website-template
+  tags:
+    - Trajectory Prediction
+    - Occupancy Prediction
+    - Occlusion Inference
+    - Autonomous Driving
+
+
+
+- title: Human Intention and Motion Prediction for Human-Robot Interactions
+  # subtitle: a subtitle
+  # group: featured
+  image: research_images/trajectory_occupancy_prediction.png
+  # link: https://github.com/
+  description: |
+    We <br><br>
+    
+    **Related Publications\:** <br>
+    1. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    2. [Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting](https://arxiv.org/abs/2407.09475), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    3. [Self-Supervised Multi-Future Occupancy Forecasting for Autonomous Driving](https://arxiv.org/abs/2407.21126), submitted to IEEE Robotics and Automation Letters (RA-L), under review. <br>
+    4. [Scene Informer: Anchor-based Occlusion Inference and Trajectory Prediction in Partially Observable Environments](https://arxiv.org/abs/2309.13893), ICRA 2024. <br>
+    5. [Predicting Future Spatiotemporal Occupancy Grids with Semantics for Autonomous Driving](https://arxiv.org/abs/2310.01723), IV 2024. <br>
+    6. [Dynamics-Aware Spatiotemporal Occupancy Prediction in Urban Environments](https://arxiv.org/abs/2209.13172), IROS 2022. <br>
+    
+
+  # repo: greenelab/lab-website-template
+  tags:
+    - Trajectory Prediction
+    - Occupancy Prediction
+    - Occlusion Inference
+    - Autonomous Driving
 
 
 
