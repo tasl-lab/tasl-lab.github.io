@@ -3,7 +3,7 @@ name: Kanghoon Lee
 image: people_photos/default.png
 role: visiting
 affiliation: KAIST
-order: 041
+order: 901
 aliases:
   - K. Lee
   - K Lee
