@@ -47,6 +47,14 @@
   description: |
     Unitree B2 is four-pedal walker that can perform tasks involving navigation and human-robot interaction.
 
+- title: ROSMASTER R2
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/rosmaster.png
+  # link: https://github.com/
+  description: |
+    ROSMASTER R2 is an advanced mobile car with Ackerman steering structure.
+
 - title: Meta Quest 3
   # subtitle: a subtitle
   # group: featured
