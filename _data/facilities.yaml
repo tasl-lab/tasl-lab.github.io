@@ -4,7 +4,7 @@
   image: facilities_images/turtlebot4_standard.png
   # link: https://github.com/
   description: |
-    TurtleBot 4 is a mobile robot that can perform tasks including social navigation, collaborative navigation, and human-robot interaction.
+    TurtleBot 4 is an advanced mobile robot that can perform various navigation tasks, such as social navigation, collaborative navigation, and human-robot interaction.
 
 - title: TIAGo++
   # subtitle: a subtitle
@@ -12,7 +12,8 @@
   image: facilities_images/TIAGo++.jpg
   # link: https://github.com/
   description: |
-    TIAGo++ is a mobile manipulation robot with two arms that can perform tasks including social rearrangement, human-robot interaction, and bi-manual manipulation.
+    TIAGo++ is a mobile manipulator that can perform navigation and manipulation tasks, 
+    including object rearrangement, human-robot interaction, and bi-manual manipulation.
 
 - title: Gen 3
   # subtitle: a subtitle
@@ -28,7 +29,7 @@
   image: facilities_images/aloha.webp
   # link: https://github.com/
   description: |
-    Aloha is a stationary platform that can perform tasks involving bi-manual manipulation and human-robot interaction.
+    Aloha is a stationary platform that can perform tasks like bi-manual manipulation, teleoperation, and human-robot interaction.
 
 - title: Unitree Go2
   # subtitle: a subtitle
@@ -46,10 +47,18 @@
   description: |
     Unitree B2 is four-pedal walker that can perform tasks involving navigation and human-robot interaction.
 
+- title: ROSMASTER R2
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/rosmaster.png
+  # link: https://github.com/
+  description: |
+    ROSMASTER R2 is an advanced mobile car with Ackerman steering structure.
+
 - title: Meta Quest 3
   # subtitle: a subtitle
   # group: featured
   image: facilities_images/metaquest3.jpg
   # link: https://github.com/
   description: |
-    Meta Quest 3 for VR applications with robots.
+    Meta Quest 3 is used for VR/AR integration in teleoperation and human-robot interactions.
