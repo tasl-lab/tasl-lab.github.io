@@ -6,6 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
+- 08/2024: Prof. Li serves as an Area Chair for ICLR 2025!
 - 07/2024: Prof. Li received the UC Regents Faculty Fellowship!
 - 06/2024: Prof. Li serves as a Senior Program Committee for AAMAS 2025 and an Associate Editor for ICRA 2025!
 - 05/2024: Prof. Li will organize the [Southern California Robotics Symposium (SCR 2024)](https://robotics.ucr.edu/scr-2024)!
@@ -13,7 +14,7 @@ nav:
 - 03/2024: [One paper](https://arxiv.org/abs/2310.01723) is accepted at the IEEE Intelligent Vehicles Symposium (IV 2024)!
 - 02/2024: Prof. Li serves as an Associate Editor for IROS 2024 and IEEE Robotics and Automation Letters (RA-L)!
 - 02/2024: [One paper](https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2357.pdf) is accepted at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2024)!
-- 01/2024: Two papers [[1\]](https://arxiv.org/abs/2309.13893)[[2\]](https://arxiv.org/abs/2403.06041) are accepted at the International Conference on Robotics and Automation (ICRA 2024)!
+- 01/2024: Two papers [\[1\]](https://arxiv.org/abs/2309.13893)[\[2\]](https://arxiv.org/abs/2403.06041) are accepted at the International Conference on Robotics and Automation (ICRA 2024)!
 - 12/2023: Prof. Li organized [Machine Learning for Autonomous Driving workshop (ML4AD 2023)](https://ml4ad.github.io/).
 - 11/2023: [One paper](https://ieeexplore.ieee.org/document/10356778) is accepted at IEEE Robotics and Automation Letters!
 - 10/2023: [One paper](https://arxiv.org/abs/2309.06597) is accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2024)!
