@@ -1,1 +1,1 @@
-Sitemap: https://tasl-lab.github.io/sitemap.xml
+Sitemap: http://tasl.ucr.edu/sitemap.xml
