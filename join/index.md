@@ -7,13 +7,13 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Join Us
 
 Our lab is actively seeking multiple highly motivated talents to join us as **Ph.D. students (fully funded), master students, undergraduate students, onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral researchers**. <br>
-If you are interested, please submit this **[application form](https://docs.google.com/forms/d/1LLewwdhoxXcOv1B8j1KszhDWmdqoBc5QV5xTahVJieg/viewform)** to register your interest. Prospective students must also submit an application for a certain program on the **[UCR official application website](https://www.ucr.edu/apply)** before the corresponding deadline. If you are applying for a Ph.D. program in EE or CS, please indicate Prof. Jiachen Li as your prospective advisor in the UCR official application form and Statement of Purpose.
+If you are interested, please submit this **[application form](https://docs.google.com/forms/d/1LLewwdhoxXcOv1B8j1KszhDWmdqoBc5QV5xTahVJieg/viewform)** to register your interest. Prospective students must also submit an application for a certain program on the **[UCR official application website](https://www.ucr.edu/apply)** before the corresponding deadline. If you are applying for a Ph.D. program in EE or CS, please indicate Prof. Jiachen Li as your prospective advisor in the UCR official application form and the Statement of Purpose.
 
 #### Research Topics (include but not limited to)
 
 -	Safe Human-Robot Interaction / Collaboration
 -	Multi-Agent Learning & Planning (e.g., coordination, collaboration)
--	Embodied AI, Foundation Models, Vision and Language Models for Robotics and Autonomous Systems
+-	Robot Learning, Embodied AI, Foundation Models for Robotics and Autonomous Systems
 -	Safe and Interactive Autonomous Driving & Robot Navigation
 -	Trustworthy AI/ML (e.g., safety, robustness, generalizability, explainability, formal methods)
 -	Deep Reinforcement Learning & Controls
