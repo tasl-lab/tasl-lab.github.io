@@ -1,17 +1,17 @@
 ---
-name: Xiaokang Sun
-image: people_photos/xiaokangsun.jpg
+name: Yiping Li
+image: people_photos/yiping_li.jpg
 role: visiting
-affiliation: Tsinghua University
-order: 926
-aliases:
-  - X. Sun
-  - X Sun
+affiliation: Shandong University
+order: 927
+# aliases:
+#   - X. Sun
+#   - X Sun
 links:
   # people-homepage: https://jyao97.github.io/
   # people-email: jyao073@ucr.edu
   # people-gs: https://scholar.google.com/citations?user=P6I5HF8AAAAJ
   # people-office: 344 Winston Chung Hall (WCH)
-display_1: 'B.S. Student at Tsinghua University'
+display_1: 'B.S. Student at Shandong University'
 display_2: 'Summer 2024 -- Present'
 ---

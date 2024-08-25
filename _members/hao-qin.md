@@ -3,7 +3,7 @@ name: Hao Qin
 image: people_photos/haoqin.jpg
 role: visiting
 affiliation: PSU
-order: 926
+order: 922
 # aliases:
 #   - J. Li
 #   - J Li
