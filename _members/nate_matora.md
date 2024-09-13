@@ -1,6 +1,6 @@
 ---
 name: Nate Matora
-image: people_photos/default.png
+image: people_photos/nate.jpg
 role: under
 affiliation: UC Riverside
 order: 032
