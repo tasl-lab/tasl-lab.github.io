@@ -8,9 +8,9 @@ aliases:
   - J. Zhang
   - J Zhang
 links:
-  # people-homepage: https://jyao97.github.io/
-  # people-email: jyao073@ucr.edu
-  # people-gs: https://scholar.google.com/citations?user=P6I5HF8AAAAJ
+  people-homepage: https://andy-zd.github.io/
+  people-email: jgz199991@gmail.com
+  people-gs: https://scholar.google.com/citations?user=leLTiKcAAAAJ&hl=en
   # people-office: 344 Winston Chung Hall (WCH)
 display_1: 'Ph.D. Student in CS'
 display_2: 'Starting in Fall 2024'

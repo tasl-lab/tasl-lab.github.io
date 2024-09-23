@@ -8,9 +8,9 @@ aliases:
   - X. Zhang
   - X Zhang
 links:
-  # people-homepage: https://jyao97.github.io/
-  # people-email: jyao073@ucr.edu
-  # people-gs: https://scholar.google.com/citations?user=P6I5HF8AAAAJ
+  people-homepage: https://xiaopanz.github.io/
+  people-email: xzhang006@ucr.edu
+  people-gs: https://scholar.google.com/citations?user=iLrGkU4AAAAJ&hl=en
   # people-office: 344 Winston Chung Hall (WCH)
 display_1: 'Ph.D. Student in EE'
 display_2: 'Spring 2024 -- Present'
