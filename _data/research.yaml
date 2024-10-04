@@ -50,18 +50,43 @@
     - Explainability/Interpretability
     - Graph Neural Networks
 
-
 - title: Multi-Modal Foundation Models for Embodied Intelligence
   # subtitle: a subtitle
   # group: featured
-  image: research_images/VLM.png
+  image: research_images/robotics_foundation_model.png
+  # link: https://github.com/
+  description: |
+    While larger language models (LLMs) and vision-language models (VLMs) have demonstrated remarkable proficiency in comprehending natural language and translating human instructions into detailed plans for straightforward robotic tasks, they encounter significant difficulties when tackling long-horizon complex tasks. 
+    In particular, the challenges of sub-task identification and allocation become especially complicated in scenarios involving cooperative teams of heterogeneous robots. 
+    To address these challenges, we have <strong>proposed a novel multi-agent task planning framework designed to excel in long-horizon tasks, which integrates the reasoning capabilities of LLMs with traditional heuristic search planning, which achieves high success rates and efficiency while demonstrating robust generalization across various tasks.</strong> 
+    This research not only contributes to the advancement of task planning for heterogeneous robot teams but also lays the groundwork for future explorations in multi-agent collaboration.
+    <br><br>
+
+    **Related Publications:** <br>
+    1. [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner](https://arxiv.org/abs/2409.20560), submitted to IEEE International Conference on Robotics and Automation (ICRA 2025), under review. <br>
+  # repo: greenelab/lab-website-template
+
+  tags:
+    - Foundation Models
+    - Vision-Language
+    - Mobile Manipulation
+    - Object Navigation
+    - Human-Robot Interaction/Collaboration
+    - Multi-Agent/Robot Systems
+    - Cooperative Planning
+
+
+- title: Vision Language Reasoning for Scene Understanding in Autonomous Driving
+  # subtitle: a subtitle
+  # group: featured
+  image: research_images/vision_language_driving.png
   # link: https://github.com/
   description: |
     We investigate foundation models and vision language models (VLMs) for robotics and autonomous systems to enhance their reasoning capability and reliability. 
     For example, inferring the short-term and long-term intentions of traffic participants and understanding the contextual semantics of scenes are the keys to scene understanding and situational awareness of autonomous vehicles. 
     Moreover, how to enable autonomous agents (e.g., self-driving cars) to explain their reasoning, prediction, and decision making processes to human users (e.g., drivers, passengers) in a human understandable form (e.g., natural language) to build humans’ trust remains largely underexplored. 
     Therefore, **we created the first multimodal dataset for a new risk object ranking and natural language explanation task in urban scenarios and a rich dataset for intention prediction in autonomous driving, establishing benchmarks for corresponding tasks. Meanwhile, our research introduced novel methods that achieve superior performance on these problems.**
-    Moreover, we explore effective solutions for complex long-horizon robotic tasks and multi-agent collaborations with multi-modal foundation models. <br><br>
+    <br><br>
 
     **Related Publications\:** <br>
     1. [Rank2Tell: A Multimodal Dataset for Joint Driving Importance Ranking and Reasoning](https://arxiv.org/abs/2309.06597), WACV 2024. <br>
@@ -72,11 +97,7 @@
   tags:
     - Foundation Models
     - Vision-Language
-    - Mobile Manipulation
     - Autonomous Driving
-    - Human-Robot Interaction/Collaboration
-    - Multi-Agent/Robot Systems
-    - Cooperative Planning
 
 
 - title: Explainable and Generalizable Relational Reasoning and Multi-Agent Interaction Modeling
