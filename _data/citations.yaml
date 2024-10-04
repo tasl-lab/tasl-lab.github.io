@@ -35,6 +35,38 @@
   - Graph Neural Networks
   plugin: sources.py
   file: sources.yaml
+- title: 'LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning
+    with LM-Driven PDDL Planner'
+  authors:
+  - X. Zhang
+  - H. Qin
+  - F. Wang
+  - Y. Dong
+  - and J. Li
+  publisher: submitted to IEEE International Conference on Robotics and Automation
+    (ICRA 2025), under review
+  image: ./paper_images/lamma-p.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2409.20560
+  - type: paper_video
+    text: Video
+    link: https://www.youtube.com/watch?v=zfc0pOXTPOQ
+  - type: paper_home
+    text: Website
+    link: https://lamma-p.github.io/
+  tags:
+  - Embodied AI
+  - Foundation Models
+  - Vision-Language
+  - Mobile Manipulation
+  - Object Navigation
+  - Human-Robot Interaction/Collaboration
+  - Multi-Agent/Robot Systems
+  - Cooperative Planning
+  plugin: sources.py
+  file: sources.yaml
 - title: Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation
   authors:
   - J. Li\*
