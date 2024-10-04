@@ -94,9 +94,9 @@
   file: sources.yaml
 - title: 'CMP: Cooperative Motion Prediction with Multi-Agent Communication'
   authors:
-  - Z. Wu\*
-  - Y. Wang\*
   - Z. Wang\*
+  - Y. Wang\*
+  - Z. Wu\*
   - H. Ma
   - Z. Li
   - H. Qiu
@@ -107,9 +107,13 @@
   - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2403.17916
+  - type: paper_home
+    text: Website
+    link: https://cmp-cooperative-prediction.github.io/
   tags:
   - Trajectory Prediction
   - Autonomous Driving
+  - Cooperative Perception
   - Multi-Agent/Robot Systems
   plugin: sources.py
   file: sources.yaml
