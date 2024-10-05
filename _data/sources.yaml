@@ -32,6 +32,36 @@
     - Trajectory Prediction
     - Graph Neural Networks
 
+- title: "LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner"
+  authors:
+    - X. Zhang
+    - H. Qin
+    - F. Wang
+    - Y. Dong
+    - and J. Li
+  publisher: "submitted to IEEE International Conference on Robotics and Automation (ICRA 2025), under review"
+  # date: 2024-01-01
+  image: ./paper_images/lamma-p.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2409.20560
+    - type: paper_video
+      text: Video
+      link: https://www.youtube.com/watch?v=zfc0pOXTPOQ
+    - type: paper_home
+      text: Website
+      link: https://lamma-p.github.io/
+  tags:
+    - Embodied AI
+    - Foundation Models
+    - Vision-Language
+    - Mobile Manipulation
+    - Object Navigation
+    - Human-Robot Interaction/Collaboration
+    - Multi-Agent/Robot Systems
+    - Cooperative Planning
+
 - title: "Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation"
   authors:
     - J. Li\*
@@ -59,9 +89,9 @@
 
 - title: "CMP: Cooperative Motion Prediction with Multi-Agent Communication"
   authors:
-    - Z. Wu\*
-    - Y. Wang\*
     - Z. Wang\*
+    - Y. Wang\*
+    - Z. Wu\*
     - H. Ma
     - Z. Li
     - H. Qiu
@@ -73,9 +103,13 @@
     - type: paper_link
       text: arXiv
       link: https://arxiv.org/abs/2403.17916
+    - type: paper_home
+      text: Website
+      link: https://cmp-cooperative-prediction.github.io/
   tags:
     - Trajectory Prediction
     - Autonomous Driving
+    - Cooperative Perception
     - Multi-Agent/Robot Systems
 
 - title: "Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting"
