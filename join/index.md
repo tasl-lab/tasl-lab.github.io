@@ -6,7 +6,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Join Us
 
-Our lab is actively seeking multiple highly motivated talents to join us as **Ph.D. students (fully funded), master students, undergraduate students, onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral researchers**. <br>
+Our lab is actively seeking multiple highly motivated talents to join us as **Ph.D. students (fully funded), master students, undergraduate students, onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral researchers**. You may also check the [Chinese version](https://www.1point3acres.com/bbs/thread-1090005-1-1.html) of the descriptions about open positions in our lab. <br>
+
 If you are interested, please submit this **[application form](https://docs.google.com/forms/d/1LLewwdhoxXcOv1B8j1KszhDWmdqoBc5QV5xTahVJieg/viewform)** to register your interest. Prospective students must also submit an application for a certain program on the **[UCR official application website](https://www.ucr.edu/apply)** before the corresponding deadline. If you are applying for a Ph.D. program in EE or CS, please indicate Prof. Jiachen Li as your prospective advisor in the UCR official application form and the Statement of Purpose.
 
 #### Research Topics (include but not limited to)
