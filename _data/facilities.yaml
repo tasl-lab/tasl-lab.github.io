@@ -15,6 +15,16 @@
     TIAGo++ is a mobile manipulator that can perform navigation and manipulation tasks, 
     including object rearrangement, human-robot interaction, and bi-manual manipulation.
 
+- title: Mecabot Pro
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/mecabotpro.jpg
+  # link: https://github.com/
+  description: |
+    Mecabot Pro is a versatile mobile base with mecanum wheels, offering a 20 kg payload.
+
+
+
 - title: Gen 3
   # subtitle: a subtitle
   # group: featured

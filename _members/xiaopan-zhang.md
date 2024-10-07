@@ -1,7 +1,7 @@
 ---
 name: Xiaopan Zhang
 image: people_photos/xiaopanzhang.jpg
-role: grad
+role: phd
 affiliation: UC Riverside
 order: 001
 aliases:

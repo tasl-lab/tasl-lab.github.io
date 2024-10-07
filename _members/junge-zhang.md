@@ -1,7 +1,7 @@
 ---
 name: Junge Zhang
 image: people_photos/jungezhang.jpg
-role: grad
+role: phd
 affiliation: UC Riverside
 order: 010
 aliases:
@@ -13,7 +13,7 @@ links:
   people-gs: https://scholar.google.com/citations?user=leLTiKcAAAAJ&hl=en
   # people-office: 344 Winston Chung Hall (WCH)
 display_1: 'Ph.D. Student in CS'
-display_2: 'Starting in Fall 2024'
+display_2: 'Fall 2024--Present'
 ---
 
 Junge Zhang is currently a first-year PhD student at UC Riverside.

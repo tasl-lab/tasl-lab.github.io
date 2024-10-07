@@ -1,7 +1,7 @@
 ---
 name: Zhixu Li
 image: people_photos/zhixuli.png
-role: grad
+role: phd
 affiliation: UC Riverside
 order: 000
 aliases:

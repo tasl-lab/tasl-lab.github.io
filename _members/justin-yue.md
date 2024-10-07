@@ -1,7 +1,7 @@
 ---
 name: Justin Yue
 image: people_photos/justin.png
-role: grad
+role: phd
 affiliation: UC Riverside
 order: 012
 aliases:
@@ -13,7 +13,7 @@ links:
   # people-gs: https://scholar.google.com/citations?user=P6I5HF8AAAAJ
   # people-office: 344 Winston Chung Hall (WCH)
 display_1: 'Ph.D. Student in CS'
-display_2: 'Starting in Fall 2024'
+display_2: 'Fall 2024--Present'
 ---
 
 Justin Yue is currently a first-year PhD student at UC Riverside. He is co-advised by Prof. Hang Qiu and Prof. Jiachen Li.

@@ -1,7 +1,7 @@
 ---
 name: Anirudh Nittur Venkatesh
 image: people_photos/anirudh.jpg
-role: grad
+role: ms
 affiliation: UC Riverside
 order: 101
 # aliases:
