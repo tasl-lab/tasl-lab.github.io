@@ -1,9 +1,9 @@
 ---
-name: Zejin Wang
+name: Fuquan Wang
 image: people_photos/fuquanwang.png
 role: visiting
 affiliation: UCR
-order: 923
+order: 928
 aliases:
   - F. Wang
   - F Wang
