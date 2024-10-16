@@ -21,4 +21,9 @@ Albert Dang (M.S. Student, UCR, 2024) <br>
 Zhifeng Wu (M.S. Student, UCR, 2024) <br>
 Ethan Ortega (B.S. Student, UCR, 2024) <br>
 Fnu Heman (M.S. Student, UCR, 2024) <br>
-Moustafa Soliman (B.S. Student, UCR, 2024) <br>
+Kanghoon Lee (Visiting Scholar, KAIST, 2024) <br>
+Mingquan (Marvin) Gao (Visiting Scholar, JHU, 2024) <br>
+Hao Qin (Visiting Scholar, PSU, 2024) <br>
+Jiaqi Li (Visiting Scholar, Tsinghua University, 2024) <br>
+Xiaokang Sun (Visiting Scholar, Tsinghua University, 2024) <br>
+Yiping Li (Visiting Scholar, Shandong University, 2024) <br>
