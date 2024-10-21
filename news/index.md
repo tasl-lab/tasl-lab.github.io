@@ -6,7 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
-- 08/2024: Prof. Li serves as an Area Chair for ICLR 2025!
+- 08/2024: Prof. Li serves as an Area Chair for ICLR 2025 and CVPR 2025!
 - 07/2024: Prof. Li received the UC Regents Faculty Fellowship!
 - 06/2024: Prof. Li serves as a Senior Program Committee for AAMAS 2025 and an Associate Editor for ICRA 2025!
 - 05/2024: Prof. Li will organize the [Southern California Robotics Symposium (SCR 2024)](https://robotics.ucr.edu/scr-2024)!
