@@ -1,10 +1,11 @@
-- title: TurtleBot 4
+- title: RealMan Platform
   # subtitle: a subtitle
   # group: featured
-  image: facilities_images/turtlebot4_standard.png
+  image: facilities_images/realman.png
   # link: https://github.com/
   description: |
-    TurtleBot 4 is an advanced mobile robot that can perform various navigation tasks, such as social navigation, collaborative navigation, and human-robot interaction.
+    RealMan embodied dual-arm lifting platform is a robot for data collection and model 
+    training with autonomous navigation and mobility capabilities.
 
 - title: TIAGo++
   # subtitle: a subtitle
@@ -14,6 +15,23 @@
   description: |
     TIAGo++ is a mobile manipulator that can perform navigation and manipulation tasks, 
     including object rearrangement, human-robot interaction, and bi-manual manipulation.
+
+- title: Inspire-Robots RH56DFX
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/inspire-robots.png
+  # link: https://github.com/
+  description: |
+    The humanoid five-finger dexterous hand features 6 degrees of freedom and 12 motion joints 
+    for precise grasping operations.
+
+- title: TurtleBot 4
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/turtlebot4_standard.png
+  # link: https://github.com/
+  description: |
+    TurtleBot 4 is an advanced mobile robot that can perform various navigation tasks like collaborative navigation.
 
 - title: Mecabot Pro
   # subtitle: a subtitle
@@ -63,7 +81,7 @@
   image: facilities_images/rosmaster.png
   # link: https://github.com/
   description: |
-    ROSMASTER R2 is an advanced mobile car with Ackerman steering structure.
+    ROSMASTER R2 is an advanced mobile vehicle with an Ackerman steering structure, designed for tasks such as social navigation.
 
 - title: Meta Quest 3
   # subtitle: a subtitle
@@ -72,3 +90,11 @@
   # link: https://github.com/
   description: |
     Meta Quest 3 is used for VR/AR integration in teleoperation and human-robot interactions.
+
+- title: Apple Vision Pro
+  # subtitle: a subtitle
+  # group: featured
+  image: facilities_images/apple_vision_pro.png
+  # link: https://github.com/
+  description: |
+    Apple Vision Pro is used for interactive human-robot systems and teleoperation.
