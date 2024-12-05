@@ -6,6 +6,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+<!-- Include a large landscape photo below the TEAM title -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/people_photos/team.jpg" alt="Team Banner" 
+       style="width: 100%; height: auto; object-fit: cover; max-width: 850px; margin: 0 auto; border-radius: 15px;">
+</div>
+
 #### Faculty (Principal Investigator)
 {% include list_pi.html data="members" component="portrait_pi" filters="role: pi" %}
 #### Ph.D. Students
