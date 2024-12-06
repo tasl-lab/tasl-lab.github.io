@@ -7,7 +7,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 
 - 12/2024: Prof. Li is invited to serve as an Associate Editor for IEEE Transactions on Robotics!
-- 11/2024: [One paper](https://arxiv.org/abs/2407.15839) is accepted at IEEE Robotics and Automation Letters!
+- 12/2024: [One paper](https://arxiv.org/abs/2407.09475) is accepted at IEEE Robotics and Automation Letters (RA-L)!
+- 11/2024: [One paper](https://arxiv.org/abs/2407.15839) is accepted at IEEE Robotics and Automation Letters (RA-L)!
 - 08/2024: Prof. Li is invited to serve as an Area Chair for ICLR 2025 and CVPR 2025!
 - 07/2024: Prof. Li received the UC Regents Faculty Fellowship!
 - 06/2024: Prof. Li is invited to serve as a Senior Program Committee for AAMAS 2025 and an Associate Editor for ICRA 2025!
