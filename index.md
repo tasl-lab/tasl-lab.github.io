@@ -67,4 +67,5 @@ This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/pro
 <div style="text-align: center;">
   <img src="images/NSF.svg" alt="NSF" width="230px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
   <img src="images/UCR.svg" alt="UCR" width="250px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <img src="images/Oasis.svg" alt="OASIS" width="160px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
 </div>
