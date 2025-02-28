@@ -6,7 +6,7 @@
     - Z. Wang
     - A. K. Roy-Chowdhury
     - and J. Li
-  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
+  publisher: "under review"
   # date: 2024-01-01
   image: ./paper_images/yao2024sonic.png
   buttons:
@@ -40,7 +40,7 @@
     - Y. Dong
     - and J. Li
   publisher: "International Conference on Robotics and Automation (ICRA 2025)"
-  # date: 2024-01-01
+  date: 2025-01-02
   image: ./paper_images/lamma-p.png
   buttons:
     - type: paper_link
@@ -97,7 +97,7 @@
     - H. Qiu
     - and J. Li
   publisher: "IEEE Robotics and Automation Letters (RA-L)"
-  # date: 2024-01-01
+  date: 2025-01-03
   image: ./paper_images/wu2024cooperative.png
   buttons:
     - type: paper_link
@@ -118,8 +118,8 @@
     - J. Li
     - S. Bae
     - and D. Isele
-  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
-  # date: 2024-01-01
+  publisher: "IEEE Robotics and Automation Letters (RA-L)"
+  date: 2025-01-01
   image: ./paper_images/li2024adaptive.png
   buttons:
     - type: paper_link
@@ -155,8 +155,8 @@
     - J. Li
     - D. Isele
     - and M. J. Kochenderfer
-  publisher: "submitted to IEEE Robotics and Automation Letters (RA-L), under review"
-  # date: 2024-01-01
+  publisher: "IEEE Robotics and Automation Letters (RA-L)"
+  date: 2025-01-01
   image: ./paper_images/arief2024importance.png
   buttons:
     - type: paper_link
