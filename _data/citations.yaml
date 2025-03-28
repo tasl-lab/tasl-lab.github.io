@@ -23,7 +23,7 @@
     link: https://sonic-social-nav.github.io/
   - type: paper_code
     text: Code
-    link: https://github.com/tasl-lab/SoNIC/tree/main
+    link: https://github.com/tasl-lab/SoNIC-Social-Nav
   tags:
   - Social Navigation
   - Human-Robot Interaction/Collaboration
@@ -44,7 +44,7 @@
   - Y. Dong
   - and J. Li
   publisher: International Conference on Robotics and Automation (ICRA 2025)
-  date: '2025-01-02'
+  date: '2025-01-20'
   image: ./paper_images/lamma-p.png
   buttons:
   - type: paper_link
@@ -65,6 +65,30 @@
   - Human-Robot Interaction/Collaboration
   - Multi-Agent/Robot Systems
   - Cooperative Planning
+  plugin: sources.py
+  file: sources.yaml
+- title: Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph
+    Generation
+  authors:
+  - S. Nag
+  - U. Ghosh
+  - S. Bose
+  - C. Ta
+  - J. Li
+  - and A. Roy-Chowdhury
+  publisher: International Conference on Computer Vision and Pattern Recognition (CVPR
+    2025)
+  date: '2025-01-08'
+  image: ./paper_images/conformal_scene_graph.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2503.13947
+  tags:
+  - Foundation Models
+  - Vision-Language
+  - Scene Understanding
+  - Uncertainty Quantification
   plugin: sources.py
   file: sources.yaml
 - title: Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation
@@ -102,7 +126,7 @@
   - H. Qiu
   - and J. Li
   publisher: IEEE Robotics and Automation Letters (RA-L)
-  date: '2025-01-03'
+  date: '2025-03-01'
   image: ./paper_images/wu2024cooperative.png
   buttons:
   - type: paper_link
@@ -118,6 +142,27 @@
   - Multi-Agent/Robot Systems
   plugin: sources.py
   file: sources.yaml
+- title: 'STAMP: Scalable Task And Model-agnostic Collaborative Perception'
+  authors:
+  - X. Gao
+  - R. Xu
+  - J. Li
+  - Z. Wang
+  - Z. Fan
+  - and Z. Tu
+  publisher: International Conference on Learning Representations (ICLR 2025)
+  date: '2025-01-11'
+  image: ./paper_images/stamp.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2501.18616
+  tags:
+  - Cooperative Perception
+  - Multi-agent/robot Systems
+  - Autonomous Driving
+  plugin: sources.py
+  file: sources.yaml
 - title: 'Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization
     of Motion Forecasting'
   authors:
@@ -126,7 +171,7 @@
   - S. Bae
   - and D. Isele
   publisher: IEEE Robotics and Automation Letters (RA-L)
-  date: '2025-01-01'
+  date: '2025-01-10'
   image: ./paper_images/li2024adaptive.png
   buttons:
   - type: paper_link
@@ -155,6 +200,27 @@
   - Autonomous Driving
   plugin: sources.py
   file: sources.yaml
+- title: 'CoMamba: Real-time Cooperative Perception Unlocked with State Space Models'
+  authors:
+  - J. Li
+  - X. Liu
+  - B. Li
+  - R. Xu
+  - J. Li
+  - H. Yu
+  - and Z. Tu
+  publisher: under review
+  image: ./paper_images/comamba.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2409.10699
+  tags:
+  - Cooperative Perception
+  - Multi-agent/robot Systems
+  - Autonomous Driving
+  plugin: sources.py
+  file: sources.yaml
 - title: Importance Sampling-Guided Meta-Training for Intelligent Agents in Highly
     Interactive Environments
   authors:
@@ -178,35 +244,68 @@
   - Human-Robot Interaction/Collaboration
   plugin: sources.py
   file: sources.yaml
-- title: Integrating Graph and Recurrent Neural Networks for Spatiotemporal Reasoning
+- title: 'Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement
+    Learning'
   authors:
-  - V. Dax
-  - Z. Li
-  - X. Zhang
-  - H. Shekhar
+  - U. Ghosh
+  - D. Raychaudhuri
   - J. Li
-  - and M. J. Kochenderfer
-  publisher: submitted to IEEE Transactions on Neural Networks and Learning Systems
-    (T-NNLS)
+  - K. Karydis
+  - and A. Roy-Chowdhury
+  publisher: under review
+  image: ./paper_images/preferencevlm.png
   buttons:
   - type: paper_link
-    text: ComingSoon
+    text: arXiv
+    link: https://arxiv.org/abs/2502.01616
   tags:
-  - Graph Neural Networks
-  - Spatial-Temporal Reasoning
+  - Foundation Models
+  - Vision-Language
+  - Embodied AI
   plugin: sources.py
   file: sources.yaml
-- title: The Generalization Gap of Locally Unordered GNNs
+- title: Human Implicit Preference-Based Policy Fine-tuning for Multi-Agent Reinforcement
+    Learning in USV Swarm
   authors:
-  - V. Dax
+  - H. Kim
+  - K. Lee
+  - J. Park
   - J. Li
-  - and M. J. Kochenderfer
+  - and J. Park
   publisher: under review
+  image: ./paper_images/implicit_preference.png
   buttons:
   - type: paper_link
-    text: ComingSoon
+    text: arXiv
+    link: https://arxiv.org/abs/2503.03796
   tags:
-  - Graph Neural Networks
+  - Foundation Models
+  - Vision-Language
+  - Embodied AI
+  - Reinforcement Learning
+  - Multi-agent/robot Systems
+  plugin: sources.py
+  file: sources.yaml
+- title: Can Large Vision Language Models Read Maps Like a Human?
+  authors:
+  - S. Xing
+  - Z. Sun
+  - S. Xie
+  - K. Chen
+  - Y. Huang
+  - Y. Wang
+  - J. Li
+  - D. Song
+  - and Z. Tu
+  publisher: under review
+  image: ./paper_images/mapbench.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2503.14607
+  tags:
+  - Foundation Models
+  - Vision-Language
   plugin: sources.py
   file: sources.yaml
 - title: Interactive Autonomous Navigation with Internal State Inference and Interactivity
