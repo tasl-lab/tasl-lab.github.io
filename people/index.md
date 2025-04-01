@@ -23,6 +23,8 @@ nav:
 #### Visiting Scholar/Students
 {% include list_students.html data="members" component="portrait_students" filters="role: visiting" %}
 #### Alumni
+Zejin Wang (Visiting Scholar, Zhejiang University, 2025) <br>
+Licheng Luo (Visiting Scholar, UCR, 2025) <br>
 Albert Dang (M.S. Student, UCR, 2024) <br>
 Zhifeng Wu (M.S. Student, UCR, 2024) <br>
 Ethan Ortega (B.S. Student, UCR, 2024) <br>
