@@ -5,9 +5,11 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 03/2025: [One paper](https://arxiv.org/abs/2503.13947) is accepted at CVPR 2025!
+- 02/2025: [One paper](https://arxiv.org/abs/2501.18616) is accepted at ICLR 2025!
 - 02/2025: [One paper](https://arxiv.org/abs/2403.17916) is accepted at IEEE Robotics and Automation Letters (RA-L)!
 - 01/2025: Prof. Li received two research grants from SoCal OASIS!
-- 01/2025: [One paper](https://arxiv.org/abs/2409.20560) is accepted at the International Conference on Robotics and Automation (ICRA 2025)!
+- 01/2025: [One paper](https://arxiv.org/abs/2409.20560) is accepted at ICRA 2025!
 - 12/2024: Prof. Li is invited to serve as an Associate Editor for IEEE Transactions on Robotics!
 - 12/2024: [One paper](https://arxiv.org/abs/2407.09475) is accepted at IEEE Robotics and Automation Letters (RA-L)!
 - 11/2024: [One paper](https://arxiv.org/abs/2407.15839) is accepted at IEEE Robotics and Automation Letters (RA-L)!
