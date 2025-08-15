@@ -1,7 +1,193 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: 'SoNIC: Safe Social Navigation with Adaptive Conformal Inference and Constrained
-    Reinforcement Learning'
+- title: 'Generative AI for Autonomous Driving: Frontiers and Opportunities'
+  authors:
+  - Y. Wang et al.
+  publisher: under review
+  image: ./paper_images/wang2025generative.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2505.08854
+  - type: paper_home
+    text: Website
+    link: https://github.com/taco-group/GenAI4AD
+  tags:
+  - Autonomous Driving
+  - Generative AI
+  - Motion Prediction
+  - Trajectory Prediction
+  - Occupancy Prediction
+  - Scene Generation
+  - Generalization/Robustness
+  - Safety
+  - Uncertainty Quantification
+  - Survey
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Trends in Motion Prediction Toward Deployable and Generalizable Autonomy:
+    A Revisit and Perspectives'
+  authors:
+  - L. Wang et al.
+  publisher: under review
+  image: ./paper_images/wang2025trends.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2505.09074
+  - type: paper_home
+    text: Website
+    link: https://trends-in-motion-prediction-2025.github.io/
+  tags:
+  - Motion Prediction
+  - Trajectory Prediction
+  - Occupancy Prediction
+  - Autonomous Driving
+  - Social Navigation
+  - Robotics
+  - Generalization/Robustness
+  - Safety
+  - Uncertainty Quantification
+  - Survey
+  plugin: sources.py
+  file: sources.yaml
+- title: Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation
+  authors:
+  - J. Li\*
+  - C. Hua\*
+  - J. Park
+  - H. Ma
+  - V. Dax
+  - and M. J. Kochenderfer
+  publisher: submitted to IEEE Transactions on Robotics (T-RO), under review
+  image: ./paper_images/li2024multi.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2401.12275
+  tags:
+  - Social Navigation
+  - Human-Robot Interaction/Collaboration
+  - Trajectory Prediction
+  - Relational Reasoning
+  - Reinforcement Learning
+  - Multi-Agent/Robot Systems
+  - Safety
+  - Graph Neural Networks
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement
+    Learning'
+  authors:
+  - U. Ghosh
+  - D. Raychaudhuri
+  - J. Li
+  - K. Karydis
+  - and A. Roy-Chowdhury
+  publisher: under review
+  image: ./paper_images/preferencevlm.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2502.01616
+  tags:
+  - Foundation Models
+  - Vision-Language
+  - Embodied AI
+  plugin: sources.py
+  file: sources.yaml
+- title: 'VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction'
+  authors:
+  - Z. Fan et al.
+  publisher: under review
+  image: ./paper_images/vlm3r.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2505.20279
+  - type: paper_home
+    text: Website
+    link: https://vlm-3r.github.io/
+  tags:
+  - Vision Language
+  - Foundation Models
+  - Embodied AI
+  plugin: sources.py
+  file: sources.yaml
+- title: 'HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by
+    Large Language Models'
+  authors:
+  - T. Chakraborty
+  - U. Ghosh
+  - X. Zhang
+  - FF. Niloy
+  - Y. Dong
+  - J. Li
+  - A. Roy-Chowdhury
+  - and C. Song
+  publisher: under review
+  image: ./paper_images/heal2025.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2506.15065
+  tags:
+  - Embodied AI
+  - Foundation Models
+  - Vision Language
+  - Generalization/Robustness
+  - Safety
+  - Uncertainty Quantification
+  plugin: sources.py
+  file: sources.yaml
+- title: Can Large Vision Language Models Read Maps Like a Human?
+  authors:
+  - S. Xing
+  - Z. Sun
+  - S. Xie
+  - K. Chen
+  - Y. Huang
+  - Y. Wang
+  - J. Li
+  - D. Song
+  - and Z. Tu
+  publisher: under review
+  image: ./paper_images/mapbench.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2503.14607
+  tags:
+  - Embodied AI
+  - Foundation Models
+  - Vision-Language
+  plugin: sources.py
+  file: sources.yaml
+- title: 'TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution'
+  authors:
+  - Z. Zhao
+  - C. Hua
+  - F. Berto
+  - K. Lee
+  - Z. Ma
+  - J. Li
+  - and J. Park
+  publisher: under review
+  image: ./paper_images/trajevo.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2508.05616
+  tags:
+  - Foundation Models
+  - Trajectory Prediction
+  - Motion Prediction
+  - Generalization/Robustness
+  - Explainability/Interpretability
+  plugin: sources.py
+  file: sources.yaml
+- title: Towards Generalizable Safety in Crowd Navigation via Conformal Uncertainty
+    Handling
   authors:
   - J. Yao
   - X. Zhang
@@ -9,21 +195,22 @@
   - Z. Wang
   - A. K. Roy-Chowdhury
   - and J. Li
-  publisher: under review
+  publisher: Conference on Robot Learning (CoRL 2025)
+  date: '2025-08-01'
   image: ./paper_images/yao2024sonic.png
   buttons:
   - type: paper_link
     text: arXiv
-    link: https://arxiv.org/abs/2407.17460
-  - type: paper_video
-    text: Video
-    link: https://www.youtube.com/watch?v=uXqPMaSyDek
+    link: https://arxiv.org/abs/2508.05634
   - type: paper_home
     text: Website
-    link: https://sonic-social-nav.github.io/
+    link: https://gen-safe-nav.github.io/
+  - type: paper_video
+    text: Video
+    link: https://youtu.be/z8Eux3UOWc8
   - type: paper_code
     text: Code
-    link: https://github.com/tasl-lab/SoNIC-Social-Nav
+    link: https://github.com/tasl-lab/GenSafeNav
   tags:
   - Social Navigation
   - Human-Robot Interaction/Collaboration
@@ -33,6 +220,65 @@
   - Reinforcement Learning
   - Trajectory Prediction
   - Graph Neural Networks
+  plugin: sources.py
+  file: sources.yaml
+- title: 'UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in
+    Autonomous Driving'
+  authors:
+  - Y Wang
+  - X Huang
+  - X Sun
+  - M Yan
+  - S Xing
+  - Z Tu
+  - and J Li
+  publisher: IEEE International Conference on Computer Vision (ICCV 2025)
+  date: '2025-06-10'
+  image: ./paper_images/uniocc.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2503.24381
+  - type: paper_home
+    text: Website
+    link: https://uniocc.github.io/
+  - type: paper_code
+    text: Code
+    link: https://github.com/tasl-lab/uniocc
+  - type: paper_dataset
+    text: Dataset
+    link: https://huggingface.co/papers/2503.24381
+  tags:
+  - Autonomous Driving
+  - Occupancy Prediction
+  - Trajectory Prediction
+  - Cooperative Perception
+  - Cooperative Prediction
+  - Generalization/Robustness
+  - Safety
+  - Uncertainty Quantification
+  plugin: sources.py
+  file: sources.yaml
+- title: Uncertainty-Aware Diffusion Guided Refinement of 3D Scenes
+  authors:
+  - S. Bose
+  - A. Dutta
+  - S. Nag
+  - J. Zhang
+  - J. Li
+  - K. Karydis
+  - and AKR. Chowdhury
+  publisher: IEEE International Conference on Computer Vision (ICCV 2025)
+  date: '2025-06-09'
+  image: ./paper_images/uncertainty_diffusion_3D.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2503.15742
+  tags:
+  - Scene Generation
+  - Diffusion Models
+  - Uncertainty Quantification
   plugin: sources.py
   file: sources.yaml
 - title: 'LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning
@@ -50,12 +296,18 @@
   - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2409.20560
-  - type: paper_video
-    text: Video
-    link: https://www.youtube.com/watch?v=zfc0pOXTPOQ
   - type: paper_home
     text: Website
     link: https://lamma-p.github.io/
+  - type: paper_video
+    text: Video
+    link: https://www.youtube.com/watch?v=zfc0pOXTPOQ
+  - type: paper_code
+    text: Code
+    link: https://github.com/tasl-lab/LaMMA-P
+  - type: paper_dataset
+    text: Dataset
+    link: https://github.com/tasl-lab/LaMMA-P/tree/main/data
   tags:
   - Embodied AI
   - Foundation Models
@@ -91,29 +343,25 @@
   - Uncertainty Quantification
   plugin: sources.py
   file: sources.yaml
-- title: Multi-Agent Dynamic Relational Reasoning for Social Robot Navigation
+- title: Robust Offline Imitation Learning from Diverse Auxiliary Data
   authors:
-  - J. Li\*
-  - C. Hua\*
-  - J. Park
-  - H. Ma
-  - V. Dax
-  - and M. J. Kochenderfer
-  publisher: submitted to IEEE Transactions on Robotics (T-RO), under review
-  image: ./paper_images/li2024multi.png
+  - U. Ghosh
+  - DS. Raychaudhuri
+  - J. Li
+  - K Karydis
+  - and A. Roy-Chowdhury
+  publisher: Transactions on Machine Learning Research (TMLR), 2025
+  date: '2025-01-08'
+  image: ./paper_images/robust_offline.png
   buttons:
   - type: paper_link
     text: arXiv
-    link: https://arxiv.org/abs/2401.12275
+    link: https://arxiv.org/abs/2410.03626
   tags:
-  - Social Navigation
-  - Human-Robot Interaction/Collaboration
-  - Trajectory Prediction
-  - Relational Reasoning
+  - Imitation Learning
+  - Offline Learning
   - Reinforcement Learning
-  - Multi-Agent/Robot Systems
-  - Safety
-  - Graph Neural Networks
+  - Generalization/Robustness
   plugin: sources.py
   file: sources.yaml
 - title: 'CMP: Cooperative Motion Prediction with Multi-Agent Communication'
@@ -125,7 +373,7 @@
   - Z. Li
   - H. Qiu
   - and J. Li
-  publisher: IEEE Robotics and Automation Letters (RA-L)
+  publisher: IEEE Robotics and Automation Letters (RA-L), 2025
   date: '2025-03-01'
   image: ./paper_images/wu2024cooperative.png
   buttons:
@@ -135,6 +383,12 @@
   - type: paper_home
     text: Website
     link: https://cmp-cooperative-prediction.github.io/
+  - type: paper_video
+    text: Video
+    link: https://youtu.be/o19j7g16Xx0
+  - type: paper_code
+    text: Code
+    link: https://github.com/tasl-lab/CMP/tree/main
   tags:
   - Trajectory Prediction
   - Autonomous Driving
@@ -157,10 +411,38 @@
   - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2501.18616
+  - type: paper_home
+    text: Website
+    link: https://xiangbogaobarry.github.io/STAMP/
+  - type: paper_video
+    text: Video
+    link: https://www.youtube.com/watch?v=OlQDg7EMWrE
+  - type: paper_code
+    text: Code
+    link: https://github.com/taco-group/STAMP
   tags:
   - Cooperative Perception
   - Multi-agent/robot Systems
   - Autonomous Driving
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image
+    Generation'
+  authors:
+  - GM. Shahariar
+  - J. Chen
+  - J. Li
+  - and Y. Dong
+  publisher: Empirical Methods in Natural Language Processing (EMNLP 2024)
+  date: '2024-12-11'
+  image: ./paper_images/adv_attacks_speech.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2409.15381
+  tags:
+  - Vision Language
+  - Adversarial Attack
   plugin: sources.py
   file: sources.yaml
 - title: 'Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization
@@ -170,13 +452,16 @@
   - J. Li
   - S. Bae
   - and D. Isele
-  publisher: IEEE Robotics and Automation Letters (RA-L)
+  publisher: IEEE Robotics and Automation Letters (RA-L), 2025
   date: '2025-01-10'
   image: ./paper_images/li2024adaptive.png
   buttons:
   - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2407.09475
+  - type: paper_home
+    text: Website
+    link: https://sites.google.com/view/ape-generalization
   tags:
   - Trajectory Prediction
   - Generalization/Robustness
@@ -189,7 +474,8 @@
   - M. Itkina
   - J. Li
   - and M. J. Kochenderfer
-  publisher: submitted to IEEE Robotics and Automation Letters (RA-L), under review
+  publisher: 'Robotics: Science and Systems (RSS 2025)'
+  date: '2025-04-01'
   image: ./paper_images/bernard2024self.png
   buttons:
   - type: paper_link
@@ -209,12 +495,20 @@
   - J. Li
   - H. Yu
   - and Z. Tu
-  publisher: under review
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS
+    2025)
+  date: '2025-06-01'
   image: ./paper_images/comamba.png
   buttons:
   - type: paper_link
     text: arXiv
     link: https://arxiv.org/abs/2409.10699
+  - type: paper_home
+    text: Website
+    link: https://taco-group.github.io/CoMamba/
+  - type: paper_code
+    text: Code
+    link: https://github.com/taco-group/CoMamba
   tags:
   - Cooperative Perception
   - Multi-agent/robot Systems
@@ -229,7 +523,7 @@
   - J. Li
   - D. Isele
   - and M. J. Kochenderfer
-  publisher: IEEE Robotics and Automation Letters (RA-L)
+  publisher: IEEE Robotics and Automation Letters (RA-L), 2025
   date: '2025-01-01'
   image: ./paper_images/arief2024importance.png
   buttons:
@@ -244,26 +538,6 @@
   - Human-Robot Interaction/Collaboration
   plugin: sources.py
   file: sources.yaml
-- title: 'Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement
-    Learning'
-  authors:
-  - U. Ghosh
-  - D. Raychaudhuri
-  - J. Li
-  - K. Karydis
-  - and A. Roy-Chowdhury
-  publisher: under review
-  image: ./paper_images/preferencevlm.png
-  buttons:
-  - type: paper_link
-    text: arXiv
-    link: https://arxiv.org/abs/2502.01616
-  tags:
-  - Foundation Models
-  - Vision-Language
-  - Embodied AI
-  plugin: sources.py
-  file: sources.yaml
 - title: Human Implicit Preference-Based Policy Fine-tuning for Multi-Agent Reinforcement
     Learning in USV Swarm
   authors:
@@ -272,7 +546,9 @@
   - J. Park
   - J. Li
   - and J. Park
-  publisher: under review
+  publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS
+    2025)
+  date: '2025-06-02'
   image: ./paper_images/implicit_preference.png
   buttons:
   - type: paper_link
@@ -286,28 +562,6 @@
   - Multi-agent/robot Systems
   plugin: sources.py
   file: sources.yaml
-- title: Can Large Vision Language Models Read Maps Like a Human?
-  authors:
-  - S. Xing
-  - Z. Sun
-  - S. Xie
-  - K. Chen
-  - Y. Huang
-  - Y. Wang
-  - J. Li
-  - D. Song
-  - and Z. Tu
-  publisher: under review
-  image: ./paper_images/mapbench.png
-  buttons:
-  - type: paper_link
-    text: arXiv
-    link: https://arxiv.org/abs/2503.14607
-  tags:
-  - Foundation Models
-  - Vision-Language
-  plugin: sources.py
-  file: sources.yaml
 - title: Interactive Autonomous Navigation with Internal State Inference and Interactivity
     Estimation
   authors:
@@ -317,7 +571,7 @@
   - J. Park
   - K. Fujimura
   - and M. J. Kochenderfer
-  publisher: IEEE Transactions on Robotics (T-RO)
+  publisher: IEEE Transactions on Robotics (T-RO), 2024
   date: '2024-06-06'
   image: ./paper_images/li2024interactive.png
   buttons:

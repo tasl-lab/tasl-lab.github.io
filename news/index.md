@@ -5,16 +5,26 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
-- 03/2025: [One paper](https://arxiv.org/abs/2503.13947) is accepted at CVPR 2025!
-- 02/2025: [One paper](https://arxiv.org/abs/2501.18616) is accepted at ICLR 2025!
+- 08/2025: [One paper](https://arxiv.org/abs/2508.05634) is accepted at Conference on Robot Learning (CoRL 2025)!
+- 07/2025: Prof. Li is invited as a Guest Editor for a [IEEE T-RO Special Issue on Foundation Models for Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/foundation-models-for-robotics)!
+- 06/2025: [Our paper](https://openreview.net/forum?id=vR4KJOkgwh) is selected as a Best Paper Award Finalist at the [RSS 2025 Workshop on Out-of-Distribution Generalization in Robotics](https://sites.google.com/stanford.edu/ood-workshop-rss-25/home)!
+- 06/2025: Prof. Li gave an invited talk at the [2nd MEIS Workshop](https://coop-intelligence.github.io/) at CVPR 2025!
+- 06/2025: Two papers [\[1\]](https://arxiv.org/abs/2503.24381)[\[2\]](https://arxiv.org/abs/2503.15742) are accepted at the IEEE International Conference on Computer Vision (ICCV 2025)!
+- 06/2025: Two papers [\[1\]](https://arxiv.org/abs/2503.03796)[\[2\]](https://arxiv.org/abs/2409.10699) are accepted at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) as oral presentations!
+- 05/2025: [One paper](https://arxiv.org/abs/2410.03626) is accepted at Transactions on Machine Learning Research (TMLR)!
+- 04/2025: [One paper](https://arxiv.org/abs/2407.21126) is accepted at Robotics: Science and Systems (RSS 2025)!
+- 03/2025: [One paper](https://arxiv.org/abs/2503.13947) is accepted at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)!
+- 02/2025: [One paper](https://arxiv.org/abs/2501.18616) is accepted at International Conference on Learning Representations (ICLR 2025)!
 - 02/2025: [One paper](https://arxiv.org/abs/2403.17916) is accepted at IEEE Robotics and Automation Letters (RA-L)!
 - 01/2025: Prof. Li received two research grants from SoCal OASIS!
-- 01/2025: [One paper](https://arxiv.org/abs/2409.20560) is accepted at ICRA 2025!
+- 01/2025: [One paper](https://arxiv.org/abs/2409.20560) is accepted at IEEE International Conference on Robotics and Automation (ICRA 2025)!
 - 12/2024: Prof. Li is invited to serve as an Associate Editor for IEEE Transactions on Robotics!
 - 12/2024: [One paper](https://arxiv.org/abs/2407.09475) is accepted at IEEE Robotics and Automation Letters (RA-L)!
 - 11/2024: [One paper](https://arxiv.org/abs/2407.15839) is accepted at IEEE Robotics and Automation Letters (RA-L)!
+- 10/2024: [One paper](https://aclanthology.org/2024.findings-emnlp.753/) is accepted at Findings of the Association for Computational Linguistics: EMNLP 2024!
 - 08/2024: Prof. Li is invited to serve as an Area Chair for ICLR 2025 and CVPR 2025!
 - 07/2024: Prof. Li received the UC Regents Faculty Fellowship!
+- 07/2024: Prof. Li received an NSF CISE CSR research grant!
 - 06/2024: Prof. Li is invited to serve as a Senior Program Committee for AAMAS 2025 and an Associate Editor for ICRA 2025!
 - 05/2024: Prof. Li will organize the [Southern California Robotics Symposium (SCR 2024)](https://robotics.ucr.edu/scr-2024)!
 - 04/2024: [One paper](https://arxiv.org/abs/2311.16091) is accepted at IEEE Transactions on Robotics (T-RO)!
