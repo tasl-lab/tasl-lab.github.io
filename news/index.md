@@ -5,7 +5,10 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 08/2025: Prof. Li received a research grant from NSF to investigate Trustworthy and Resilient Intelligence for Multi-Agent Systems!
+- 08/2025: Prof. Li is invited to serve as an Area Chair/Associate Editor for CVPR 2026, ICLR 2026, ICRA 2026, and IV 2026!
 - 08/2025: [One paper](https://arxiv.org/abs/2508.05634) is accepted at Conference on Robot Learning (CoRL 2025)!
+- 08/2025: Prof. Li will co-organize [ICCV 2025 Workshop on End-to-End 3D Learning](https://e2e3d.github.io/)!
 - 07/2025: Prof. Li is invited as a Guest Editor for a [IEEE T-RO Special Issue on Foundation Models for Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/foundation-models-for-robotics)!
 - 06/2025: [Our paper](https://openreview.net/forum?id=vR4KJOkgwh) is selected as a Best Paper Award Finalist at the [RSS 2025 Workshop on Out-of-Distribution Generalization in Robotics](https://sites.google.com/stanford.edu/ood-workshop-rss-25/home)!
 - 06/2025: Prof. Li gave an invited talk at the [2nd MEIS Workshop](https://coop-intelligence.github.io/) at CVPR 2025!
@@ -24,7 +27,7 @@ nav:
 - 10/2024: [One paper](https://aclanthology.org/2024.findings-emnlp.753/) is accepted at Findings of the Association for Computational Linguistics: EMNLP 2024!
 - 08/2024: Prof. Li is invited to serve as an Area Chair for ICLR 2025 and CVPR 2025!
 - 07/2024: Prof. Li received the UC Regents Faculty Fellowship!
-- 07/2024: Prof. Li received an NSF CISE CSR research grant!
+- 07/2024: Prof. Li received a new research grant from NSF to investigate Integrated Perception and Planning for Autonomous Agents!
 - 06/2024: Prof. Li is invited to serve as a Senior Program Committee for AAMAS 2025 and an Associate Editor for ICRA 2025!
 - 05/2024: Prof. Li will organize the [Southern California Robotics Symposium (SCR 2024)](https://robotics.ucr.edu/scr-2024)!
 - 04/2024: [One paper](https://arxiv.org/abs/2311.16091) is accepted at IEEE Transactions on Robotics (T-RO)!
