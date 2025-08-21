@@ -8,6 +8,7 @@ nav:
 - 08/2025: Prof. Li received a research grant from NSF to investigate Trustworthy and Resilient Intelligence for Multi-Agent Systems!
 - 08/2025: Prof. Li is invited to serve as an Area Chair/Associate Editor for CVPR 2026, ICLR 2026, ICRA 2026, and IV 2026!
 - 08/2025: [One paper](https://arxiv.org/abs/2508.05634) is accepted at Conference on Robot Learning (CoRL 2025)!
+- 08/2025: [One paper](https://arxiv.org/abs/2506.15065) is accepted at the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)!
 - 08/2025: Prof. Li will co-organize [ICCV 2025 Workshop on End-to-End 3D Learning](https://e2e3d.github.io/)!
 - 07/2025: Prof. Li is invited as a Guest Editor for a [IEEE T-RO Special Issue on Foundation Models for Robotics](https://www.ieee-ras.org/publications/t-ro/special-issues/foundation-models-for-robotics)!
 - 06/2025: [Our paper](https://openreview.net/forum?id=vR4KJOkgwh) is selected as a Best Paper Award Finalist at the [RSS 2025 Workshop on Out-of-Distribution Generalization in Robotics](https://sites.google.com/stanford.edu/ood-workshop-rss-25/home)!

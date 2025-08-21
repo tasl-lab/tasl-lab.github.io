@@ -117,30 +117,7 @@
     - Embodied AI
 
 
-- title: "HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models"
-  authors:
-    - T. Chakraborty
-    - U. Ghosh
-    - X. Zhang
-    - FF. Niloy
-    - Y. Dong
-    - J. Li
-    - A. Roy-Chowdhury
-    - and C. Song
-  publisher: "under review"
-  # date: 2025-06-09
-  image: ./paper_images/heal2025.png
-  buttons:
-    - type: paper_link
-      text: arXiv
-      link: https://arxiv.org/abs/2506.15065
-  tags:
-    - Embodied AI
-    - Foundation Models
-    - Vision Language
-    - Generalization/Robustness
-    - Safety
-    - Uncertainty Quantification
+
 
 
 
@@ -352,6 +329,31 @@
     - Scene Understanding
     - Uncertainty Quantification
 
+- title: "HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models"
+  authors:
+    - T. Chakraborty
+    - U. Ghosh
+    - X. Zhang
+    - FF. Niloy
+    - Y. Dong
+    - J. Li
+    - A. Roy-Chowdhury
+    - and C. Song
+  publisher: "Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)"
+  date: 2025-01-08
+  image: ./paper_images/heal2025.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2506.15065
+  tags:
+    - Embodied AI
+    - Foundation Models
+    - Vision Language
+    - Generalization/Robustness
+    - Safety
+    - Uncertainty Quantification
+
 
 - title: "Robust Offline Imitation Learning from Diverse Auxiliary Data"
   authors:
@@ -372,8 +374,6 @@
     - Offline Learning
     - Reinforcement Learning
     - Generalization/Robustness
-
-
 
 
 - title: "CMP: Cooperative Motion Prediction with Multi-Agent Communication"
