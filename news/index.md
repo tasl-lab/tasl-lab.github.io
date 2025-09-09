@@ -7,6 +7,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 - 09/2025: Prof. Li is invited to serve on the Organizing Committee for RSS 2026!
 - 08/2025: Prof. Li received a research grant from NSF to investigate Trustworthy and Resilient Intelligence for Multi-Agent Systems!
+- 08/2025: Prof. Li will give an invited keynote talk at the [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/) at ICCV 2025!
 - 08/2025: Prof. Li is invited to serve as an Area Chair/Associate Editor for CVPR 2026, ICLR 2026, ICRA 2026, and IV 2026!
 - 08/2025: [One paper](https://arxiv.org/abs/2508.05634) is accepted at Conference on Robot Learning (CoRL 2025)!
 - 08/2025: [One paper](https://arxiv.org/abs/2506.15065) is accepted at the Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings)!
