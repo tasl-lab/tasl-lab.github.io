@@ -171,10 +171,30 @@
 
 
 
-
-
-
-
+- title: "RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks"
+  authors:
+    - M. Yan
+    - Y. Wang
+    - Z. Liu
+    - and J. Li
+  publisher: " 39th Conference on Neural Information Processing Systems (NeurIPS 2025)"
+  date: 2025-10-16
+  image: ./paper_images/rdd.png
+  buttons:
+    - type: paper_link
+      text: arXiv
+      link: https://arxiv.org/abs/2510.14968
+    - type: paper_home
+      text: Website
+      link: http://rdd-neurips.github.io/
+    - type: paper_code
+      text: Code
+      link: https://github.com/tasl-lab/RDD
+  tags:
+    - Robot Learning
+    - Robot Manipulation
+    - Long-Horizon Tasks
+    - Vision-Language-Action Models
 
 
 
@@ -205,6 +225,7 @@
       link: https://github.com/tasl-lab/GenSafeNav
   tags:
     - Social Navigation
+    - Robot Learning
     - Human-Robot Interaction/Collaboration
     - Safety
     - Generalization/Robustness

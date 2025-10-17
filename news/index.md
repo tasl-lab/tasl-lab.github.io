@@ -5,7 +5,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
-- 09/2025: [One paper](https://tasl.ucr.edu/news/) is accepted at Annual Conference on Neural Information Processing Systems (NeurIPS 2025)!
+- 09/2025: [One paper](http://arxiv.org/abs/2510.14968) is accepted at Annual Conference on Neural Information Processing Systems (NeurIPS 2025)!
 - 09/2025: Prof. Li is invited to serve on the Organizing Committee for RSS 2026!
 - 08/2025: Prof. Li received a research grant from NSF to investigate Trustworthy and Resilient Intelligence for Multi-Agent Systems!
 - 08/2025: Prof. Li will give an invited keynote talk at the [DriveX Workshop on Foundation Models for V2X-Based Cooperative Autonomous Driving](https://drivex-workshop.github.io/) at ICCV 2025!
