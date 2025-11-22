@@ -9,6 +9,7 @@
     Robots must learn a safe and efficient behavior policy that can model the interactions, take into account the uncertainties among 
     the interactions during decision making, coordinate with surrounding static and dynamic entities, and generalize to 
     out-of-distribution (OOD) situations.
+    <br><br>
     In our research, we have
     <strong>
     1) introduced a novel interaction-aware decision making framework for autonomous vehicles based on deep reinforcement learning (DRL), 
@@ -62,18 +63,21 @@
     To address these challenges, we have <strong>proposed a novel multi-agent task planning framework designed to excel in long-horizon tasks, which integrates the reasoning capabilities of LLMs with traditional heuristic search planning, which achieves high success rates and efficiency while demonstrating robust generalization across various tasks.</strong> 
     This research not only contributes to the advancement of task planning for heterogeneous robotic teams but also lays the groundwork for future explorations in multi-agent collaboration.
     <br><br>
+    Complementary to this multi-agent planning line, our work on <strong>Retrieval-based Demonstration Decomposer (RDD)</strong> tackles the core problem of <strong>long-horizon manipulation</strong> for a single embodied agent: how to <strong>decompose complex demonstrations into executable sub-tasks that align with a robot’s existing visuomotor skills</strong>. 
+    Instead of relying on hand-crafted rules or generic unsupervised methods, RDD leverages a small set of human-annotated sub-tasks as references and retrieves visually similar intervals to decompose new demonstrations. This retrieval-based sub-task segmentation significantly improves the performance of hierarchical VLA policies on RLBench and real-world manipulation tasks, and, crucially, is not limited to hierarchical VLAs: the same mechanism can serve as a general-purpose sub-task annotation tool for a wide range of long-horizon manipulation and sequential decision-making problems.
+    <br><br>
 
     **Related Publications:** <br>
-    9. [Generative AI for Autonomous Driving: Frontiers and Opportunities](https://arxiv.org/abs/2505.08854), under review. <br>
+    9. [RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks](https://arxiv.org/abs/2510.14968), 39th Conference on Neural Information Processing Systems (NeurIPS 2025). <br>
     8. [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner](https://arxiv.org/abs/2409.20560), International Conference on Robotics and Automation (ICRA 2025). <br>
-    7. [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning](https://arxiv.org/abs/2502.01616), under review. <br>
-    6. [Can Large Vision Language Models Read Maps Like a Human?](https://arxiv.org/abs/2503.14607), under review. <br>
-    5. [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning](https://arxiv.org/abs/2502.01616), under review. <br>
-    4. [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://arxiv.org/abs/2505.20279), under review. <br>
-    3. [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models](https://arxiv.org/abs/2506.15065), under review. <br>
-    2. [TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](https://arxiv.org/abs/2508.05616), under review. <br>
-    1. [Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](https://arxiv.org/abs/2503.13947), International Conference on Computer Vision and Pattern Recognition (CVPR 2025). <br>
-
+    7. [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models](https://arxiv.org/abs/2506.15065), Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). <br>
+    6. [TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](https://arxiv.org/abs/2508.05616), AAAI Conference on Artificial Intelligence (AAAI 2026). <br>
+    5. [Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](https://arxiv.org/abs/2503.13947), International Conference on Computer Vision and Pattern Recognition (CVPR 2025). <br>
+    4. [Generative AI for Autonomous Driving: Frontiers and Opportunities](https://arxiv.org/abs/2505.08854), under review. <br>
+    3. [Can Large Vision Language Models Read Maps Like a Human?](https://arxiv.org/abs/2503.14607), under review. <br>
+    2. [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning](https://arxiv.org/abs/2502.01616), under review. <br>
+    1. [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://arxiv.org/abs/2505.20279), under review. <br>
+    
 
   # repo: greenelab/lab-website-template
 
@@ -104,9 +108,11 @@
     <br><br>
 
     **Related Publications:** <br>
-    3. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), IEEE Robotics and Automation Letters (RA-L), 2025. <br>
-    2. [STAMP: Scalable Task And Model-agnostic Collaborative Perception](https://arxiv.org/abs/2501.18616), International Conference on Learning Representations (ICLR 2025). <br>
-    1. [CoMamba: Real-time Cooperative Perception Unlocked with State Space Models](https://arxiv.org/abs/2409.10699), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). <br>
+    4. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), IEEE Robotics and Automation Letters (RA-L), 2025. <br>
+    3. [STAMP: Scalable Task And Model-agnostic Collaborative Perception](https://arxiv.org/abs/2501.18616), International Conference on Learning Representations (ICLR 2025). <br>
+    2. [CoMamba: Real-time Cooperative Perception Unlocked with State Space Models](https://arxiv.org/abs/2409.10699), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). <br>
+    1. [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner](https://arxiv.org/abs/2409.20560), International Conference on Robotics and Automation (ICRA 2025). <br>
+
   # repo: greenelab/lab-website-template
 
   tags:

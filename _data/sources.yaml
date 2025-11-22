@@ -29,8 +29,8 @@
 - title: "Trends in Motion Prediction Toward Deployable and Generalizable Autonomy: A Revisit and Perspectives"
   authors:
     - L. Wang et al.
-  publisher: "under review"
-  # date: 2025-06-09
+  publisher: "Foundations and Trends in Robotics"
+  date: 2025-10-09
   image: ./paper_images/wang2025trends.png
   buttons:
     - type: paper_link
@@ -154,8 +154,8 @@
     - Z. Ma
     - J. Li
     - and J. Park
-  publisher: "under review"
-  # date: 2024-01-01
+  publisher: "AAAI Conference on Artificial Intelligence (AAAI 2026)"
+  date: 2026-1-1
   image: ./paper_images/trajevo.png
   buttons:
     - type: paper_link

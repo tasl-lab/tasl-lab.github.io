@@ -29,7 +29,8 @@
     A Revisit and Perspectives'
   authors:
   - L. Wang et al.
-  publisher: under review
+  publisher: Foundations and Trends in Robotics
+  date: '2025-10-09'
   image: ./paper_images/wang2025trends.png
   buttons:
   - type: paper_link
@@ -146,7 +147,8 @@
   - Z. Ma
   - J. Li
   - and J. Park
-  publisher: under review
+  publisher: AAAI Conference on Artificial Intelligence (AAAI 2026)
+  date: '2026-01-01'
   image: ./paper_images/trajevo.png
   buttons:
   - type: paper_link

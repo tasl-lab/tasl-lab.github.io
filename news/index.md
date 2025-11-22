@@ -5,6 +5,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 10/2025: [One paper](https://arxiv.org/abs/2508.05616) is accepted at AAAI Conference on Artificial Intelligence (AAAI 2026)!
 - 09/2025: [One paper](http://arxiv.org/abs/2510.14968) is accepted at Annual Conference on Neural Information Processing Systems (NeurIPS 2025)!
 - 09/2025: Prof. Li is invited to serve on the Organizing Committee for RSS 2026!
 - 08/2025: Prof. Li received a research grant from NSF to investigate Trustworthy and Resilient Intelligence for Multi-Agent Systems!
