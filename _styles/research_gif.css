@@ -1,0 +1,16 @@
+.gif-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 1.5rem 0 2rem 0;
+}
+
+.gif-grid img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  border-radius: 3px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+/*# sourceMappingURL=research_gif.css.map */
