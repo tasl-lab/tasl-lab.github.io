@@ -5,6 +5,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 12/2025: Prof. Li received two [RAISE Seed Grants](https://research.ucr.edu/funding#request-for-proposals-for-rais) to support our research!
+- 12/2025: Prof. Li is invited to serve as an Area Chair for ECCV 2026!
+- 12/2025: [One paper]() is accepted at IEEE Robotics and Automation Letters (RA-L)!
 - 10/2025: [One paper](https://arxiv.org/abs/2508.05616) is accepted at AAAI Conference on Artificial Intelligence (AAAI 2026)!
 - 09/2025: [One paper](http://arxiv.org/abs/2510.14968) is accepted at Annual Conference on Neural Information Processing Systems (NeurIPS 2025)!
 - 09/2025: Prof. Li is invited to serve on the Organizing Committee for RSS 2026!
