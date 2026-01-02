@@ -5,6 +5,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 12/2025: Prof. Li received a U.S. DOT [NCST Grant](https://ncst.ucdavis.edu/) (National UTC) to support our research!
 - 12/2025: Prof. Li received two [RAISE Seed Grants](https://research.ucr.edu/funding#request-for-proposals-for-rais) to support our research!
 - 12/2025: Prof. Li is invited to serve as an Area Chair for ECCV 2026!
 - 12/2025: [One paper]() is accepted at IEEE Robotics and Automation Letters (RA-L)!
