@@ -23,7 +23,25 @@ nav:
 #### Visiting Scholar/Students
 {% include list_students.html data="members" component="portrait_students" filters="role: visiting" %}
 #### Alumni
+Litian Gong (M.S. Student in EE, UCR, 2026) <br>
+Asif Amin (M.S. Student in CS, UCR, 2026) <br>
+Zheyu Lin (M.S. Student in CS, UCR, 2026) <br>
+Yanqi Jia (M.S. Student in CS, UCR, 2026) <br>
+Yash Chaudhary (M.S. Student in CS, UCR, 2026) <br>
+Runze Liao (M.S. Student in CE, UCR, 2026) <br>
+Harshini Murugadoss (M.S. Student in Robotics, UCR, 2026) <br>
+Soumya Jyoti Mondal (M.S. Student in Robotics, UCR, 2026) <br>
+Shreyas Battula (M.S. Student in CS, UCR, 2026) <br>
+Ruopeng Huang (Visiting Student, USC, 2026) <br>
+Anirudh Nittur Venkatesh (M.S. Student in CS, UCR, 2025) <br>
+Rohan Tikotekar (M.S. Student in CS, UCR, 2025) <br>
+Ian Pourlotfali (M.S. Student in CS, UCR, 2025) <br>
+Yu Xia (M.S. Student in Robotics, UCR, 2025) <br>
+Prerana Pemmaraju (M.S. Student in Robotics, UCR, 2025) <br>
+Shubham Yogesh Jangle (M.S. Student in Robotics, UCR, 2025) <br>
+Satyadev Gangineni (M.S. Student in Robotics, UCR, 2025) <br>
 Zejin Wang (Visiting Scholar, Zhejiang University, 2025) <br>
+Fuquan Wang (Visiting Scholar, UCR, 2025) <br>
 Licheng Luo (Visiting Scholar, UCR, 2025) <br>
 Albert Dang (M.S. Student, UCR, 2024) <br>
 Zhifeng Wu (M.S. Student, UCR, 2024) <br>

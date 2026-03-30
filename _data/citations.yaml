@@ -1,8 +1,344 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: 'NavTrust: Benchmarking Trustworthiness for Embodied Navigation'
+  authors:
+  - H. Jiang\*
+  - Y. Chaudhary\*
+  - Y. Wang
+  - Z. Wang
+  - R. Sharma
+  - M. Mehta
+  - Y. Zhou
+  - L. Sun
+  - Z. Fan
+  - Z. Tu
+  - and J. Li
+  publisher: under review
+  image: ./paper_images/navtrust.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2603.19229
+  - type: paper_home
+    text: Website
+    link: https://navtrust.github.io/
+  tags:
+  - Embodied AI
+  - Embodied Navigation
+  - Robot Learning
+  - Imitation Learning
+  - Reinforcement Learning
+  - Foundation Models
+  - Vision-Language-Action Models
+  - Vision-Language
+  - Safety
+  - Generalization/Robustness
+  plugin: sources.py
+  file: sources.yaml
+- title: 'SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic
+    Manipulation'
+  authors:
+  - R. Huang
+  - B. Yang
+  - W. Gui
+  - J. Morgan
+  - "E. B\u0131y\u0131k"
+  - and J. Li
+  publisher: under review
+  image: ./paper_images/synctwin.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2601.09920
+  - type: paper_home
+    text: Website
+    link: https://sync-twin.github.io/
+  tags:
+  - Embodied AI
+  - Robot Manipulation
+  - Safety
+  - Robot Learning
+  - Imitation Learning
+  - Reinforcement Learning
+  - Foundation Models
+  - Vision-Language Models
+  - Vision-Language
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Drive My Way : Preference Alignment of Vision-Language-Action Model for
+    Personalized Driving'
+  authors:
+  - Z. Wang
+  - H. Jiang
+  - S. Dong
+  - Y. Wang
+  - H. Qiu
+  - and J. Li
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
+    2026)
+  date: '2026-03-10'
+  image: ./paper_images/dmw.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2603.25740
+  - type: paper_home
+    text: Website
+    link: https://dmw-cvpr.github.io/
+  - type: paper_code
+    text: Code
+    link: https://github.com/tasl-lab/DMW
+  tags:
+  - Embodied AI
+  - Autonomous Driving
+  - Human-Robot Interaction/Collaboration
+  - Robot Learning
+  - Preference Learning
+  - Personalization
+  - Reinforcement Learning
+  - Vision-Language-Action Models
+  - Foundation Models
+  - Vision-Language
+  - Generalization/Robustness
+  plugin: sources.py
+  file: sources.yaml
+- title: 'VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction'
+  authors:
+  - Z Fan
+  - J. Zhang
+  - R. Li
+  - J. Zhang
+  - R. Chen
+  - H. Hu
+  - K. Wang
+  - H. Qu
+  - D. Wang
+  - Z. Yan
+  - H. Xu
+  - J. Theiss
+  - T. Chen
+  - J. Li
+  - Z. Tu
+  - Z. Wang
+  - R. Ranjan
+  publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR
+    2026); Best Paper Award at ACM MM 2025 Workshop
+  date: '2026-03-07'
+  image: ./paper_images/vlm-3r.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2505.20279
+  - type: paper_home
+    text: Website
+    link: https://vlm-3r.github.io/
+  - type: paper_code
+    text: Code
+    link: https://github.com/VITA-Group/VLM-3R
+  - type: paper_dataset
+    text: Dataset
+    link: https://huggingface.co/datasets/Journey9ni/VLM-3R-DATA
+  - type: paper_benchmark
+    text: Benchmark
+    link: https://huggingface.co/datasets/Journey9ni/vstibench
+  tags:
+  - Embodied AI
+  - Vision-Language Models
+  - Foundation Models
+  - Vision-Language
+  plugin: sources.py
+  file: sources.yaml
+- title: 'CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with
+    Conformal Prediction'
+  authors:
+  - X. Zhang
+  - Z. Wang
+  - Z. Li
+  - J. Yao
+  - and J. Li
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2026)
+  date: '2026-02-28'
+  image: ./paper_images/commcp.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2602.06038
+  - type: paper_home
+    text: Website
+    link: https://comm-cp.github.io/
+  - type: paper_code
+    text: Code
+    link: https://github.com/tasl-lab/CommCP
+  tags:
+  - Embodied AI
+  - Multi-Agent/Robot Systems
+  - Vision-Language
+  - Foundation Models
+  - Long-Horizon Tasks
+  plugin: sources.py
+  file: sources.yaml
+- title: 'GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot
+    Policy Enhancement'
+  authors:
+  - M. Gao\*
+  - X. Li\*
+  - Q. Yan\*
+  - X. Zhang
+  - C. Huang,
+  - and J. Li
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2026)
+  date: '2026-02-25'
+  image: ./paper_images/guides.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2511.03400
+  tags:
+  - Embodied AI
+  - Robot Learning
+  - Robot Manipulation
+  - Vision-Language
+  - Vision-Language-Action Models
+  - Foundation Models
+  - Long-Horizon Tasks
+  plugin: sources.py
+  file: sources.yaml
+- title: 'AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation
+    Learning without Extra Human Annotation'
+  authors:
+  - L. Gong
+  - F. Bahrani
+  - Y. Zhou
+  - A. Banayeeanzade
+  - J. Li
+  - "and E. B\u0131y\u0131k"
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2026)
+  date: '2026-02-22'
+  image: ./paper_images/autofocus.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2511.18617
+  - type: paper_home
+    text: Website
+    link: https://autofocus-il.github.io/
+  - type: paper_code
+    text: Code
+    link: https://github.com/autofocus-il/autofocus-il
+  tags:
+  - Embodied AI
+  - Robot Learning
+  - Imitation Learning
+  - Autonomous Driving
+  - Robot Manipulation
+  - Vision-Language
+  - Foundation Models
+  - Long-Horizon Tasks
+  plugin: sources.py
+  file: sources.yaml
+- title: Reducing Oracle Feedback with Vision-Language Embeddings for Preference-Based
+    RL
+  authors:
+  - U. Ghosh
+  - D. Raychaudhuri
+  - J. Li
+  - K. Karydis
+  - and A. Roy-Chowdhury
+  publisher: IEEE International Conference on Robotics and Automation (ICRA 2026)
+  date: '2026-02-19'
+  image: ./paper_images/rover.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://roved-icra-2026.github.io/
+  - type: paper_home
+    text: Website
+    link: https://roved-icra-2026.github.io/
+  - type: paper_code
+    text: Code
+    link: https://roved-icra-2026.github.io/
+  tags:
+  - Embodied AI
+  - Robot Learning
+  - Imitation Learning
+  - Reinforcement Learning
+  - Preference Learning
+  - Robot Manipulation
+  - Vision-Language Models
+  - Foundation Models
+  plugin: sources.py
+  file: sources.yaml
+- title: Priority-Aware Multi-Robot Coverage Path Planning
+  authors:
+  - K. Lee
+  - H. Kim
+  - J. Li
+  - and J. Park
+  publisher: IEEE Robotics and Automation Letters (RA-L), 2026
+  date: '2026-02-16'
+  image: ./paper_images/priority-aware-coverage.png
+  buttons:
+  - type: paper_link
+    text: arXiv
+    link: https://arxiv.org/abs/2601.00580
+  - type: paper_link
+    text: IEEE
+    link: https://ieeexplore.ieee.org/document/11345935
+  tags:
+  - Multi-Agent/Robot Systems
+  - Multi-Agent Path Finding
+  - Tree Search
+  plugin: sources.py
+  file: sources.yaml
 - title: 'Generative AI for Autonomous Driving: Frontiers and Opportunities'
   authors:
-  - Y. Wang et al.
+  - Y. Wang
+  - S. Xing
+  - C. Can
+  - R. Li
+  - H. Hua
+  - K. Tian
+  - Z. Mo
+  - X. Gao
+  - K. Wu
+  - S. Zhou
+  - H. You
+  - J. Peng
+  - J. Zhang
+  - Z. Wang
+  - R. Song
+  - M. Yan
+  - W. Zimmer
+  - X. Zhou
+  - P. Li
+  - Z. Lu
+  - C.-J. Chen
+  - Y. Huang
+  - R. A. Rossi
+  - L. Sun
+  - H. Yu
+  - Z. Fan
+  - F. H. Yang
+  - Y. Kang
+  - R. Greer
+  - C. Liu
+  - E. H. Lee
+  - X. Di
+  - X. Ye
+  - L. Ren
+  - A. Knoll
+  - X. Li
+  - S. Ji
+  - M. Tomizuka
+  - M. Pavone
+  - T. Yang
+  - J. Du
+  - M.-H. Yang
+  - H. Wei
+  - Z. Wang
+  - Y. Zhou
+  - J. Li
+  - and Z. Tu
   publisher: under review
   image: ./paper_images/wang2025generative.png
   buttons:
@@ -28,9 +364,24 @@
 - title: 'Trends in Motion Prediction Toward Deployable and Generalizable Autonomy:
     A Revisit and Perspectives'
   authors:
-  - L. Wang et al.
+  - L. Wang
+  - M. Lavoie
+  - S. Papais
+  - B. Nisar
+  - Y. Chen
+  - W. Ding
+  - B. Ivanovic
+  - H. Shao
+  - A. Abuduweili
+  - E. Cook
+  - Y. Zhou
+  - P. Karkus
+  - J. Li
+  - C. Liu
+  - M. Pavone
+  - and Steven Waslander
   publisher: Foundations and Trends in Robotics
-  date: '2025-10-09'
+  date: '2026-01-01'
   image: ./paper_images/wang2025trends.png
   buttons:
   - type: paper_link
@@ -77,44 +428,6 @@
   - Graph Neural Networks
   plugin: sources.py
   file: sources.yaml
-- title: 'Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement
-    Learning'
-  authors:
-  - U. Ghosh
-  - D. Raychaudhuri
-  - J. Li
-  - K. Karydis
-  - and A. Roy-Chowdhury
-  publisher: under review
-  image: ./paper_images/preferencevlm.png
-  buttons:
-  - type: paper_link
-    text: arXiv
-    link: https://arxiv.org/abs/2502.01616
-  tags:
-  - Foundation Models
-  - Vision-Language
-  - Embodied AI
-  plugin: sources.py
-  file: sources.yaml
-- title: 'VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction'
-  authors:
-  - Z. Fan et al.
-  publisher: under review
-  image: ./paper_images/vlm3r.png
-  buttons:
-  - type: paper_link
-    text: arXiv
-    link: https://arxiv.org/abs/2505.20279
-  - type: paper_home
-    text: Website
-    link: https://vlm-3r.github.io/
-  tags:
-  - Vision Language
-  - Foundation Models
-  - Embodied AI
-  plugin: sources.py
-  file: sources.yaml
 - title: Can Large Vision Language Models Read Maps Like a Human?
   authors:
   - S. Xing
@@ -136,6 +449,7 @@
   - Embodied AI
   - Foundation Models
   - Vision-Language
+  - Vision-Language Models
   plugin: sources.py
   file: sources.yaml
 - title: 'TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution'
@@ -148,7 +462,7 @@
   - J. Li
   - and J. Park
   publisher: AAAI Conference on Artificial Intelligence (AAAI 2026)
-  date: '2026-01-01'
+  date: '2026-01-02'
   image: ./paper_images/trajevo.png
   buttons:
   - type: paper_link
@@ -288,8 +602,8 @@
 - title: 'LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning
     with LM-Driven PDDL Planner'
   authors:
-  - X. Zhang
-  - H. Qin
+  - X. Zhang\*
+  - H. Qin\*
   - F. Wang
   - Y. Dong
   - and J. Li
@@ -1102,7 +1416,7 @@
   - J. Li
   - M. Tomizuka
   - and C. Choi
-  publisher: IEEE Robotics and Automation Letters (RA-L)
+  publisher: IEEE Robotics and Automation Letters (RA-L), 2021
   date: '2021-08-19'
   buttons:
   - type: paper_link

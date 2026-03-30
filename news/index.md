@@ -5,10 +5,20 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 03/2026: Prof. Li received an [NVIDIA Academic Grant](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/) to investigate long-tail generalization for VLA driving. Thanks NVIDIA!
+- 03/2026: Prof. Li is invited to serve as an Area Chair for NeurIPS 2026!
+- 03/2026: One [survey paper](https://trends-in-motion-prediction-2025.github.io/) about Motion Prediction is accepted at Foundations and Trends in Robotics!
+- 02/2026: Two papers [\[1\]](https://dmw-cvpr.github.io/)[\[2\]](https://vlm-3r.github.io/) are accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)!
+- 02/2026: Prof. Li is invited to give a keynote talk at the [ICRA 2026 Workshop on Shared Challenges in Human-Centered and Resilient Robotic Autonomy](https://sites.google.com/cs.miami.edu/scr-icra26/)!
+- 02/2026: Prof. Li is invited to give a keynote talk at the [CVPR 2026 Workshop on Multi-Agent Embodied Intelligent Systems Meet Generative AI Era](https://coop-intelligence.github.io/)!
+- 01/2026: Five papers [\[1\]](https://comm-cp.github.io/)[\[2\]](https://arxiv.org/abs/2511.03400)[\[3\]](https://autofocus-il.github.io/)[\[4\]](https://arxiv.org/abs/2601.00580)[\[5\]](https://roved-icra-2026.github.io/) are accepted at the IEEE International Conference on Robotics and Automation (ICRA 2026)!
+- 01/2026: Prof. Li is invited to serve on the Management Committee of the new [IEEE Transactions on Robot Learning](https://www.ieee-ras.org/publications/t-rl/)!
+- 01/2026: Prof. Li is invited to serve as a Co-Chair of the [IEEE RAS Technical Committee on Robot Learning](https://www.ieee-ras.org/robot-learning/)!
 - 12/2025: Prof. Li received a U.S. DOT [NCST Grant](https://ncst.ucdavis.edu/) (National UTC) to support our research!
 - 12/2025: Prof. Li received two [RAISE Seed Grants](https://research.ucr.edu/funding#request-for-proposals-for-rais) to support our research!
 - 12/2025: Prof. Li is invited to serve as an Area Chair for ECCV 2026!
-- 12/2025: [One paper]() is accepted at IEEE Robotics and Automation Letters (RA-L)!
+- 12/2025: [One paper](https://arxiv.org/abs/2601.00580) is accepted at IEEE Robotics and Automation Letters (RA-L)!
+- 11/2025: [Our paper](https://vlm-3r.github.io/) received the Best Paper Award at the [ACM MM 2025 Workshop on Multimodal Foundation Models for Spatial Intelligence](https://sites.google.com/view/mm25-spatial/home?authuser=0)!
 - 10/2025: [One paper](https://arxiv.org/abs/2508.05616) is accepted at AAAI Conference on Artificial Intelligence (AAAI 2026)!
 - 09/2025: [One paper](http://arxiv.org/abs/2510.14968) is accepted at Annual Conference on Neural Information Processing Systems (NeurIPS 2025)!
 - 09/2025: Prof. Li is invited to serve on the Organizing Committee for RSS 2026!

@@ -68,27 +68,35 @@
     <br><br>
 
     **Related Publications:** <br>
-    9. [RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks](https://arxiv.org/abs/2510.14968), 39th Conference on Neural Information Processing Systems (NeurIPS 2025). <br>
-    8. [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner](https://arxiv.org/abs/2409.20560), International Conference on Robotics and Automation (ICRA 2025). <br>
-    7. [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models](https://arxiv.org/abs/2506.15065), Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). <br>
-    6. [TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](https://arxiv.org/abs/2508.05616), AAAI Conference on Artificial Intelligence (AAAI 2026). <br>
-    5. [Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](https://arxiv.org/abs/2503.13947), International Conference on Computer Vision and Pattern Recognition (CVPR 2025). <br>
-    4. [Generative AI for Autonomous Driving: Frontiers and Opportunities](https://arxiv.org/abs/2505.08854), under review. <br>
-    3. [Can Large Vision Language Models Read Maps Like a Human?](https://arxiv.org/abs/2503.14607), under review. <br>
-    2. [Preference VLM: Leveraging VLMs for Scalable Preference-Based Reinforcement Learning](https://arxiv.org/abs/2502.01616), under review. <br>
-    1. [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://arxiv.org/abs/2505.20279), under review. <br>
+    11. [Drive My Way : Preference Alignment of Vision-Language-Action Model for Personalized Driving](https://dmw-cvpr.github.io/), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). <br>
+    10. [VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction](https://vlm-3r.github.io/), IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026). <br>
+    9. [CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://comm-cp.github.io/), IEEE International Conference on Robotics and Automation (ICRA 2026). <br>
+    8. [GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement](https://arxiv.org/abs/2511.03400), IEEE International Conference on Robotics and Automation (ICRA 2026). <br>
+    7. [Reducing Oracle Feedback with Vision-Language Embeddings for Preference-Based RL](https://roved-icra-2026.github.io/), IEEE International Conference on Robotics and Automation (ICRA 2026). <br>
+    6. [AutoFocus-IL: VLM-based Saliency Maps for Data-Efficient Visual Imitation Learning without Extra Human Annotation](hhttps://autofocus-il.github.io/), IEEE International Conference on Robotics and Automation (ICRA 2026). <br>
+    5. [RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks](https://arxiv.org/abs/2510.14968), 39th Conference on Neural Information Processing Systems (NeurIPS 2025). <br>
+    4. [LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner](https://arxiv.org/abs/2409.20560), International Conference on Robotics and Automation (ICRA 2025). <br>
+    3. [HEAL: An Empirical Study on Hallucinations in Embodied Agents Driven by Large Language Models](https://arxiv.org/abs/2506.15065), Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Findings). <br>
+    2. [TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution](https://arxiv.org/abs/2508.05616), AAAI Conference on Artificial Intelligence (AAAI 2026). <br>
+    1. [Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](https://arxiv.org/abs/2503.13947), International Conference on Computer Vision and Pattern Recognition (CVPR 2025). <br>
+    
     
 
   # repo: greenelab/lab-website-template
 
   tags:
     - Foundation Models
-    - Vision-Language
+    - Vision-Language Models
+    - Vision-Language-Action Models
+    - Embodied Navigation
     - Mobile Manipulation
     - Object Navigation
     - Human-Robot Interaction/Collaboration
     - Multi-Agent/Robot Systems
     - Cooperative Planning
+    - Long-Horizon Tasks
+    - Safety
+    - Generalization/Robustness
 
 
 - title: Cooperative Perception, Prediction, and Planning for Multi-Agent Systems
@@ -108,6 +116,8 @@
     <br><br>
 
     **Related Publications:** <br>
+    6. [CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://comm-cp.github.io/), IEEE International Conference on Robotics and Automation (ICRA 2026). <br>
+    5. [Priority-Aware Multi-Robot Coverage Path Planning](https://arxiv.org/abs/2601.00580), IEEE Robotics and Automation Letters (RA-L), 2026. <br>
     4. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), IEEE Robotics and Automation Letters (RA-L), 2025. <br>
     3. [STAMP: Scalable Task And Model-agnostic Collaborative Perception](https://arxiv.org/abs/2501.18616), International Conference on Learning Representations (ICLR 2025). <br>
     2. [CoMamba: Real-time Cooperative Perception Unlocked with State Space Models](https://arxiv.org/abs/2409.10699), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). <br>
@@ -122,6 +132,8 @@
     - Multi-Agent/Robot Systems
     - Trajectory Prediction
     - Connected and Automated Vehicles
+    - Safety
+    - Generalization/Robustness
 
 
 - title: Vision Language Reasoning for Scene Understanding in Autonomous Driving
@@ -144,7 +156,7 @@
   # repo: greenelab/lab-website-template
   tags:
     - Foundation Models
-    - Vision-Language
+    - Vision-Language Models
     - Autonomous Driving
 
 
@@ -209,7 +221,7 @@
     <br><br>
     
     **Related Publications\:** <br>
-    24. [Trends in Motion Prediction Toward Deployable and Generalizable Autonomy: A Revisit and Perspectives](https://arxiv.org/abs/2505.09074), under review. <br>
+    24. [Trends in Motion Prediction Toward Deployable and Generalizable Autonomy: A Revisit and Perspectives](https://trends-in-motion-prediction-2025.github.io/), Foundations and Trends in Robotics. <br>
     23. [UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving](https://arxiv.org/abs/2503.24381), IEEE International Conference on Computer Vision (ICCV 2025). <br>
     22. [CMP: Cooperative Motion Prediction with Multi-Agent Communication](https://arxiv.org/abs/2403.17916), IEEE Robotics and Automation Letters (RA-L), 2025. <br>
     21. [Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting](https://arxiv.org/abs/2407.09475), IEEE Robotics and Automation Letters (RA-L), 2025. <br>
