@@ -635,6 +635,7 @@
   - Human-Robot Interaction/Collaboration
   - Multi-Agent/Robot Systems
   - Cooperative Planning
+  - Long-Horizon Tasks
   plugin: sources.py
   file: sources.yaml
 - title: Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph
@@ -739,6 +740,7 @@
   - Trajectory Prediction
   - Autonomous Driving
   - Cooperative Perception
+  - Cooperative Prediction
   - Multi-Agent/Robot Systems
   plugin: sources.py
   file: sources.yaml
