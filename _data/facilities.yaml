@@ -25,6 +25,13 @@
     The humanoid five-finger dexterous hand features 6 degrees of freedom and 12 motion joints 
     for precise grasping operations.
 
+- title: Franka Research 3
+  # group: featured
+  image: facilities_images/franka_research_3.png
+  description: |
+    FR3 is a 7-DOF torque-controlled robotic arm designed for manipulation,
+    contact-rich tasks, and physical human-robot interaction, offering precise force and torque control.
+
 - title: TurtleBot 4
   # subtitle: a subtitle
   # group: featured

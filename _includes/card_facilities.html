@@ -5,7 +5,7 @@
     {% if include.title %}
       <a
         {% if include.link %}
-          href="{{ include.link | relative_url }}
+          href="{{ include.link | relative_url }}"
         {% endif %}
         {% if include.tooltip %}
           data-tooltip="{{ include.tooltip }}"
