@@ -9,6 +9,6 @@ links:
   people-email: lgong024@ucr.edu
   # people-gs: https://scholar.google.com/citations?user=P6I5HF8AAAAJ
   # people-office: 466 Winston Chung Hall (WCH)
-display_1: 'Ph.D. Student in EE'
-display_2: 'starting Fall 2026'
+display_1: 'Ph.D. Student'
+display_2: 'Fall 2026 -- Present'
 ---

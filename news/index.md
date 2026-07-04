@@ -5,6 +5,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
+- 07/2026: Our lab will move to **Georgia Tech** in Fall 2026! We are actively seeking new lab members at all levels!
+- 06/2026: Four papers are accepted at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)!
+- 04/2026: Prof. Li is invited to give a keynote talk at the [IROS 2026 Workshop on Foundation Models in Multi-Robot Systems](https://zhourobotics.github.io/fm-mrs/)!
 - 03/2026: Prof. Li received an [NVIDIA Academic Grant](https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/) to investigate long-tail generalization for VLA driving. Thanks NVIDIA!
 - 03/2026: Prof. Li is invited to serve as an Area Chair for NeurIPS 2026!
 - 03/2026: One [survey paper](https://trends-in-motion-prediction-2025.github.io/) about Motion Prediction is accepted at Foundations and Trends in Robotics!

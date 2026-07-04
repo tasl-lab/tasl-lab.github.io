@@ -9,11 +9,11 @@ aliases:
   - J Zhang
 links:
   people-homepage: https://andy-zd.github.io/
-  people-email: jgz199991@gmail.com
+  people-email: jzhan744@ucr.edu
   people-gs: https://scholar.google.com/citations?user=leLTiKcAAAAJ&hl=en
   # people-office: 344 Winston Chung Hall (WCH)
-display_1: 'Ph.D. Student in CS'
-display_2: 'Fall 2024--Present'
+display_1: 'Ph.D. Student'
+display_2: 'Fall 2024 -- Present'
 ---
 
-Junge Zhang is currently a first-year PhD student at UC Riverside.
+Junge Zhang is currently a second-year Ph.D. student at UC Riverside.

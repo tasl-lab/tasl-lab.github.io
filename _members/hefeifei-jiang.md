@@ -9,6 +9,6 @@ links:
   # people-email: lgong024@ucr.edu
   # people-gs: https://scholar.google.com/citations?user=P6I5HF8AAAAJ
   # people-office: 466 Winston Chung Hall (WCH)
-display_1: 'M.S. Student in Robotics'
+display_1: 'M.S. Student'
 display_2: 'Fall 2025 -- Present'
 ---

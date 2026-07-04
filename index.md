@@ -2,7 +2,7 @@
 ---
 
 <!-- # We enhance Robotics and AI -->
-##### Welcome to the Trustworthy Autonomous Systems Laboratory at the University of California, Riverside!
+##### Welcome to the Trustworthy Autonomous Systems Laboratory! We will move to Georgia Tech in Fall 2026!
 {% include section.html %}
 ## Highlights
 {% capture text %}
@@ -127,7 +127,7 @@ interdisciplinary research that develops <em>fundamental theories</em> and <em>p
 
 
 
-This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/profile/jiachenl). Lab members consist of students with backgrounds in engineering, computer science, and mathematics. Our lab is actively seeking multiple highly motivated talents to join us as Ph.D. students (fully funded), master/undergraduate students, onsite/remote research interns (outside of UC Riverside), visiting scholars, or postdoctoral researchers. If you are interested in joining us, please follow the application instructions on the [Join Us](./join/) page.
+This lab is directed by [Prof. Jiachen Li](https://jiachenli94.github.io/). Lab members consist of students with backgrounds in engineering, computer science, and mathematics. Our lab is seeking multiple highly motivated talents to join us as Ph.D. students (fully funded), master's students, undergraduate students, onsite/remote research interns, visiting scholars, or postdoctoral researchers. If you are interested in joining us, please follow the application instructions on the [Join Us](./join/) page.
 
 {%
   include button.html
@@ -142,7 +142,7 @@ This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/pro
 
 {%
   include feature.html
-  image="images/ucr.jpg"
+  image="images/GT_campus.png"
   link="team"
   title="Our Team"
   flip=true
@@ -157,8 +157,10 @@ This lab is directed by [Prof. Jiachen Li](https://profiles.ucr.edu/app/home/pro
 
 <div style="text-align: center;">
   <img src="images/NSF.svg" alt="NSF" width="230px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
-  <img src="images/USDOT.svg" alt="USDOT" width="150px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
-  <img src="images/Oasis.svg" alt="OASIS" width="160px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
-  <img src="images/TOYOTA.svg" alt="TOYOTA" width="200px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
-  <img src="images/UCR.svg" alt="UCR" width="200px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <img src="images/USDOT.svg" alt="USDOT" width="180px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <img src="images/Oasis.svg" alt="OASIS" width="200px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <img src="images/TOYOTA.svg" alt="TOYOTA" width="240px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <br>
+  <img src="images/UCR.svg" alt="UCR" width="230px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
+  <img src="images/GT_logo.png" alt="GT" width="260px" style="display:inline-block; vertical-align: middle; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;">
 </div>

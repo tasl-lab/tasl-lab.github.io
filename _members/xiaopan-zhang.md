@@ -12,8 +12,8 @@ links:
   people-email: xzhang006@ucr.edu
   people-gs: https://scholar.google.com/citations?user=iLrGkU4AAAAJ&hl=en
   # people-office: 344 Winston Chung Hall (WCH)
-display_1: 'Ph.D. Student in EE'
+display_1: 'Ph.D. Student'
 display_2: 'Spring 2024 -- Present'
 ---
 
-Xiaopan Zhang is currently a first-year PhD student at UC Riverside.
+Xiaopan Zhang is currently a second-year Ph.D. student at UC Riverside.
