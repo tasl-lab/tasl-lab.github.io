@@ -1,5 +1,5 @@
 
 # TASL Website
 
-Visit **[tasl-lab.github.io](http://tasl-lab.github.io)** 🚀
+Visit **[tasl.ucr.edu](http://tasl.ucr.edu)** 🚀
 
